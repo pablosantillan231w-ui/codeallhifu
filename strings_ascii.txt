@@ -1,0 +1,6076 @@
+Assert failed in %s, %s:%d (%s)
+abort() was called at PC 0x%08x
+bootloader_flash_execute_command_common
+bootloader_flash_read_sfdp
+mosi_len <= 32
+/IDF/components/bootloader_support/src/bootloader_flash.c
+miso_len <= 32
+miso_byte_num <= 4
+bootloader_util_regions_overlap
+verify_load_addresses
+end1>start1
+/IDF/components/bootloader_support/include/bootloader_util.h
+end2>start2
+Calculated hash
+Expected hash
+load_end > load_addr
+/IDF/components/bootloader_support/src/esp_image_format.c
+bootloader_sha256_data
+bootloader_sha256_finish
+handle != NULL
+/IDF/components/bootloader_support/src/esp32c3/bootloader_sha.c
+data_len % 4 == 0
+bootloader_init
+&_bss_start <= &_bss_end
+/IDF/components/bootloader_support/src/esp32c3/bootloader_esp32c3.c
+&_data_start <= &_data_end
+bootloader_fill_random
+buffer != NULL
+/IDF/components/bootloader_support/src/bootloader_random.c
+WinBond
+XM25QU64A
+(1+!+
+s&&:7
+s&&:7
+;s&':7
+s&&:7
+;s'7:s
+0P["Eu
+Es% ~
+0@|"EI
+s( ~3
+E2GcF
+8@Q3!
+\B]%a
+@"D#$
+EHEA?
+@"D#$
+otadata
+spiffs
+coredump
+@eeprom
+YYs;expand
+&\:I3
+i|o)m
+SA7XT
+[expand
+eeprom
+Jeeprom
+cal_data
+o_O?/
+o_O?/
+PPPLLHLHHDJFFB
+ecal_data
+cal_data
+cal_mac
+a|hg%
+cal_mac
+cal_version
+x00pbt_config.conf
+bt_cfg_key0
+vbt_cfg_key0
+bt_cfg_key0
+[Adapter]
+LE_LOCAL_KEY_IRK = 4941f28674902f53fc6f8855e9008e25
+bt_cfg_key0
+,bt_cfg_key0
+[Adapter]
+LE_LOCAL_KEY_IRK = 4941f28674902f53fc6f8855e9008e25
+LE_LOCAL_KEY_IR = 091a487825c2b8590b12386593c1f302
+bt_cfg_key0
+t;bt_cfg_key0
+[Adapter]
+LE_LOCAL_KEY_IRK = 4941f28674902f53fc6f8855e9008e25
+LE_LOCAL_KEY_IR = 091a487825c2b8590b12386593c1f302
+LE_LOCAL_KEY_DHK = d209f5780ea894a1bdf4f19d5007fea1
+ubt_cfg_key0
+bt_cfg_key0
+b,&[Adapter]
+LE_LOCAL_KEY_IRK = 4941f28674902f53fc6f8855e9008e25
+LE_LOCAL_KEY_IR = 091a487825c2b8590b12386593c1f302
+LE_LOCAL_KEY_DHK = d209f5780ea894a1bdf4f19d5007fea1
+LE_LOCAL_KEY_ER = 5fbac43d95dcb4dd97c1fc91a5c5c719
+bt_cfg_key0
+^kf4eeprom
+eeprom
+eeprom
+Jeeprom
+eeprom
+reeprom
+eeprom
+eeprom
+eeprom
+!eeprom
+Jeeprom
+heeprom
+eeprom
+eeprom
+Jeeprom
+esp-idf: v4.4.7 38eeba213a
+arduino-lib-builder
+12:29:20
+Mar  5 2024
+v4.4.7-dirty
+BGJLZEFWV
+DJRQRNBG
+HCTRAGXV
+RIRYEHJW
+LSEVMCPQ
+OXINAMOH
+WFIAGHIF
+ANVWDIUE
+RXKDGHLI
+IFCYXNHL
+SRHYOMFQ
+AQRHUDCZ
+JMATGZXF
+PVOIMLCI
+VJSHPXUY
+BCZWYEJA
+DEPUBQLS
+FOAMNJHW
+AMTNJEIT
+UBLZDPTQ
+WUPUKVYD
+PHWIEWPT
+ALAZYISM
+DOGNLBPZ
+WNAFMUHP
+EJHDZCJY
+CUSAVUKD
+WNCCZJGA
+YASDFMIT
+BDLOULSA
+WNZHAJBB
+JDLFHWRQ
+FEGKYRDN
+TUWUTCWJ
+WKHZWLXE
+UGYSYOKW
+RBFMPXJV
+RKBTLKUU
+KZZSJGCS
+YHMDJZKE
+NZIEAYZF
+QEDCJJPH
+KKFFLFKL
+LEZLZHHO
+LHDPDFNZ
+DLUSXZBY
+EVASUASZ
+GMBLTKCL
+ZQHTKVVZ
+VXWVXFGC
+DAKHECFT
+MYKYWZMU
+IGQBAXJP
+TYCMSUHZ
+ZMMBEMHD
+DEVBPTYN
+OJVGNFQJ
+TPOUBJXO
+MVXPRONU
+UFMMNKLA
+KVWCGHGP
+TJTXBMZX
+DDPBRPIQ
+GFUNIMAU
+JHQTESMS
+IMTNLDUD
+TDMJBXKU
+FATWRXOL
+YORGYKCC
+JVUKXEFF
+LXGPAKCC
+LMXZFUCX
+NWIOIHAU
+XECGKMYW
+GCCOBRSX
+FSTUFZOW
+KLUQAHXD
+RFRCZEZS
+DMQZJFJZ
+PPIBTGKT
+PMHGBORQ
+GBCDUUHF
+XLYPBPNS
+TQUVCKTI
+KVPXSWXO
+OGWHYAOK
+IORRWNUO
+UIUKSJKE
+QDMZXYKW
+CTBEKBJP
+MBRMLZWS
+HSUHPOGT
+OBYUTOAI
+ODMADHKD
+WTJPNOWT
+CKPEIZUF
+NWTLNXZV
+WTONWNHD
+OMXKJVUW
+QOEFLJBU
+FIFYUBLY
+BXFEUCQC
+XYSRKQUD
+JJSGJVVY
+NVICODYH
+SNTFVFAQ
+LSHZNUGJ
+DNULRPRU
+LDDMMWGB
+EMMYBZUA
+SBPNMNJT
+MOXMCUGH
+OMQGJIVC
+XVNSVAYI
+QEJJURNB
+CQRDQFJH
+SMPPLAEF
+OKVPRPIP
+KQRLRWCP
+JZTXGHXS
+VWXMSJVW
+LZVKNNMX
+XALXDYKI
+DCWIUWNL
+QEJIYDEY
+NPWWQUUX
+COMKSRAW
+NAFCVHYR
+DIQYCGAJ
+HLQHABLB
+TGTQCOWH
+PZQKHZLF
+KOKOYRIA
+MCPKWOJZ
+THJKRURY
+RPNXGHTL
+WJCKPMLY
+CNGOEZLY
+ZLRCBJEX
+FADZDPJK
+RFBUHUBI
+QLSVYDIT
+JECLTSDU
+RXMNCEHN
+HWKVQDJF
+ZRKSZYJU
+CVKICMVO
+ANOUOVDU
+UUSDPSYU
+KZJTQEWQ
+CHIVVFSV
+PFNVWFLW
+CKRXHVXZ
+RZZUPSXD
+FHOLZEDL
+VXLJRMGJ
+ALJYBDQN
+HKWUNMYX
+JNMGSNBA
+IXZDVIZC
+FYRCVGJQ
+JZYTBDUH
+FXKJLFRN
+LLKBQWGR
+OVPOAPVV
+BPWLXITD
+ZAOMMUET
+LGTWSNQQ
+OQLKLZGG
+LQTKEFUJ
+GHWDYRUX
+EIXWLMSQ
+DJQDJCIM
+BOPHUXPY
+RCJCMJUJ
+CJFCAHPL
+WCJYUOYQ
+UNIDCJDZ
+YRSQXXXM
+LQBNAZKZ
+TWOGUBGV
+ZIDXDYZU
+FGBITMMT
+VXYJOQYZ
+LGGSQRIX
+USCGKZVX
+TZKYDJDQ
+NHAEEVWT
+XQYILPEK
+GTNJGWAU
+ASGFTXOW
+FYTMOKHV
+MQYDTQQK
+GSTQUUMF
+KBWLGMRZ
+ICGCHNSD
+YAVBMHYX
+KNEYCTGA
+EGTPGKQI
+ADCHEWVK
+BZLZFHCO
+MZZYMCEY
+PAANFDPU
+PHEOAIWK
+DPNEXQXK
+MKZOJVEA
+BKOHSGRB
+AKDMNGFD
+MGBGOKTX
+PTQJWLZV
+KGGCGWBI
+WDYZYQMK
+FXJGYDTJ
+JDAQILEG
+GUKQWZAG
+GNQSLCEY
+QNVSCQVR
+SGJRXHHE
+WUOBKWJK
+NRTLTKZP
+XEXLDDOF
+UOTLJLQS
+XGPKQGTV
+OEUGLWWB
+LFTPDUFU
+OWFLHOXO
+BBIQQWBC
+LIWDXYHQ
+SAIDPRKK
+HCORWYOI
+NFVECPVE
+VFEDKKJS
+ZGXMPKRH
+XFUMUYZV
+XLQANNRD
+PWPXZURO
+NGKIPZZB
+YXHCMHZA
+UNHDZASV
+XLJQPAEK
+RRXJEFZB
+HPLBDNCM
+QCOQUGBT
+BIEGACIM
+FMCXMNXY
+MNFBUPID
+UIXWPDPO
+FQRIOEJI
+EQWQENFR
+ASAAGBSU
+XWEHUJVU
+NVELMVUG
+YIGNXSMH
+VLZCOEQF
+MFEAGTLL
+FSWQRIIT
+LKGQNVGO
+OVTVYVXB
+QZVIZTNG
+DLKUWZJR
+IKBHGBKS
+EOEHCVNN
+KAILMPKL
+FGQDGDOX
+TLBVCUWG
+TGFUGJDI
+DRJCGQRW
+LPVJBZIU
+HETYAADK
+WLEEELSK
+LPJKUYQO
+XOQSIXFS
+GIATZNUI
+NGFDZWZG
+YWSAUZCF
+GSQYJGAJ
+TIBTKFTN
+USOTLNRE
+LFBDVTCJ
+RTMQRTZK
+ZBWZLRJK
+XGKXNNZS
+ZZTQECHN
+PGXWHCUF
+DFCXJEWL
+NKICSYKN
+RIKGLYNO
+TFNCMEXP
+YMIWVXRD
+MLURNWEM
+NAFHMGGB
+NVBYWMOG
+TYEBJALD
+DSFCBMNR
+HKGBDOIV
+KGDNUFVT
+LAMOHOSF
+XNCTYUGD
+RNVTVAAY
+NWVMQWJY
+FCNRYJTP
+JYZCVBCQ
+XPVMGKGP
+VBZNWOUV
+FHVYCPGF
+NNCWJZKX
+SQONHJTS
+SNUKDHTW
+MCTVUAUA
+OYIZPJDX
+EJTSVIVD
+FOOCZPWQ
+XBETUOTU
+KGBHQPAZ
+QVVEMVLV
+WGTURSNX
+QIGDHLSY
+YNZZERTH
+JQGUGSDR
+UMDSSELI
+WUSFCCAZ
+TWPHJOQX
+FWDFDFUI
+OOOTQRUZ
+UIMUHCGV
+TTJUCUUD
+AIYHKRRP
+VRGGMKZW
+SSZHRSDN
+PGWQYNIC
+DBWWRSVZ
+VPCUMKOU
+UOXDQEJB
+IMSLYUXM
+IGUYAUQJ
+EUXVPXYQ
+JTQIWQCZ
+FYNWSXCD
+NNWUAWSO
+SNUKILZY
+KKXXYIDW
+KMPDTOAL
+LLYDZKBK
+WHDHWZMN
+LFNRTUKO
+REEZTWZC
+AAYLHFJS
+CSTSAVEW
+NOZSWFNE
+PAMQLXQF
+XFRQBRNR
+ATGPDRZJ
+CYZTULGZ
+ODMDJNOD
+OQMIYALL
+BSSGYDSC
+FQSTCWNL
+NTJJYPYL
+EGAPNCDR
+THEVVZJN
+TRDCASDH
+UMQLVEOP
+DYLPCIOQ
+XFEGKXGR
+COBKQCOZ
+TIMRBYCY
+AEPIVQXE
+OMJZOUKW
+LZVQQVZE
+JQLERGFU
+WDDLLAHH
+EMOJHLBV
+GRMDWPIZ
+CNMJAHBZ
+OROTNPKS
+XKWLPOCP
+MBJXCNON
+SQPVPMOR
+PWDMADIS
+FOOBTFYO
+CUJJWDCU
+RQMUNWYT
+EPEOKVIR
+JNPYRPNV
+TXUCCFFJ
+OMJRPNBY
+EDSCMIKH
+UEGFJNEB
+HLHFQCCK
+FBHRRRIV
+RPRLOMVE
+BWUXWTIH
+CDLKPZAV
+JMKFTFBL
+YBHAFMNW
+OHCBIKWI
+BQWHJCAM
+INHRMYAR
+JTZYVIMQ
+XHTHDRBW
+SMNSLCQC
+SNWLAUFV
+YAEYUTHZ
+OIFQPWJD
+VECVBTUT
+LFIFOBNV
+UJGTFALG
+PWTYZZCC
+UFXXAWNA
+LRHOKHTN
+PQIGEOEI
+NQIOOZHN
+HFIEZIVP
+KQTYKHFR
+DPEFGDCU
+AUIZGOKA
+VBJKFRBZ
+OCONMMBW
+IRXVYJXZ
+ZXSRWCUL
+TNSTVDHK
+IZBDPPVZ
+MOXWQOAH
+HIBRTPEH
+WCMZRRCP
+FPKHYGYW
+GCDUNGTT
+KHBXNYHG
+DQATDAAA
+ONNLMVWQ
+QIVPZIYZ
+RLFDEKEL
+TPWSDJBK
+VVKAZLQF
+TFLLXTRI
+BRZCFZRG
+SJZIHNFP
+PQWWWHVN
+XFAVPPNH
+IRYBKTHK
+BGWUJANC
+PGAWUPKU
+TAONKJWW
+UMMBGSRS
+YATTDNJB
+MXNWMDWM
+FUPDNKQM
+QRHVKNQQ
+FRJYERYN
+FRPSUXFX
+TXBFNKFV
+ASQBKWIC
+UGXCTUSO
+MNFAGEQR
+WJDBLVMM
+ZIPHUTOQ
+YJIYIUZN
+BZTTPRPK
+TDKQJEXL
+TFIEEJSC
+MLJJEELX
+UGJZANYJ
+VFSCIVDL
+XEZTUWUN
+CMPIIUJP
+CDJPLMNG
+WWNMNGMM
+KDDDQZUN
+YFRDAJWL
+OWRSVUQU
+QPOAJCNA
+QWDZKDEG
+HDNBMMEM
+YWDHIIME
+QVCDHAUG
+ODJZUHKN
+CYEONQJY
+GFAHZRUR
+RMGJZYDW
+RWAJAXCR
+BCKENYVL
+OGTHJLUA
+AXLSBHWX
+ISYOFOVX
+QGJBMMSO
+UNTUIXTF
+ZUUZSIKJ
+IAABHADS
+QMIMVOWM
+KVIZZZDE
+FHZWJZND
+JNHLUUQX
+OBQRFAWS
+FEKSLQZM
+UPUOVZFT
+LJZJNVKZ
+QYUZKNLQ
+GAXPNYLJ
+KUNFVSMP
+SQJKGEOX
+AMVWIGZT
+TYVKKFGE
+BDNLDDWZ
+NOTOTJDU
+VXBIYZFJ
+IIEKBKOP
+QNWGRPXV
+GUKXTYOT
+PTQADQFV
+IWFVSKGT
+DHWCFJIB
+JRWGZHBF
+VLIDJGKE
+DVGQCXFK
+CBSEUCLZ
+FXFTYTJI
+QEJHVMAM
+KEJSCLPJ
+MHBCLHYH
+JNWKWPQR
+ZPHBRZUR
+UWBBGKUA
+ZAMPOTBI
+PUKRVJJY
+KMZGSUBJ
+LVBEYKAN
+SXXJFNQZ
+MXDSWRXM
+QCAWUKGH
+BVZDWHDB
+XZNEKRSK
+VQGRXHVK
+IMYELVGQ
+OEMIFLMZ
+LEEQRVPM
+NTSXGUPZ
+OAKLAABE
+PIDEWLPR
+HLSYHZZI
+LJLSALGF
+DMVQGIBX
+CHIMVDKL
+WWTLOGFJ
+ZOWWSEVL
+EQCDHNHU
+UWSHMYER
+PVIXVODN
+DNQKBEGA
+ORSVQHDT
+JSTQVHGV
+DYLFPULT
+CINSCCRN
+WVENWKQF
+JCXAOUDZ
+BZUHVORJ
+HPULVDIW
+FZJKKPIK
+QBLLPWIB
+HHWJCCRO
+VCLRAGJM
+DECMCQSR
+NIEERRAB
+KIACKUSU
+FKJDITSW
+FQFYKXZX
+SUBHVWLF
+JMXYHZGB
+RNVBPXLM
+TCPDPPGL
+EBLSKLQT
+PUTPUMKI
+PBGKOIMD
+QSJLBUYV
+XPIDEKZP
+UOWJQGSP
+XEAYVSVI
+YMDMCJTU
+BUEBTMVG
+HNGBVLQJ
+NFZMGATP
+IZRFMFZH
+YLAFSEYM
+LGBDZSND
+VFQMVMWK
+RQCKYPIC
+ZQXZOPJK
+AEGKLHDM
+QVJBEBQI
+YAYWYIPH
+HANMTNDI
+ICDASKPN
+WKTFCUCZ
+VEFXQWAX
+RAYXFUOW
+SPFHWZUB
+WRDBWZNQ
+FCBFHNQM
+UGKHUDCB
+TREZWTGO
+DSIWNNBT
+ZZRPSACR
+HMXNQIER
+MLVKSJMX
+QQYLWRJI
+WEKAVWDE
+DPXDXNSW
+WGEMKAQE
+PFABQCHI
+GNGPSTUS
+BWVDRXWP
+MKUAOYVR
+OVGKYBPB
+SRKUCOMN
+AHAXNJJZ
+JHBTDPHJ
+WIQWRIKB
+YVMNPCSW
+XVUXNEOK
+INQTEOTE
+SLVSNQCU
+YEPRHVEC
+OJKTIYWU
+LLZCJERM
+KCSLZWGD
+TBKOOZEQ
+ILLBDMBK
+YLDSTGAW
+UXIPBHBT
+FZUAIGTQ
+DEHWKHAP
+VHAVJPFZ
+FXCRARAQ
+UPPVAVAC
+LYWSINXD
+GJMYZIUZ
+JJJPQZNF
+DLEMEUJR
+OCJTOEOO
+IKEAXNOR
+DAYPIGZV
+LVOWCBUM
+PYXFZMGL
+VVOUUTVB
+KIIGOQKE
+VJVVEPDG
+DEHOPHCV
+GGKYBSJN
+VIZZWJNX
+DMTTWCUU
+QJZSSOPY
+GLCGOTVX
+XXWCNOZB
+SFSYJRIA
+PXALVTAW
+IPFGXJZN
+LVPSKEYA
+TMCAFSGA
+LMKAFUWG
+OXUZAMGD
+CZNWJGBL
+SFRTNGJD
+HIZYUXSL
+VFPBGZER
+GWIDJRIL
+ZSKJMEXN
+MXXSZYBJ
+ESPOXUHJ
+CGAEVGRO
+GWMXIJSW
+QFWMLKQH
+NQUMROIF
+GHFHTFBK
+CITWXLOF
+FQYCXTDQ
+GQMDOSIO
+RBZNBZEV
+CDHRJLKX
+KVKZJSFC
+DRYMLIJV
+YAYUTEMT
+BBVALYOM
+SHXKTDCL
+ZQFQYKHK
+ZETHQHVJ
+STTTATDS
+GNIXWZKB
+PQEEZOZI
+PDXDTBBI
+LTWBSFRO
+UNZIVTUA
+KAAFGGYS
+ZQLNAFXY
+WOBCUSMN
+CPUCFHXW
+QMGWSAYR
+WDCRZCXK
+XGTSYNSK
+REGRAXFE
+NIPQJMQR
+HCYMKTTU
+GEDUPHXX
+PRDQTLVY
+NNTTOBSH
+NPMDKTZR
+KZQLRVPM
+OJGVHRPX
+BTAGFQQI
+JBUCOSZM
+KDDUCAZL
+GLLHDAQF
+EMNHNIOM
+KKXECGWW
+RNRFHXGJ
+JWQQWKZI
+OSZDSRJW
+ZYPQLGFJ
+EMKKOXPO
+GYYGRLSX
+QCOQSREQ
+YMFKYUNA
+WEWFXUON
+XBPOCVKX
+WNIGEYQU
+UHANIBJT
+YJTPJAWL
+CGDFAQXQ
+MTZFFKCB
+DAJZRFQF
+UWDOYJMX
+WVJTKIUX
+TVFGIXDO
+TRDYFSLQ
+XDTRBQEP
+CKRBPFFG
+MGUOGQPT
+RIGSVFBU
+GQUFRPHX
+IRSJUOIK
+EJTYMFQH
+JVSINSEC
+WDBQEFXU
+ZMPCJEAE
+JVFDUXLH
+GGTSMBVX
+YTURMLXH
+XBOWNTMZ
+RUTNZTDG
+PKLYPSHL
+TYOMDNTF
+ENHARWIH
+JSCLEDCV
+EPURRXSF
+SARFKMLR
+SEZPLVYF
+ACXODRSJ
+TWZMDSOO
+AMAWCRTN
+PWHTLGFM
+UIHGEPLQ
+SWCGHAEP
+KMLEGLBZ
+VCWAOBAC
+IOKHOUGN
+TWLJSPDQ
+URNISZRF
+LMOORVNC
+YCHAPGNX
+ECACOZUV
+BTMDYAWE
+HHMHWNXC
+MGTQOOQP
+ISDZKPXT
+EEPFSCCU
+MWMMJQYU
+OOYDUJJJ
+IYQDNKCL
+QDVYBFMC
+AHVTTIUX
+KKMRVJFB
+MACFDAWK
+DDETDZVF
+CBSJARAZ
+DFYCZDFH
+IFMLUHCZ
+YXGPSEZE
+KALEWFPV
+UVNGWWTF
+ZSOBKCSN
+STWDCIHA
+ZGFQPAMV
+TUOAQUKQ
+JALRCCQX
+KXVFPRHD
+SROEWOZA
+XHDVKGHD
+SPXLXTOD
+YQLASONP
+DEJINEYC
+PMEDMFLU
+LKYHZWXX
+IHHCXOZW
+OHUJQXFR
+WUYYRFEV
+BZKQWCUH
+YDYYJCEY
+EVVPUWMW
+GZKRTJNO
+ZZMSOOIA
+KCIOAKLC
+LXIFDBSN
+SMDBRLJM
+FQHSRGUS
+ERSAZFQP
+NIVHZMMS
+QQIMVQAP
+JTWIMNIF
+SOHCPRBR
+OZSNZYMW
+QLBRMJAU
+TVWPZWIB
+PFYLPRBN
+KAXRCEOC
+ROOXHCJK
+VUVOBJMB
+MCSCCDLS
+WNKKZYAZ
+ZSWWLOZQ
+VIDMFVHO
+SZOIYWQY
+IGVBVNTB
+AZOPRRSC
+LMSWICLU
+QGUJHICK
+IIOKJGIH
+HQQOILQD
+MYBJNNBW
+OFKUWKCU
+WXNGNDQD
+YBAXHURG
+KXWEEPFJ
+CLFWRPFY
+PSOQBXGY
+KMHTBSIQ
+HQZSVSYM
+GXZBIPQE
+SKHUJDIS
+MCHZWUTG
+ZFVAIQGW
+SKGIBDNX
+JCLUBMQA
+BCLDKVEH
+RJCHMUUQ
+EIMIBXDO
+BTGUJEJA
+NVZRPWXH
+FETJUGUC
+IJHENQKA
+CWNGCFWV
+DBWTCWTG
+MZEFWMBG
+LIZAFURQ
+TBWBOAZR
+OKZJRZMH
+ZBZJORLP
+GCWNNTTL
+ZPDIBBJV
+MFJURMLX
+MATIGBJF
+TIXGKZFT
+JKRWXTLP
+KQQLENPP
+GHAEHSGV
+RNBTSWZG
+FBEVLNVF
+NNVEXPAC
+FGGDJPBU
+JDCKTSDJ
+EWOSNZME
+TMVRQLRO
+RKDVPDOW
+MTACIFRD
+GULTWUPQ
+DKVDGWGL
+KNHHXIEK
+DFRUUDWH
+OLOCFMTI
+QZYKMXDY
+ZKLWWGJG
+OKNUJOQD
+WBNMVERV
+JNMBSJGT
+LAYMAKNP
+DHNXTLWA
+LUQYYVYM
+CLYOLOAP
+LRYPKPNM
+HVIGDFHI
+EZZQVZFH
+WJCXFXMR
+JVJAWSRA
+VMQMCBSK
+JFOFVXXQ
+MITPMLNX
+RYMCABAT
+RMFWBSXL
+EXRANMNF
+QYIWOQNF
+KDXIFBRZ
+JAVRHGGH
+ESAOSMRO
+RZKBMRET
+WRUZGPQV
+QGCJDULC
+HTPGRMLH
+TFACJOCZ
+KMHVLSIX
+LZYIUHYZ
+REXHBZCB
+ZVHLKMAP
+EFSXDTIT
+LKUNJPWF
+FYVQRFYK
+CEOOWTRV
+DHTWQTAM
+UAMOVXYS
+OYJAXAMY
+CJRPQALP
+SKSICIWH
+GWMBORWL
+OYHGNQUA
+CURJNWRT
+YURIZPKU
+TYFAGRVP
+YKVXFYDF
+IOCCTQDM
+LOWCOBMT
+DCYDYSBF
+DTQMWLFL
+VUPNTMTA
+SFZLBNWU
+GQOKBNSG
+GHQNUHWI
+KVEGYNSN
+OZIBBYVC
+RDSLPNQH
+VDXQXHDR
+JBOGQTOO
+WPXRPEEM
+XLTFBZZI
+WJWYBSKS
+XEESBUFT
+KJXVOSFB
+AQSQSNJG
+FOAQNZMY
+OCBBRDJI
+IJVGLNIN
+JZIHQIAH
+MBLJTRQV
+DRVTOQXF
+MYJTQWGZ
+JVNQWZFV
+VSTFBSNS
+NHLTSQDF
+QIAQDFEB
+XMKICEWQ
+AVFNGDBX
+TQXBVTXY
+YOQURGXG
+SUKQURRS
+UFPNMBZP
+LGMMLVSL
+RREUNNLD
+VKPUUCTN
+AEKPXSCI
+PRIPUZXZ
+SNPDICGJ
+SQFVSXNJ
+VYKIWKVA
+WXLSOYZM
+PRRJJUFC
+LZIMKOVR
+QKDPYBZZ
+SLDRUPCG
+ZDNCGPVP
+BSEUZFJM
+VLCFEYGG
+IPRGOIKR
+AEEJMCDX
+JBJETQPI
+KFFDNNDS
+YDGSXUED
+QHFOBIRP
+JBIAVYDO
+CUSIFQIK
+MMREKBBH
+OVVIGQPY
+EKTMKEHY
+GRSUDQBI
+ZXNXIASD
+RVQMBJLV
+0000000
+reiniciar
+SKPG94JGXW
+consulta
+Cargador S2311
+cd2cfdfb-f777-4ae7-a72d-54384ec14a79
+6147cc25-b286-49a3-a7c2-e48528c22bf8
+0a355e53-0375-4d27-89b7-c324e4e6cb9c
+07137dc4-bf76-4540-8140-7f569b03e8bd
+3basic_string::_M_construct null not valid
+B%02x:%02x:%02x:%02x:%02x:%02x
+%x:%x:%x:%x:%x:%x
+Name: 
+, Address: 
+, appearance: 
+, manufacturer data: 
+, serviceUUID: 
+, txPower: 
+, rssi: 
+, serviceData: 
+startAdvert
+BexecuteCreate
+getService() != nullptr
+/C:\Users\Pc\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\BLE\src\BLECharacteristic.cpp
+getService()->getServer() != nullptr
+indicate
+<Unknown>
+CreateEvt
+ConfEvt
+SetValue
+void BLECharacteristic::notify(bool)
+map::at
+handle: 0x
+, uuid: 
+getServices
+connect
+getRssi
+peer address: 
+Services:
+RegEvt
+OpenEvt
+SearchCmplEvt
+RssiCmplEvt
+BwriteValue
+registerForNotify
+Characteristic: uuid: 
+, handle: 
+, props: 
+readValue
+ReadCharEvt
+RegForNotifyEvt
+WriteCharEvt
+ReadDescrEvt
+WriteDescrEvt
+BService: uuid: 
+, start_handle: 
+, end_handle: 
+GetCharEvt
+ScanEnd
+registerApp
+createService
+RegisterAppEvt
+executeDelete
+DeleteEvt
+StartEvt
+StopEvt
+/C:\Users\Pc\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\BLE\src\BLEUUID.cpp
+<NULL>
+-0000-1000-8000-00805f9b34fb
+%02x%02x%02x%02x-%02x%02x-%02x%02x-%02x%02x-%02x%02x%02x%02x%02x%02x
+void memrcpy(uint8_t*, uint8_t*, uint32_t)
+broadcast: 
+, read: 
+, write_nr: 
+, write: 
+, notify: 
+, indicate: 
+, auth: 
+false
+/C:\Users\Pc\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\BLE\src\FreeRTOS.cpp
+<N/A>
+bool FreeRTOS::Semaphore::timedWait(std::__cxx11::string, uint32_t)
+%.2x 
+expand
+eeprom
+Buart_event_task
+uartFlushTxOnly
+uart_flush_input(uart->num)
+uart_intr_config(uart->num, &uart_intr)
+C:\Users\Pc\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\cores\esp32\esp32-hal-uart.c
+loopTask
+prvGetFreeSize
+prvCheckItemFitsDefault
+prvCheckItemFitsByteBuffer
+prvAcquireItemNoSplit
+prvSendItemDoneNoSplit
+prvCopyItemAllowSplit
+prvCopyItemByteBuf
+prvGetItemDefault
+prvGetItemByteBuf
+prvReturnItemDefault
+prvReturnItemByteBuf
+prvReceiveGeneric
+prvReceiveGenericFromISR
+xRingbufferCreate
+xRingbufferSend
+xRingbufferSendFromISR
+xRingbufferReceive
+xRingbufferReceiveFromISR
+xRingbufferReceiveUpTo
+vRingbufferReturnItem
+vRingbufferReturnItemFromISR
+vRingbufferDelete
+xRingbufferGetMaxItemSize
+( ( ( UBaseType_t ) ( pxRingbuffer->pucAcquire ) & (0x03) ) == 0 )
+pxRingbuffer->pucAcquire >= pxRingbuffer->pucHead && pxRingbuffer->pucAcquire < pxRingbuffer->pucTail
+xRemLen >= sizeof(ItemHeader_t)
+xReturn <= pxRingbuffer->xSize
+(pxRingbuffer->xItemsWaiting > 0) && ((pxRingbuffer->pucRead != pxRingbuffer->pucWrite) || (pxRingbuffer->uxRingbufferFlags & ( ( UBaseType_t ) 4 )))
+/IDF/components/esp_ringbuf/ringbuf.c
+pxRingbuffer->pucRead >= pxRingbuffer->pucHead && pxRingbuffer->pucRead < pxRingbuffer->pucTail
+pxRingbuffer->pucRead == pxRingbuffer->pucFree
+pxIsSplit != ((void *)0)
+( ( ( UBaseType_t ) ( pxRingbuffer->pucRead ) & (0x03) ) == 0 )
+(pxHeader->xItemLen <= pxRingbuffer->xMaxItemSize) || (pxHeader->uxItemFlags & ( ( UBaseType_t ) 2 ))
+pxHeader->xItemLen <= pxRingbuffer->xMaxItemSize
+pcReturn >= pxRingbuffer->pucHead && pcReturn <= pxRingbuffer->pucTail
+pcReturn >= pxRingbuffer->pucHead && pcReturn < pxRingbuffer->pucTail
+*pvItem2 < *pvItem1
+xIsSplit == ( ( BaseType_t ) 0 )
+(uint8_t *)pucItem >= pxRingbuffer->pucHead
+(uint8_t *)pucItem < pxRingbuffer->pucTail
+( ( ( UBaseType_t ) ( pucItem ) & (0x03) ) == 0 )
+pucItem >= pxRingbuffer->pucHead
+pucItem <= pxRingbuffer->pucTail
+pxCurHeader->xItemLen <= pxRingbuffer->xMaxItemSize
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 2 )) == 0
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 1 )) == 0
+pxRingbuffer->pucFree <= pxRingbuffer->pucHead + pxRingbuffer->xSize
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 8 )) == 0
+pxRingbuffer->pucWrite <= pxRingbuffer->pucHead + pxRingbuffer->xSize
+xBufferSize > 0
+xBufferType < RINGBUF_TYPE_MAX
+pxRingbuffer->uxRingbufferFlags & ( ( UBaseType_t ) 2 )
+pvItem != ((void *)0) || xItemSize == 0
+pxRingbuffer
+ppvItem != ((void *)0) || xItemSize == 0
+(pxRingbuffer->uxRingbufferFlags & (( ( UBaseType_t ) 2 ) | ( ( UBaseType_t ) 1 ))) == 0
+pvItem != ((void *)0)
+gpio_pullup_en
+gpio_pullup_dis
+gpio_pulldown_en
+gpio_pulldown_dis
+gpio_set_intr_type
+gpio_intr_enable_on_core
+gpio_intr_enable
+gpio_intr_disable
+gpio_input_disable
+gpio_input_enable
+gpio_output_disable
+gpio_output_enable
+gpio_od_disable
+gpio_od_enable
+gpio_set_level
+gpio_set_pull_mode
+gpio_set_direction
+gpio_sleep_pullup_en
+gpio_sleep_pullup_dis
+gpio_sleep_pulldown_en
+gpio_sleep_pulldown_dis
+gpio_sleep_set_direction
+gpio_sleep_set_pull_mode
+gpio_sleep_sel_en
+gpio_sleep_sel_dis
+gpio_config
+E (%u) %s: GPIO_PIN mask error 
+io_reg != (intptr_t)NULL
+/IDF/components/driver/gpio.c
+GPIO number error
+E (%u) %s: %s(%d): %s
+GPIO output gpio_num error
+GPIO interrupt type error
+GPIO pull mode error
+uart_set_word_length
+uart_get_word_length
+uart_set_stop_bits
+uart_get_stop_bits
+uart_set_parity
+uart_get_parity
+uart_set_baudrate
+uart_get_baudrate
+uart_set_line_inverse
+uart_reenable_intr_mask
+uart_disable_intr_mask
+uart_pattern_queue_reset
+uart_enable_tx_intr
+uart_isr_register
+uart_set_pin
+uart_param_config
+uart_intr_config
+uart_wait_tx_done
+uart_write_bytes
+uart_read_bytes
+uart_get_buffered_data_len
+uart_get_tx_buffer_free_size
+uart_flush_input
+uart_driver_install
+uart_driver_delete
+uart_set_rx_full_threshold
+uart_set_rx_timeout
+rtc_clk_disable
+uart_wait_tx_done
+rtc_enabled & RTC_ENABLED(uart_num)
+E (%u) %s: %s(%d): uart rx buffer length error
+E (%u) %s: %s(%d): uart tx buffer length error
+E (%u) %s: UART driver malloc error
+E (%u) %s: UART driver already installed
+E (%u) %s: %s(%d): empty intr threshold error
+E (%u) %s: rx_buffered_len error
+E (%u) %s: %s(%d): arg pointer is NULL
+E (%u) %s: %s(%d): param null
+E (%u) %s: %s(%d): uart driver error
+E (%u) %s: %s(%d): uart_num error
+E (%u) %s: %s(%d): rx flow thresh error
+E (%u) %s: %s(%d): hw_flowctrl mode error
+E (%u) %s: %s(%d): tx_io_num error
+E (%u) %s: %s(%d): rx_io_num error
+E (%u) %s: %s(%d): rts_io_num error
+E (%u) %s: %s(%d): cts_io_num error
+E (%u) %s: %s(%d): rx fifo full threshold value error
+E (%u) %s: call uart_driver_install API first
+E (%u) %s: tout_thresh = %d > maximum value = %d
+E (%u) %s: %s(%d): stop bit error
+E (%u) %s: %s(%d): data bit error
+E (%u) %s: %s(%d): buffer null
+!(is_rs485_mode && disabled && uart_hal_get_intraw_mask(&(uart_context[uart_num].hal)) & UART_INTR_TX_DONE)
+/IDF/components/driver/uart.c
+E (%u) %s: %s(%d): uart size error
+E (%u) %s: %s(%d): uart data null
+E (%u) %s: %s(%d): break_num error
+periph_module_enable
+periph_module_disable
+periph_module_reset
+periph < PERIPH_MODULE_MAX
+/IDF/components/driver/periph_ctrl.c
+esp_ota_get_app_partition_count
+esp_ota_get_running_partition
+E (%u) %s: Rollback is not possible, do not have any suitable apps in slots
+E (%u) %s: Running firmware is factory
+ota_app_count < 16 && "must erase the partition before writing to it"
+phys_offs != SPI_FLASH_CACHE2PHYS_FAIL
+/IDF/components/app_update/esp_ota_ops.c
+it != NULL
+esp_ota_ops
+E (%u) %s: not found otadata
+E (%u) %s: mmap otadata filed. Err=0x%8x
+boot_comm
+E (%u) %s: mismatch chip ID, expected %d, found %d
+E (%u) %s: Image requires chip rev >= v%d.%d, but chip is v%d.%d
+E (%u) %s: Image requires chip rev <= v%d.%d, but chip is v%d.%d
+bootloader_flash_execute_command_common
+bootloader_mmap
+E (%u) %s: tried to bootloader_mmap twice
+E (%u) %s: spi_flash_mmap failed: 0x%x
+mosi_len <= 32
+/IDF/components/bootloader_support/src/bootloader_flash.c
+miso_len <= 32
+miso_byte_num <= 4
+E (%u) %s: partition size 0x%x invalid, larger than 16MB
+E (%u) %s: image at 0x%x has invalid magic byte (nothing flashed here?)
+E (%u) %s: image at 0x%x segment count %d exceeds max %d
+E (%u) %s: Checksum failed. Calculated 0x%x read 0x%x
+Calculated hash
+E (%u) %s: Image hash failed - image is corrupt
+Expected hash
+E (%u) %s: Image length %d doesn't fit in partition length %d
+esp_image
+E (%u) %s: bootloader_flash_read failed at 0x%08x
+E (%u) %s: invalid segment length 0x%x
+E (%u) %s: Segment %d load address 0x%08x, doesn't match data 0x%08x
+E (%u) %s: bootloader_mmap(0x%x, 0x%x) failed
+E (%u) %s: image offset has wrapped
+bootloader_sha256_data
+bootloader_sha256_finish
+handle != NULL
+/IDF/components/bootloader_support/src/idf/bootloader_sha.c
+ret == 0
+esp_partition_next
+esp_partition_get
+esp_partition_read
+esp_partition_write
+esp_partition_read_raw
+esp_partition_write_raw
+esp_partition_erase_range
+esp_partition_mmap
+partition
+E (%u) %s: No MD5 found in partition table
+E (%u) %s: Partition table MD5 mismatch
+E (%u) %s: load_partitions returned 0x%x
+iterator != NULL
+/IDF/components/spi_flash/partition.c
+partition != NULL
+spi_flash_mmap_pages
+spi_flash_munmap
+s_mmap_page_refcnt[i] == 0 || (entry_pro == SOC_MMU_PAGE_IN_FLASH(pages[pageno]) )
+/IDF/components/spi_flash/flash_mmap.c
+DPORT_SEQUENCE_REG_READ((uint32_t)&SOC_MMU_DPORT_PRO_FLASH_MMU_TABLE[i]) & MMU_INVALID
+s_mmap_page_refcnt[i] > 0
+0 && "invalid handle, or handle already unmapped"
+esp_mspi_get_io
+io <= ESP_MSPI_IO_WP
+/IDF/components/spi_flash/flash_ops.c
+spi_flash
+esp_flash_erase_region
+esp_flash_write
+esp_flash_write_encrypted
+E (%u) %s: unexpected spi flash error code: 0x%x
+E (%u) %s: failed to get chip size
+len_remain < len
+/IDF/components/spi_flash/esp_flash_api.c
+len_remain < length
+E (%u) %s: flash encrypted write address must be 16 bytes aligned
+E (%u) %s: flash encrypted write length must be multiple of 16
+bus_acquired
+spi_flash
+E (%u) %s: Detected size(%dk) smaller than the size in the binary image header(%dk). Probe failed.
+spi1_flash_os_check_yield
+chip_status == 0
+/IDF/components/spi_flash/spi_flash_os_func_app.c
+findItem(nsIndex, datatype, key, findPage, item)
+IDF/components/nvs_flash/src/nvs_storage.cpp
+esp_err_t nvs::Storage::writeItem(uint8_t, nvs::ItemType, const char*, const void*, size_t)
+Bfalse && "Unhandled state"
+UNINITIALIZED
+CORRUPT
+FREEING
+ACTIVE
+0 && "invalid state value"
+/IDF/components/nvs_flash/src/nvs_page.cpp
+state=%x (%s) addr=%x seq=%d
+firstUsed=%d nextFree=%d used=%d erased=%d
+%3d: 
+Failed to read entry state
+W ns=%2u type=%2u span=%3u key="%s" chunkIdx=%d len=%d
+esp_err_t nvs::Page::calcEntries(nvs_stats_t&)
+static const char* nvs::Page::pageStateToName(nvs::Page::PageState)
+mPageList.back().getSeqNumber(lastSeqNo)
+IDF/components/nvs_flash/src/nvs_pagemanager.cpp
+esp_err_t nvs::PageManager::load(nvs::Partition*, uint32_t, uint32_t)
+pthread_cancel
+pthread_once
+pthread_mutex_destroy
+pthread_mutex_unlock
+E (%u) %s: %s: not supported!
+pthread
+E (%u) %s: Failed to allocate task args!
+E (%u) %s: Failed to allocate pthread data!
+E (%u) %s: Failed to create task!
+false && "Failed to lock threads list!"
+/IDF/components/pthread/pthread.c
+false && "Failed to release mutex!"
+E (%u) %s: %s: Invalid args!
+false && "Failed to unlock mutex!"
+pthread_local_storage_thread_deleted_callback
+tls != NULL
+/IDF/components/pthread/pthread_local_storage.c
+esp_task_wdt_init
+esp_intr_alloc(ETS_TG0_WDT_LEVEL_INTR_SOURCE, 0, task_wdt_isr, NULL, &twdt_config->intr_handle)
+IDF/components/esp_system/task_wdt.c
+task_wdt
+E (%u) %s: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+E (%u) %s:  - %s (%s)
+E (%u) %s: %s
+E (%u) %s: CPU %d: %s
+E (%u) %s: Aborting.
+cpu_start
+E (%u) %s: Memprot feature locked after the system reset! Potential safety corruption, rebooting.
+E (%u) %s: Failed to set Memprot feature (0x%08X: %s), rebooting.
+esp_clk_init
+rtc_clk_xtal_freq_get() == RTC_XTAL_FREQ_40M
+/IDF/components/esp_system/port/soc/esp32c3/clk.c
+'esp_reset_reason_set_hint
+(hint & (~RST_REASON_MASK)) == 0
+/IDF/components/esp_system/port/soc/esp32c3/reset_reason.c
+Guru Meditation Error: Core 
+ panic'ed (
+Setting breakpoint at 0x
+ and returning...
+ELF file SHA256: 
+Re-entered core dump! Exception happened during core dump!
+Rebooting...
+do_core_init
+vfs_err == ESP_OK && "Failed to register vfs console"
+/IDF/components/esp_system/startup.c
+/dev/console/
+err == ESP_OK && "Failed to init pthread module!"
+flash_ret == ESP_OK
+BUnknown
+<Exception was unhandled.
+Stack memory:
+Core 
+ register dump:
+Unknown reason
+Cache error
+Memory protection fault
+EXTMEM_CORE0_ACS_CACHE_INT_ST_REG = 0x
+EXTMEM_CACHE_ILG_INT_ST_REG = 0x
+DRAM0_SRAM
+IRAM0_RTCFAST
+IRAM0_ANY
+IRAM0_SRAM
+  - no details available -
+  memory type: 
+  faulting address: 
+N/A (error 
+  world: 
+  operation type: 
+  byte-enables: 
+<Instruction address misaligned
+Instruction access fault
+Illegal instruction
+Breakpoint
+Load address misaligned
+Load access fault
+Store address misaligned
+Store access fault
+Environment call from U-mode
+Environment call from S-mode
+Environment call from M-mode
+Instruction page fault
+Load page fault
+Store page fault
+MMU entry fault
+preload configurations fault
+sync configurations fault
+dbus tried to write cache
+dbus authentication failed
+access to cache while dbus or cache is disabled
+ibus authentication failed
+ibus tried to write cache
+access to cache while ibus or cache is disabled
+Interrupt wdt timeout on CPU0
+MEPC    
+RA      
+SP      
+GP      
+TP      
+T0      
+T1      
+T2      
+S0/FP   
+S1      
+A0      
+A1      
+A2      
+A3      
+A4      
+A5      
+A6      
+A7      
+S2      
+S3      
+S4      
+S5      
+S6      
+S7      
+S8      
+S9      
+S10     
+S11     
+T3      
+T4      
+T5      
+T6      
+MSTATUS 
+MTVEC   
+MCAUSE  
+MTVAL   
+MHARTID 
+translate_path
+strncmp(src_path, vfs->path_prefix, vfs->path_prefix_len) == 0
+/IDF/components/vfs/vfs.c
+/dev/uart
+/dev/secondary
+/dev/console
+Busb_serial_jtag_return_char
+s_ctx.peek_char == NONE
+/IDF/components/vfs/vfs_usb_serial_jtag.c
+uart_write
+uart_return_char
+uart_read
+uart_fstat
+uart_close
+uart_fcntl
+uart_fsync
+fd >=0 && fd < 3
+/IDF/components/vfs/vfs_uart.c
+fd >= 0 && fd < 3
+s_ctx[fd]->peek_char == NONE
+?esp_log_level_set
+get_cached_log_level
+i == 0 || s_log_cache[(i - 1) / 2].generation < s_log_cache[i].generation
+/IDF/components/log/log.c
+dram_alloc_to_iram_addr
+heap_caps_malloc
+heap_caps_malloc_default
+heap_caps_realloc_default
+heap_caps_free
+heap_caps_realloc_base
+heap_caps_realloc
+heap_caps_calloc
+esp_ptr_in_diram_dram((void *)dstart)
+/IDF/components/heap/heap_caps.c
+esp_ptr_in_diram_dram((void *)dend)
+(dstart & 3) == 0
+(dend & 3) == 0
+heap != NULL && "free() target pointer is outside heap areas"
+heap != NULL && "realloc() pointer is outside heap areas"
+old_size > 0
+register_heap
+heap_caps_init
+heap_idx <= num_heaps
+heap_idx == num_heaps
+SLIST_EMPTY(&registered_heaps)
+heaps_array != NULL
+heap_size <= HEAP_SIZE_MAX
+/IDF/components/heap/heap_caps_init.c
+multi_heap_register_impl
+multi_heap_realloc_impl
+CORRUPT HEAP: multi_heap.c:%d detected at 0x%08x
+heap != NULL
+start_ptr
+/IDF/components/heap/multi_heap.c
+search_suitable_block
+remove_free_block
+insert_free_block
+block_split
+block_absorb
+block_merge_prev
+block_merge_next
+block_trim_free
+block_trim_used
+block_locate_free
+control_construct
+tlsf_free
+tlsf_realloc
+%p %s size: %x (%p)
+tlsf_add_pool: Memory must be aligned by %u bytes.
+tlsf_add_pool: Memory size must be between %u and %u bytes.
+current && "free list cannot have a null entry"
+/IDF/components/heap/heap_tlsf.c
+block_to_ptr(block) == align_ptr(block_to_ptr(block), ALIGN_SIZE) && "block not aligned properly"
+tlsf_create: Memory must be aligned to %u bytes.
+sizeof(unsigned int) * CHAR_BIT >= control->sl_index_count && "CHAR_BIT less than sl_index_count"
+ALIGN_SIZE == control->small_block_size / control->sl_index_count && "ALIGN_SIZE does not match"
+!block_is_free(block) && "block already marked as free"
+prev && "prev physical block can't be null"
+block_is_free(prev) && "prev block is not free though marked as such"
+!block_is_last(prev) && "previous block can't be last"
+next && "next physical block can't be null"
+!block_is_last(block) && "previous block can't be last"
+sl_map && "internal error - second level bitmap is null"
+block_size(block) >= size
+block_is_free(block) && "block must be free"
+block_to_ptr(remaining) == align_ptr(block_to_ptr(remaining), ALIGN_SIZE) && "remaining block not aligned properly"
+block_size(block) == remain_size + size + block_header_overhead
+block_size(remaining) >= block_size_min && "block split with invalid size"
+!block_is_free(block) && "block must be used"
+block_is_free(block) && "block should be free"
+!block_is_free(block_next(block)) && "next block should not be free"
+block_size(block_next(block)) == 0 && "next block size should be zero"
+prev && "prev_free field can not be null"
+next && "next_free field can not be null"
+multi_heap_free
+multi_heap_realloc
+multi_heap_get_allocated_size
+head != NULL
+/IDF/components/heap/multi_heap_poisoning.c
+CORRUPT HEAP: Bad head at %p. Expected 0x%08x got 0x%08x
+CORRUPT HEAP: Bad tail at %p. Expected 0x%08x got 0x%08x
+s_prepare_reserved_regions
+reserved[i].start <= reserved[i].end
+/IDF/components/heap/port/memory_layout_utils.c
+reserved[i + 1].start > reserved[i].start
+memory_layout
+E (%u) %s: SOC_RESERVE_MEMORY_REGION region range 0x%08x - 0x%08x overlaps with 0x%08x - 0x%08x
+STACK/DRAM
+D/IRAM
+STACK/DIRAM
+RTCRAM
+esp_fill_random
+buf != NULL
+/IDF/components/esp_hw_support/hw_random.c
+find_desc_for_source
+is_vect_desc_usable
+esp_intr_free
+esp_intr_disable
+!((vd->flags&VECDESC_FL_SHARED)&&(vd->flags&VECDESC_FL_NONSHARED))
+/IDF/components/esp_hw_support/intr_alloc.c
+svd != NULL
+esp_efuse_mac_get_default
+system_api
+E (%u) %s: Base MAC address is NULL
+E (%u) %s: Base MAC must be a unicast MAC
+E (%u) %s: mac address param is NULL
+(size_bits % 8) == 0
+/IDF/components/esp_hw_support/mac_addr.c
+E (%u) %s: eFuse MAC_CUSTOM is empty
+E (%u) %s: mac type is incorrect
+set_ocode_by_efuse
+get_dig_dbias_by_efuse
+get_rtc_dbias_by_efuse
+chip_version >= 3
+/IDF/components/esp_hw_support/port/esp32c3/rtc_init.c
+err == ESP_OK
+sar_periph_ctrl_pwdet_power_release
+s_sar_adc_power_release
+temperature_sensor_power_release
+sar_periph_ctrl
+E (%u) %s: %s called, but s_saradc_power_on_cnt == 0
+E (%u) %s: %s called, but s_pwdet_power_on_cnt == 0
+4@temperature_sensor
+E (%u) %s: %s called, but s_temperature_sensor_power_cnt == 0
+WRITE
+PMS_WORLD_INVALID
+PMS_WORLD_NONE
+PMS_WORLD_1
+PMS_WORLD_2
+PMS_WORLD_ALL
+PMS_WORLD_0
+assert_valid_rv_int_num
+intr_matrix_route
+rv_int_num != 0 && rv_int_num < RV_INT_COUNT && "Invalid CPU interrupt number"
+/IDF/components/riscv/interrupt.c
+intr_num != 0
+<ESP_FAIL
+ESP_OK
+ESP_ERR_NO_MEM
+ESP_ERR_INVALID_ARG
+ESP_ERR_INVALID_STATE
+ESP_ERR_INVALID_SIZE
+ESP_ERR_NOT_FOUND
+ESP_ERR_NOT_SUPPORTED
+ESP_ERR_TIMEOUT
+ESP_ERR_INVALID_RESPONSE
+ESP_ERR_INVALID_CRC
+ESP_ERR_INVALID_VERSION
+ESP_ERR_INVALID_MAC
+ESP_ERR_NOT_FINISHED
+ESP_ERR_NVS_BASE
+ESP_ERR_NVS_NOT_INITIALIZED
+ESP_ERR_NVS_NOT_FOUND
+ESP_ERR_NVS_TYPE_MISMATCH
+ESP_ERR_NVS_READ_ONLY
+ESP_ERR_NVS_NOT_ENOUGH_SPACE
+ESP_ERR_NVS_INVALID_NAME
+ESP_ERR_NVS_INVALID_HANDLE
+ESP_ERR_NVS_REMOVE_FAILED
+ESP_ERR_NVS_KEY_TOO_LONG
+ESP_ERR_NVS_PAGE_FULL
+ESP_ERR_NVS_INVALID_STATE
+ESP_ERR_NVS_INVALID_LENGTH
+ESP_ERR_NVS_NO_FREE_PAGES
+ESP_ERR_NVS_VALUE_TOO_LONG
+ESP_ERR_NVS_PART_NOT_FOUND
+ESP_ERR_NVS_NEW_VERSION_FOUND
+ESP_ERR_NVS_XTS_ENCR_FAILED
+ESP_ERR_NVS_XTS_DECR_FAILED
+ESP_ERR_NVS_XTS_CFG_FAILED
+ESP_ERR_NVS_XTS_CFG_NOT_FOUND
+ESP_ERR_NVS_ENCR_NOT_SUPPORTED
+ESP_ERR_NVS_KEYS_NOT_INITIALIZED
+ESP_ERR_NVS_CORRUPT_KEY_PART
+ESP_ERR_NVS_CONTENT_DIFFERS
+ESP_ERR_NVS_WRONG_ENCRYPTION
+ESP_ERR_OTA_BASE
+ESP_ERR_OTA_PARTITION_CONFLICT
+ESP_ERR_OTA_SELECT_INFO_INVALID
+ESP_ERR_OTA_VALIDATE_FAILED
+ESP_ERR_OTA_SMALL_SEC_VER
+ESP_ERR_OTA_ROLLBACK_FAILED
+ESP_ERR_OTA_ROLLBACK_INVALID_STATE
+ESP_ERR_EFUSE
+ESP_OK_EFUSE_CNT
+ESP_ERR_EFUSE_CNT_IS_FULL
+ESP_ERR_EFUSE_REPEATED_PROG
+ESP_ERR_CODING
+ESP_ERR_NOT_ENOUGH_UNUSED_KEY_BLOCKS
+ESP_ERR_DAMAGED_READING
+ESP_ERR_IMAGE_BASE
+ESP_ERR_IMAGE_FLASH_FAIL
+ESP_ERR_IMAGE_INVALID
+ESP_ERR_WIFI_BASE
+ESP_ERR_WIFI_NOT_INIT
+ESP_ERR_WIFI_NOT_STARTED
+ESP_ERR_WIFI_NOT_STOPPED
+ESP_ERR_WIFI_IF
+ESP_ERR_WIFI_MODE
+ESP_ERR_WIFI_STATE
+ESP_ERR_WIFI_CONN
+ESP_ERR_WIFI_NVS
+ESP_ERR_WIFI_MAC
+ESP_ERR_WIFI_SSID
+ESP_ERR_WIFI_PASSWORD
+ESP_ERR_WIFI_TIMEOUT
+ESP_ERR_WIFI_WAKE_FAIL
+ESP_ERR_WIFI_WOULD_BLOCK
+ESP_ERR_WIFI_NOT_CONNECT
+ESP_ERR_WIFI_POST
+ESP_ERR_WIFI_INIT_STATE
+ESP_ERR_WIFI_STOP_STATE
+ESP_ERR_WIFI_NOT_ASSOC
+ESP_ERR_WIFI_TX_DISALLOW
+ESP_ERR_WIFI_DISCARD
+ESP_ERR_WIFI_ROC_IN_PROGRESS
+ESP_ERR_WIFI_REGISTRAR
+ESP_ERR_WIFI_WPS_TYPE
+ESP_ERR_WIFI_WPS_SM
+ESP_ERR_ESPNOW_BASE
+ESP_ERR_ESPNOW_NOT_INIT
+ESP_ERR_ESPNOW_ARG
+ESP_ERR_ESPNOW_NO_MEM
+ESP_ERR_ESPNOW_FULL
+ESP_ERR_ESPNOW_NOT_FOUND
+ESP_ERR_ESPNOW_INTERNAL
+ESP_ERR_ESPNOW_EXIST
+ESP_ERR_ESPNOW_IF
+ESP_ERR_DPP_FAILURE
+ESP_ERR_DPP_TX_FAILURE
+ESP_ERR_DPP_INVALID_ATTR
+ESP_ERR_MESH_BASE
+ESP_ERR_MESH_WIFI_NOT_START
+ESP_ERR_MESH_NOT_INIT
+ESP_ERR_MESH_NOT_CONFIG
+ESP_ERR_MESH_NOT_START
+ESP_ERR_MESH_NOT_SUPPORT
+ESP_ERR_MESH_NOT_ALLOWED
+ESP_ERR_MESH_NO_MEMORY
+ESP_ERR_MESH_ARGUMENT
+ESP_ERR_MESH_EXCEED_MTU
+ESP_ERR_MESH_TIMEOUT
+ESP_ERR_MESH_DISCONNECTED
+ESP_ERR_MESH_QUEUE_FAIL
+ESP_ERR_MESH_QUEUE_FULL
+ESP_ERR_MESH_NO_PARENT_FOUND
+ESP_ERR_MESH_NO_ROUTE_FOUND
+ESP_ERR_MESH_OPTION_NULL
+ESP_ERR_MESH_OPTION_UNKNOWN
+ESP_ERR_MESH_XON_NO_WINDOW
+ESP_ERR_MESH_INTERFACE
+ESP_ERR_MESH_DISCARD_DUPLICATE
+ESP_ERR_MESH_DISCARD
+ESP_ERR_MESH_VOTING
+ESP_ERR_MESH_XMIT
+ESP_ERR_MESH_QUEUE_READ
+ESP_ERR_MESH_PS
+ESP_ERR_MESH_RECV_RELEASE
+ESP_ERR_ESP_NETIF_BASE
+ESP_ERR_ESP_NETIF_INVALID_PARAMS
+ESP_ERR_ESP_NETIF_IF_NOT_READY
+ESP_ERR_ESP_NETIF_DHCPC_START_FAILED
+ESP_ERR_ESP_NETIF_DHCP_ALREADY_STARTED
+ESP_ERR_ESP_NETIF_DHCP_ALREADY_STOPPED
+ESP_ERR_ESP_NETIF_NO_MEM
+ESP_ERR_ESP_NETIF_DHCP_NOT_STOPPED
+ESP_ERR_ESP_NETIF_DRIVER_ATTACH_FAILED
+ESP_ERR_ESP_NETIF_INIT_FAILED
+ESP_ERR_ESP_NETIF_DNS_NOT_CONFIGURED
+ESP_ERR_ESP_NETIF_MLD6_FAILED
+ESP_ERR_ESP_NETIF_IP6_ADDR_FAILED
+ESP_ERR_ESP_NETIF_DHCPS_START_FAILED
+ESP_ERR_FLASH_BASE
+ESP_ERR_FLASH_OP_FAIL
+ESP_ERR_FLASH_OP_TIMEOUT
+ESP_ERR_FLASH_NOT_INITIALISED
+ESP_ERR_FLASH_UNSUPPORTED_HOST
+ESP_ERR_FLASH_UNSUPPORTED_CHIP
+ESP_ERR_FLASH_PROTECTED
+ESP_ERR_HTTP_BASE
+ESP_ERR_HTTP_MAX_REDIRECT
+ESP_ERR_HTTP_CONNECT
+ESP_ERR_HTTP_WRITE_DATA
+ESP_ERR_HTTP_FETCH_HEADER
+ESP_ERR_HTTP_INVALID_TRANSPORT
+ESP_ERR_HTTP_CONNECTING
+ESP_ERR_HTTP_EAGAIN
+ESP_ERR_HTTP_CONNECTION_CLOSED
+ESP_ERR_ESP_TLS_BASE
+ESP_ERR_ESP_TLS_CANNOT_RESOLVE_HOSTNAME
+ESP_ERR_ESP_TLS_CANNOT_CREATE_SOCKET
+ESP_ERR_ESP_TLS_UNSUPPORTED_PROTOCOL_FAMILY
+ESP_ERR_ESP_TLS_FAILED_CONNECT_TO_HOST
+ESP_ERR_ESP_TLS_SOCKET_SETOPT_FAILED
+ESP_ERR_ESP_TLS_CONNECTION_TIMEOUT
+ESP_ERR_ESP_TLS_SE_FAILED
+ESP_ERR_ESP_TLS_TCP_CLOSED_FIN
+ESP_ERR_MBEDTLS_CERT_PARTLY_OK
+ESP_ERR_MBEDTLS_CTR_DRBG_SEED_FAILED
+ESP_ERR_MBEDTLS_SSL_SET_HOSTNAME_FAILED
+ESP_ERR_MBEDTLS_SSL_CONFIG_DEFAULTS_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_ALPN_PROTOCOLS_FAILED
+ESP_ERR_MBEDTLS_X509_CRT_PARSE_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_OWN_CERT_FAILED
+ESP_ERR_MBEDTLS_SSL_SETUP_FAILED
+ESP_ERR_MBEDTLS_SSL_WRITE_FAILED
+ESP_ERR_MBEDTLS_PK_PARSE_KEY_FAILED
+ESP_ERR_MBEDTLS_SSL_HANDSHAKE_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_PSK_FAILED
+ESP_ERR_MBEDTLS_SSL_TICKET_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_SET_HOSTNAME_FAILED
+ESP_ERR_WOLFSSL_SSL_CONF_ALPN_PROTOCOLS_FAILED
+ESP_ERR_WOLFSSL_CERT_VERIFY_SETUP_FAILED
+ESP_ERR_WOLFSSL_KEY_VERIFY_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_HANDSHAKE_FAILED
+ESP_ERR_WOLFSSL_CTX_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_WRITE_FAILED
+ESP_ERR_HTTPS_OTA_BASE
+ESP_ERR_HTTPS_OTA_IN_PROGRESS
+ESP_ERR_PING_BASE
+ESP_ERR_PING_INVALID_PARAMS
+ESP_ERR_PING_NO_MEM
+ESP_ERR_HTTPD_BASE
+ESP_ERR_HTTPD_HANDLERS_FULL
+ESP_ERR_HTTPD_HANDLER_EXISTS
+ESP_ERR_HTTPD_INVALID_REQ
+ESP_ERR_HTTPD_RESULT_TRUNC
+ESP_ERR_HTTPD_RESP_HDR
+ESP_ERR_HTTPD_RESP_SEND
+ESP_ERR_HTTPD_ALLOC_MEM
+ESP_ERR_HTTPD_TASK
+ESP_ERR_HW_CRYPTO_BASE
+ESP_ERR_HW_CRYPTO_DS_HMAC_FAIL
+ESP_ERR_HW_CRYPTO_DS_INVALID_KEY
+ESP_ERR_HW_CRYPTO_DS_INVALID_DIGEST
+ESP_ERR_HW_CRYPTO_DS_INVALID_PADDING
+ESP_ERR_MEMPROT_BASE
+ESP_ERR_MEMPROT_MEMORY_TYPE_INVALID
+ESP_ERR_MEMPROT_SPLIT_ADDR_INVALID
+ESP_ERR_MEMPROT_SPLIT_ADDR_OUT_OF_RANGE
+ESP_ERR_MEMPROT_SPLIT_ADDR_UNALIGNED
+ESP_ERR_MEMPROT_UNIMGMT_BLOCK_INVALID
+ESP_ERR_MEMPROT_WORLD_INVALID
+ESP_ERR_MEMPROT_AREA_INVALID
+ERROR
+esp_timer
+esp_timer_systimer
+E (%u) %s: esp_intr_alloc failed (0x%x)
+E (%u) %s: esp_intr_enable failed (0x%x)
+_prvTaskExitError
+pxPortInitialiseStack
+uxCriticalNesting == ~0UL
+((uint32_t) frame & ( 0x000f )) == 0
+/IDF/components/freertos/port/riscv/port.c
+***ERROR*** A stack overflow in task 
+ has been detected.
+esp_startup_start_app_common
+main_task
+vApplicationGetIdleTaskMemory
+res == pdTRUE
+/IDF/components/freertos/port/port_common.c
+esp_task_wdt_init(CONFIG_ESP_TASK_WDT_TIMEOUT_S, true)
+IDF/components/freertos/port/port_common.c
+pxTCBBufferTemp != NULL
+pxStackBufferTemp != NULL
+vPortSetupTimer
+esp_intr_alloc(ETS_SYSTIMER_TARGET0_EDGE_INTR_SOURCE + cpuid, ESP_INTR_FLAG_IRAM | level, SysTickIsrHandler, &systimer_hal, NULL)
+IDF/components/freertos/port/port_systick.c
+xQueueGenericReset
+xQueueGenericCreateStatic
+xQueueGenericCreate
+xQueueGiveMutexRecursive
+xQueueTakeMutexRecursive
+xQueueCreateCountingSemaphore
+xQueueGenericSend
+xQueueGenericSendFromISR
+xQueueGiveFromISR
+xQueueReceive
+xQueueSemaphoreTake
+xQueueReceiveFromISR
+vQueueDelete
+prvNotifyQueueSetContainer
+pxQueueSetContainer
+/IDF/components/freertos/queue.c
+pxQueueSetContainer->uxMessagesWaiting < pxQueueSetContainer->uxLength
+uxMaxCount != 0
+uxInitialCount <= uxMaxCount
+( uxItemSize == 0 ) || ( uxQueueLength == ( xQueueSizeInBytes / uxItemSize ) )
+( sizeof( Queue_t ) + xQueueSizeInBytes ) > xQueueSizeInBytes
+uxQueueLength > ( UBaseType_t ) 0
+pxStaticQueue != ((void *)0)
+!( ( pucQueueStorage != ((void *)0) ) && ( uxItemSize == 0 ) )
+!( ( pucQueueStorage == ((void *)0) ) && ( uxItemSize != 0 ) )
+xSize == sizeof( Queue_t )
+pxQueue
+!( ( pvItemToQueue == ((void *)0) ) && ( pxQueue->uxItemSize != ( UBaseType_t ) 0U ) )
+!( ( xCopyPosition == ( ( BaseType_t ) 2 ) ) && ( pxQueue->uxLength != 1 ) )
+!( ( xTaskGetSchedulerState() == ( ( BaseType_t ) 0 ) ) && ( xTicksToWait != 0 ) )
+pxQueue->pcHead != ((void *)0) || pxQueue->u.xSemaphore.xMutexHolder == ((void *)0) || pxQueue->u.xSemaphore.xMutexHolder == xTaskGetCurrentTaskHandle()
+pxQueue->uxItemSize == 0
+!( ( pxQueue->pcHead == ((void *)0) ) && ( pxQueue->u.xSemaphore.xMutexHolder != ((void *)0) ) )
+pxMutex
+( pxQueue )
+!( ( ( pvBuffer ) == ((void *)0) ) && ( ( pxQueue )->uxItemSize != ( UBaseType_t ) 0U ) )
+!( ( pvBuffer == ((void *)0) ) && ( pxQueue->uxItemSize != ( UBaseType_t ) 0U ) )
+xTaskCreateStaticPinnedToCore
+vTaskDelete
+vTaskDelay
+vTaskStartScheduler
+xTaskResumeAll
+pcTaskGetName
+xTaskIncrementTick
+taskSelectHighestPriorityTaskSMP
+vTaskPlaceOnEventList
+xTaskRemoveFromEventList
+xTaskCheckForTimeOut
+prvDeleteTCB
+prvDeleteTLS
+xTaskPriorityDisinherit
+vTaskPriorityDisinheritAfterTimeout
+ulTaskGenericNotifyTake
+vTaskGenericNotifyGiveFromISR
+pxTCB->ucStaticallyAllocated == ( ( uint8_t ) 2 )
+pxTCB
+/IDF/components/freertos/tasks.c
+uxIndexToWait < 1
+xTaskGetSchedulerState() != ( ( BaseType_t ) 0 )
+pxEventList
+pxTCB != pxCurrentTCB[xPortGetCoreID()]
+pxTimeOut
+xReturn != ( -1 )
+xTaskScheduled == pdTRUE
+pxTicksToWait
+xPortCheckValidTCBMem(pxTaskBuffer)
+xPortcheckValidStackMem(pxStackBuffer)
+(xCoreID>=0 && xCoreID<1) || (xCoreID==( 0x7FFFFFFF ))
+xSize == sizeof( TCB_t )
+uxIndexToNotify < 1
+xTaskToNotify
+pxTCB->ulNotifiedValue[ uxIndexToNotify ] == ~0UL
+( ( &( pxTCB->xEventListItem ) )->pvContainer ) == ((void *)0)
+( ( ( ( pxDelayedTaskList )->uxNumberOfItems == ( UBaseType_t ) 0 ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) )
+pxTCB == pxCurrentTCB[xPortGetCoreID()]
+pxTCB->uxMutexesHeld
+pxUnblockedTCB
+xTaskGetSchedulerState() != ( ( BaseType_t ) 2 )
+xNextTaskUnblockTime >= xTickCount
+_lock_close
+lock_acquire_generic
+lock_release_generic
+check_lock_nonzero
+esp_newlib_locks_init
+handle == (SemaphoreHandle_t) &s_common_mutex
+handle == (SemaphoreHandle_t) &s_common_recursive_mutex
+h != ((void *)0)
+/IDF/components/newlib/locks.c
+lock != NULL && "Uninitialized lock used"
+xQueueGetMutexHolder( ( h ) ) == ((void *)0)
+void __cxa_guard_abort(__cxxabiv1::__guard*)
+int __cxa_guard_acquire(__cxxabiv1::__guard*)
+void __cxa_guard_release(__cxxabiv1::__guard*)
+void wait_for_guard_obj(guard_t*)
+!g->ready && "tried to abort a guard which is ready"
+g->pending && "tried to release a guard which is not acquired"
+result
+/IDF/components/cxx/cxx_guards.cpp
+g->pending && "tried to release a guard which wasn't acquired"
+semphr_create_wrapper
+queue_create_wrapper
+btdm_sleep_enter_phase1_wrapper
+btdm_sleep_enter_phase2_wrapper
+btdm_sleep_exit_phase0
+esp_bt_controller_mem_release
+esp_bt_controller_init
+us_to_sleep > BTDM_MIN_TIMER_UNCERTAINTY_US
+s_lp_stat.wakeup_timer_started == 0
+BLE_INIT
+E (%u) %s: timer start failed
+E (%u) %s: invalid mode %d, controller support mode is %d
+E (%u) %s: Invalid controller task prioriy or stack size
+E (%u) %s: %s controller only support BLE only mode
+E (%u) %s: Invalid value of ble_max_act
+E (%u) %s: SLEEP_MODE_1 enabled but sleep clock not configured
+btSlp
+select_src_ret && set_div_ret
+try_heap_caps_add_region(mem_start, mem_end)
+IDF/components/bt/controller/esp32c3/bt.c
+E (%u) %s: Malloc failed
+28@@A
+28@X>
+18@<28@h28@T@
+B|28@~28@
+Bqueue
+queue->handle
+semphr
+semphr->handle
+s_lp_cntl.enable == 1
+/IDF/components/bt/controller/esp32c3/bt.c
+BT_LOG
+E (%u) %s: Bludroid not initialised
+E (%u) %s: Bluedroid already enabled
+E (%u) %s: Bluedroid enable failed
+E (%u) %s: Controller not initialised
+E (%u) %s: Bluedroid already initialised
+E (%u) %s: Bluedroid Initialize Fail
+E (%u) %s: Bluedroid Initialize Fail!
+esp_ble_gap_update_conn_params
+E (%u) %s: ESP_BLE_APP_ENC_KEY_SIZE is deprecated, use ESP_GATT_PERM_ENCRYPT_KEY_SIZE in characteristic definition
+E (%u) %s: %s,params is NULL
+E (%u) %s: %s,invalid connection params:min_int = %d, max_int = %d, latency = %d, timeout = %d
+esp_ble_gatts_add_char_desc_param_check
+E (%u) %s: Error in %s, line=%d, control->auto_rsp should be set to ESP_GATT_AUTO_RSP or ESP_GATT_RSP_BY_APP
+E (%u) %s: Error in %s, line=%d, for stack respond attribute, char_val should not be NULL here
+E (%u) %s: Error in %s, line=%d, for stack respond attribute,  attribute max length should not be 0
+_btc_read_le_key
+_btc_storage_in_fetch_bonded_ble_device
+AuthMode
+BT_BTC
+W (%u) %s: %s Failed to get auth mode from flash, please erase flash and download the firmware again
+E (%u) %s: %s, device_type = %x
+LE_KEY_LID
+DevType
+AddrType
+LinkKey
+LE_KEY_PENC
+LE_KEY_PID
+LE_KEY_PCSRK
+LE_KEY_LENC
+LE_KEY_LCSRK
+GATT_CL_SUPP_FEAT
+GATT_DB_HASH
+BT_BTIF
+W (%u) %s: Exceeded the maximum number of bonded devices. Deleting the last device info: %02x:%02x:%02x:%02x:%02x:%02x
+LE_LOCAL_KEY_ER
+LE_LOCAL_KEY_IR
+LE_LOCAL_KEY_DHK
+LE_LOCAL_KEY_IRK
+Adapter
+btc_config_init
+btc_config_has_section
+btc_config_exist
+btc_config_get_int
+btc_config_set_int
+btc_config_get_bin
+btc_config_set_bin
+btc_config_section_begin
+btc_config_section_end
+btc_config_section_next
+btc_config_section_name
+btc_config_remove
+btc_config_remove_section
+btc_config_update_newest_section
+btc_config_flush
+key_value != NULL
+/IDF/components/bt/host/bluedroid/btc/core/btc_config.c
+0123456789abcdef
+key != NULL
+length != NULL
+config != NULL
+section != NULL
+bt_config.conf
+W (%u) %s: %s unable to load config file; starting unconfigured.
+E (%u) %s: %s unable to allocate a config object.
+E (%u) %s: %s failed
+btc_main_call_handler
+E (%u) %s: %s UNKNOWN ACT %d
+Bbtc_search_callback
+btc_gap_ble_get_dev_name_callback
+btc_adv_data_callback
+btc_scan_rsp_data_callback
+btc_adv_data_raw_callback
+btc_scan_rsp_data_raw_callback
+btc_start_adv_callback
+btc_stop_adv_callback
+btc_clear_adv_callback
+btc_update_duplicate_exceptional_list_callback
+btc_scan_params_callback
+btc_start_scan_callback
+btc_stop_scan_callback
+btc_update_conn_param_callback
+btc_set_pkt_length_callback
+btc_gap_ble_set_channels_cmpl_callback
+btc_update_whitelist_complete_callback
+btc_set_rand_addr_callback
+btc_set_local_privacy_callback
+btc_read_ble_rssi_cmpl_callback
+btc_ble_5_gap_callback
+btc_gap_ble_cb_handler
+btc_gap_ble_arg_deep_copy
+btc_gap_ble_call_handler
+btc_gap_ble_init
+E (%u) %s: %s btc_transfer_context failed
+E (%u) %s: %s %d no mem
+E (%u) %s: Unhandled deep copy %d
+E (%u) %s: Invalid advertisting interval parameters.
+E (%u) %s: Invalid advertisting type parameters.
+E (%u) %s: Invalid advertisting channel map parameters.
+E (%u) %s: Invalid advertisting peer address type parameters.
+E (%u) %s: Invalid interval value.
+E (%u) %s: Invalid static random address, the high bit should be 0b11, bits of the random part shall not be all 1 or 0
+E (%u) %s: Invalid non-resolvable private address, the high bit should be 0b00, bits of the random part shall not be all 1 or 0
+E (%u) %s: Invalid random address type
+E (%u) %s: %s no mem
+E (%u) %s: %s, unknow msg->act = %d
+p_env->adv_rpt_queue != NULL
+/IDF/components/bt/host/bluedroid/btc/profile/std/gap/btc_gap_ble.c
+p_env->adv_rpt_ready != NULL
+E (%u) %s: %s : Unknown event 0x%x
+btc128_to_bta_uuid
+btc_to_bta_uuid
+bta_to_btc_uuid
+E (%u) %s: %s: Unknown UUID length %d!
+E (%u) %s: %s UUID len is invalid %d
+btc_gattc_call_handler
+btc_gattc_arg_deep_copy
+btc_gattc_copy_req_data
+btc_gattc_cback
+E (%u) %s: %s: Unhandled event (%d)!
+E (%u) %s: %s transfer failed
+btc_gatts_uuid_format_convert
+btc_gatts_arg_deep_copy
+btc_gatts_act_create_attr_tab
+btc_gatts_check_valid_attr_tab
+btc_gatts_cb_param_copy_req
+btc_gatts_inter_cb
+E (%u) %s: %s %d, invalid length
+E (%u) %s: %s %d, NULL data
+W (%u) %s: %s %d, NULL value
+E (%u) %s: Each service table can only created one primary service or secondary service.
+E (%u) %s: %s, The include service attribute should not be NULL.
+E (%u) %s: %s, The include service attribute handle is invalid, start_hanlde = %d, end_handle = %d
+E (%u) %s: %s, Characteristic declaration should not be NULL.
+E (%u) %s: %s, The Charateristic uuid length = %d is invalid
+E (%u) %s: %s, The charateristic value uuid = %d is invalid
+E (%u) %s: %s failed:no mem
+E (%u) %s: Each service table can only created one primary service.
+E (%u) %s: Each service table can only created one secondary service.
+E (%u) %s: %s Characteristic declaration should not be NULL
+E (%u) %s: %s wrong uuid length %d
+bdaddr_equals
+bdaddr_to_string
+string_is_bdaddr
+string_to_bdaddr
+first != NULL
+second != NULL
+addr != NULL
+/IDF/components/bt/host/bluedroid/device/bdaddr.c
+string != NULL
+get_address
+get_bt_version
+get_features_classic
+get_last_features_classic_index
+get_features_ble
+get_ble_supported_states
+supports_simple_pairing
+supports_secure_connections
+supports_simultaneous_le_bredr
+supports_reading_remote_extended_features
+supports_interlaced_inquiry_scan
+supports_rssi_with_inquiry_results
+supports_extended_inquiry_response
+supports_master_slave_role_switch
+supports_ble
+supports_ble_privacy
+supports_ble_packet_extension
+supports_ble_connection_parameters_request
+get_acl_data_size_classic
+get_acl_data_size_ble
+get_acl_packet_size_classic
+get_acl_packet_size_ble
+get_ble_suggested_default_data_length
+get_ble_suggested_default_data_txtime
+get_acl_buffer_count_classic
+get_acl_buffer_count_ble
+get_ble_white_list_size
+get_ble_resolving_list_max_size
+set_ble_resolving_list_max_size
+ble_get_ext_adv_data_max_len
+controller_param.readable
+/IDF/components/bt/host/bluedroid/device/controller.c
+controller_param.ble_supported
+index < MAX_FEATURES_CLASSIC_PAGE_COUNT
+hci_layer_init_env
+transmit_command
+transmit_command_futured
+transmit_downward
+command_timed_out
+filter_incoming_event
+event_to_data_type
+E (%u) %s: %s with no commands pending response
+E (%u) %s: %s hci layer timeout waiting for response to a command. opcode: 0x%x
+W (%u) %s: %s command complete event with no matching command. opcode: 0x%x.
+W (%u) %s: %s sync_info is NULL. opcode = 0x%x
+W (%u) %s: %s command status event with no matching command. opcode: 0x%x
+E (%u) %s: %s unable to create pending command queue.
+event != NULL
+/IDF/components/bt/host/bluedroid/hci/hci_layer.c
+E (%u) %s: %s unable to create pending packet queue.
+E (%u) %s: %s unable to create list for commands pending response.
+cmd_rsp_to
+E (%u) %s: %s unable to create command response timer.
+Bcommand->layer_specific == HCI_CMD_BUF_TYPE_METADATA
+E (%u) %s: %s legacy transmit of command. Use transmit_command instead.
+BT_HCI
+E (%u) %s: %s invalid event type, could not translate 0x%x
+Bparse_read_buffer_size_response
+parse_read_local_version_info_response
+parse_read_bd_addr_response
+parse_read_local_supported_commands_response
+parse_read_local_extended_features_response
+parse_ble_read_white_list_size_response
+parse_ble_read_buffer_size_response
+parse_ble_read_supported_states_response
+parse_ble_read_local_supported_features_response
+read_command_complete_header
+Bstream != NULL
+*page_number_ptr < feature_pages_count
+E (%u) %s: %s() - WARNING: READING EXTENDED FEATURES FAILED. THIS MAY INDICATE A FIRMWARE/CONTROLLER ISSUE.
+event_code == HCI_COMMAND_COMPLETE_EVT
+/IDF/components/bt/host/bluedroid/hci/hci_packet_parser.c
+parameter_length >= (parameter_bytes_we_read_here + minimum_bytes_after)
+opcode == expected_opcode
+reassemble_and_dispatch
+Bacl_length == packet->len - HCI_ACL_PREAMBLE_SIZE
+/IDF/components/bt/host/bluedroid/hci/packet_fragmenter.c
+W (%u) %s: %s found unfinished packet for handle with start packet. Dropping old.
+W (%u) %s: %s found l2cap full length %d less than the hci length %d.
+E (%u) %s: %s got continuation for unknown packet. Dropping it.
+E (%u) %s: %s got packet which would exceed expected length of %d. Truncating.
+bte_main_boot_entry
+BT_APPL
+E (%u) %s: %s could not get hci layer interface.
+E (%u) %s: Start HCI Host Layer Failure
+btm_process_remote_ext_features
+W (%u) %s: btm_acl_encrypt_change -> Issuing delayed HCI_Disconnect!!!
+W (%u) %s: btm_acl_encrypt_change: tBTM_SEC_DEV:0x%x rs_disc_pending=%d
+E (%u) %s: Device not found
+W (%u) %s: btm_acl_role_changed -> Issuing delayed HCI_Disconnect!!!
+E (%u) %s: tBTM_SEC_DEV:0x%x rs_disc_pending=%d
+E (%u) %s: btm_ble_get_acl_remote_addr can not find device with matching address
+E (%u) %s: Unknown active address: %d
+BT_BTM
+E (%u) %s: %s: page=%d unexpected
+E (%u) %s: btm_read_remote_ext_features_complete handle=%d invalid
+E (%u) %s: btm_read_remote_ext_features_complete page=%d unknown
+W (%u) %s: btm_read_remote_ext_features_failed (status 0x%02x) for handle %d
+E (%u) %s: btm_read_remote_ext_features_failed handle=%d invalid
+E (%u) %s: btm_read_remote_features handle=%d invalid
+E (%u) %s: btm_read_remote_features_complete failed (status 0x%02x)
+E (%u) %s: btm_read_remote_features_complete handle=%d invalid
+E (%u) %s: %s-data signing can not be done from unknown device
+E (%u) %s: unknow local key type: %d
+E (%u) %s: BTM_BleOobDataReply() to Unknown device
+E (%u) %s: Passkey reply to Unknown device
+E (%u) %s: %s Unknown device
+E (%u) %s: Illegal Connection Scan Parameters
+E (%u) %s: Unknown Device, setting rejected
+E (%u) %s: Illegal Connection Parameters
+E (%u) %s: can not verify signature for unknown device
+E (%u) %s: signature received with out dated sign counter
+E (%u) %s: No signature to verify
+E (%u) %s: No connection exist!
+E (%u) %s: BTM_ReadRemoteConnectionAddr can not find connection with matching address
+W (%u) %s: BTM_SecAddBleKey()  Wrong Type, or No Device record                         for bdaddr: %08x%04x, Type: %d
+E (%u) %s: %s failed, request not supported
+E (%u) %s: %s failed, peer does not support request
+E (%u) %s: %s: Wrong mode: no LE link exist or LE not supported
+BTM_SetBleDataLength
+BTM_BleSecureConnectionOobDataReply
+BTM_BleDataSignature
+W (%u) %s: btm_ble_link_encrypted (No Device Found!) encr_enable=%d
+E (%u) %s: btm_ble_link_sec_check received for unknown device
+E (%u) %s: btm_ble_ltk_request_reply received for unknown device
+E (%u) %s: Generating ER2 failed.
+E (%u) %s: Generating ER1 exception.
+E (%u) %s: Generating ER2 exception.
+E (%u) %s: Generating IR2 failed.
+E (%u) %s: Generating IRK exception.
+E (%u) %s: Generating ER failed.
+W (%u) %s: btm_ble_set_encryption (NULL device record!! sec_act=0x%x
+E (%u) %s: Link is not active, can not encrypt!
+W (%u) %s: Link Encryption is active, Busy!
+E (%u) %s: No key available to encrypt the link
+E (%u) %s: btm_proc_smp_cback received for unknown device
+W (%u) %s: btm_sec_save_le_key (Bad key_type 0x%02x)
+W (%u) %s: BLE key type 0x%02x called for Unknown BDA or type: %08x%04x !! (btm_sec_save_le_key)
+btm_find_dev_by_identity_addr
+E (%u) %s: No matching known device in record
+W (%u) %s: %s find pseudo->random match with diff addr type: %d vs %d
+background_connections_lazy_init
+background_connection_add
+btm_update_dev_to_white_list
+btm_ble_clear_white_list_complete
+E (%u) %s: wl_addr_type is error
+E (%u) %s: %s failed, status 0x%x
+E (%u) %s: btm_ble_initiate_select_conn failed
+E (%u) %s: peripheral device cannot initiate passive scan for a selective connection
+E (%u) %s: scan active, can not start selective connection procedure
+E (%u) %s: max pending WL operation reached, discard
+E (%u) %s: %s address type is error, unable to add device
+E (%u) %s:  controller not support resolvable address
+E (%u) %s: %s Whitelist full, unable to add device
+address
+/IDF/components/bt/host/bluedroid/stack/btm/btm_ble_bgconn.c
+background_connections
+E (%u) %s: %s: Unable to Clear Advertising
+E (%u) %s: Advertising or scaning now, can't restore public address 
+E (%u) %s: %s Observe Already Active
+E (%u) %s: %s Observe not active
+E (%u) %s: %s scan already active
+E (%u) %s: %s scan not active
+E (%u) %s: adv_int_min or adv_int_max is invalid
+E (%u) %s: invalid bg connection type : %d 
+E (%u) %s: Advertising or scaning now, can't set randaddress %d
+E (%u) %s: Illegal params: scan_interval = %d scan_window = %d
+E (%u) %s: No random address yet, please set random address and try
+E (%u) %s: No identity address yet, please set static random address and try
+W (%u) %s: %s, Partial data write into ADV
+BTM_BleClearAdv
+btm_ble_send_extended_scan_params
+BTM_BleObserve
+BTM_BleScan
+BTM_BleWriteScanRsp
+BTM_BleWriteAdvData
+btm_adv_pkt_handler
+btm_ble_process_last_adv_pkt
+btm_ble_process_adv_pkt_cont
+btm_ble_write_adv_enable_complete
+btm_ble_init
+linked_pkt != NULL
+/IDF/components/bt/host/bluedroid/stack/btm/btm_ble_gap.c
+E (%u) %s: unknown adv event : %d
+W (%u) %s: service data does not fit
+W (%u) %s: data exceed max adv packet length
+p_cb->adv_rpt_queue != NULL
+p_cb->adv_rpt_ready != NULL
+W (%u) %s: %s device is no longer discoverable so discarding advertising packet pkt
+W (%u) %s: INQ RES: Extra Response Received...cancelling inquiry..
+E (%u) %s: %s error sending extended scan parameters
+E (%u) %s: flag = 0x%x,old_flag = 0x%x
+E (%u) %s: LE Inquiry is active, can not start inquiry
+E (%u) %s: illegal state requested: %d
+E (%u) %s: state requested not supported: %d
+W (%u) %s: EIR data too long %d. discard
+E (%u) %s: %s failed
+E (%u) %s: %s, invalid extend adv data.
+E (%u) %s: LE EA SetAdvData: cmd err=0x%x
+E (%u) %s: LE EA SetScanRspData: cmd err=0x%x
+E (%u) %s: LE EAS Clr: cmd err=0x%x
+E (%u) %s: LE EAS Rm: cmd err=0x%x
+E (%u) %s: %s invalid scan_duplicate %d
+E (%u) %s: LE ES En=%d: cmd err=0x%x
+E (%u) %s: %s, register fail, the cb function is NULL.
+E (%u) %s: %s invalid addr_type %d
+E (%u) %s: LE PA AddDevToList: cmd err=0x%x
+E (%u) %s: LE PA SetData: cmd err=0x%x
+E (%u) %s: LE PA ClrDev: cmd err=0x%x
+E (%u) %s: %s, the parameter is NULL.
+E (%u) %s: %s, The sync parameters is invalid.
+E (%u) %s: LE PA CreateSync cmd failed
+E (%u) %s: %s, invalid instance %d
+E (%u) %s: LE PA En=%d: cmd err=0x%x
+E (%u) %s: LE PA RmDevFromList: cmd err=0x%x
+E (%u) %s: %s, instance = %d, Before set the periodic adv parameters, please configure the the                 extend adv to nonscannable and nonconnectable first, and it shouldn't include the legacy bit.
+E (%u) %s: LE PA SetParams: cmd err=0x%x
+E (%u) %s: LE PA SyncCancel, cmd err=0x%x
+E (%u) %s: LE PA SyncTerm: cmd err=0x%x
+E (%u) %s: %s, invalid parameters
+E (%u) %s: %s invalid instance %d
+E (%u) %s: %s, invalid own address type, line %d, addr type %d
+E (%u) %s: %s, The Legacy adv can't include tx power bit, line %d
+E (%u) %s: %s, For the Extend adv, the properties can't be connectable and scannable at the same time, line %d
+E (%u) %s: %s, HD directed advertising allowed only for legacy PDUs. line %d
+E (%u) %s: %s, invalid extend adv params.
+E (%u) %s: LE EA SetParams: cmd err=0x%x
+E (%u) %s: %s invalid random address
+E (%u) %s: LE UpdateOwnType err
+E (%u) %s: LE ES SetParams: cmd err=0x%x
+E (%u) %s: %s, fail to send the hci command, the error code = %s(0x%x)
+E (%u) %s: Invalid Extand connection parameters
+E (%u) %s: %s invalid parameters
+E (%u) %s: LE EA En=%d: cmd err=0x%x
+BTM_BleGapRegisterCallback
+BTM_BleReadPhy
+BTM_BleSetPreferDefaultPhy
+BTM_BleSetPreferPhy
+BTM_BleSetExtendedAdvRandaddr
+BTM_BleSetExtendedAdvParams
+BTM_BleConfigExtendedAdvDataRaw
+BTM_BleStartExtAdv
+BTM_BleExtAdvSetRemove
+BTM_BlePeriodicAdvSetParams
+BTM_BlePeriodicAdvCfgDataRaw
+BTM_BlePeriodicAdvEnable
+BTM_BlePeriodicAdvCreateSync
+btm_read_phy_callback
+BTM_BlePeriodicAdvAddDevToList
+BTM_BlePeriodicAdvRemoveDevFromList
+BTM_BleSetExtendedScanParams
+BTM_BleExtendedScan
+btm_ble_ext_adv_params_validate
+btm_ble_ext_adv_set_data_validate
+btm_ble_update_phy_evt
+btm_ble_adv_set_terminated_evt
+btm_ble_ext_adv_report_evt
+btm_ble_scan_req_received_evt
+btm_ble_periodic_adv_report_evt
+btm_ble_periodic_adv_sync_lost_evt
+btm_ble_periodic_adv_sync_establish_evt
+E (%u) %s: %s, the extend adv data is NULL. line %d
+E (%u) %s: %s, adv instance is %d, Exceeded the maximum. line %d
+E (%u) %s: %s, The extend adv hasn't configured, please use the set_ext_adv_params API to set the ext adv parameters first. line %d
+E (%u) %s: %s, Not allowed with the direted advertising for legacy. line %d
+E (%u) %s: %s, for the legacy adv, the adv data length can't exceed 31. line %d
+E (%u) %s: %s, The adv data len(%d) is longer then the controller adv max len(%d)
+Invalid HCI status code.
+HCI_SUCCESS
+HCI_ERR_NO_CONNECTION
+HCI_ERR_HW_FAILURE
+HCI_ERR_PAGE_TIMEOUT
+HCI_ERR_AUTH_FAILURE
+HCI_ERR_KEY_MISSING
+HCI_ERR_MEMORY_FULL
+HCI_ERR_CONNECTION_TOUT
+HCI_ERR_MAX_NUM_OF_CONNECTIONS
+HCI_ERR_MAX_NUM_OF_SCOS
+HCI_ERR_CONNECTION_EXISTS
+HCI_ERR_COMMAND_DISALLOWED
+HCI_ERR_HOST_REJECT_RESOURCES
+HCI_ERR_HOST_REJECT_SECURITY
+HCI_ERR_HOST_REJECT_DEVICE
+HCI_ERR_HOST_TIMEOUT
+HCI_ERR_UNSUPPORTED_VALUE
+HCI_ERR_ILLEGAL_PARAMETER_FMT
+HCI_ERR_PEER_USER
+HCI_ERR_PEER_LOW_RESOURCES
+HCI_ERR_PEER_POWER_OFF
+HCI_ERR_CONN_CAUSE_LOCAL_HOST
+HCI_ERR_REPEATED_ATTEMPTS
+HCI_ERR_PAIRING_NOT_ALLOWED
+HCI_ERR_UNKNOWN_LMP_PDU
+HCI_ERR_UNSUPPORTED_REM_FEATURE
+HCI_ERR_SCO_OFFSET_REJECTED
+HCI_ERR_SCO_INTERVAL_REJECTED
+HCI_ERR_SCO_AIR_MODE
+HCI_ERR_INVALID_LMP_PARAM
+HCI_ERR_UNSPECIFIED
+HCI_ERR_UNSUPPORTED_LMP_PARAMETERS
+HCI_ERR_ROLE_CHANGE_NOT_ALLOWED
+HCI_ERR_LMP_RESPONSE_TIMEOUT
+HCI_ERR_LMP_ERR_TRANS_COLLISION
+HCI_ERR_LMP_PDU_NOT_ALLOWED
+HCI_ERR_ENCRY_MODE_NOT_ACCEPTABLE
+HCI_ERR_UNIT_KEY_USED
+HCI_ERR_QOS_NOT_SUPPORTED
+HCI_ERR_INSTANT_PASSED
+HCI_ERR_PAIRING_WITH_UNIT_KEY_NOT_SUPPORTED
+HCI_ERR_DIFF_TRANSACTION_COLLISION
+HCI_ERR_UNDEFINED_0x2B
+HCI_ERR_QOS_UNACCEPTABLE_PARAM
+HCI_ERR_QOS_REJECTED
+HCI_ERR_CHAN_CLASSIF_NOT_SUPPORTED
+HCI_ERR_INSUFFCIENT_SECURITY
+HCI_ERR_PARAM_OUT_OF_RANGE
+HCI_ERR_UNDEFINED_0x31
+HCI_ERR_ROLE_SWITCH_PENDING
+HCI_ERR_UNDEFINED_0x33
+HCI_ERR_RESERVED_SLOT_VIOLATION
+HCI_ERR_ROLE_SWITCH_FAILED
+HCI_ERR_INQ_RSP_DATA_TOO_LARGE
+HCI_ERR_SIMPLE_PAIRING_NOT_SUPPORTED
+HCI_ERR_HOST_BUSY_PAIRING
+HCI_ERR_REJ_NO_SUITABLE_CHANNEL
+HCI_ERR_CONTROLLER_BUSY
+HCI_ERR_UNACCEPT_CONN_INTERVAL
+HCI_ERR_DIRECTED_ADVERTISING_TIMEOUT
+HCI_ERR_CONN_TOUT_DUE_TO_MIC_FAILURE
+HCI_ERR_CONN_FAILED_ESTABLISHMENT
+HCI_ERR_MAC_CONNECTION_FAILED
+HCI_ERR_LT_ADDR_ALREADY_IN_USE
+HCI_ERR_LT_ADDR_NOT_ALLOCATED
+HCI_ERR_CLB_NOT_ENABLED
+HCI_ERR_MAX_ERR
+HCI_ERR_ESP_VENDOR_FAIL
+HCI_HINT_TO_RECREATE_AMP_PHYS_LINK
+HCI_ERR_ILLEGAL_COMMAND
+E (%u) %s: %s, Invalid params.
+E (%u) %s: %s error status %d
+E (%u) %s: Controller does not support Multi ADV
+E (%u) %s: Invalid instance in BTM_BleEnableAdvInstance
+E (%u) %s: BTM_BleEnableAdvInstance failed
+btm_ble_multi_adv_gen_rpa_cmpl
+E (%u) %s: outstanding rand generation exceeded max allowed 
+E (%u) %s:  %s can't locate advertise instance
+E (%u) %s: wrong length for btm_ble_multi_adv_vsc_cmpl_cback
+E (%u) %s: get unexpected VSC cmpl, expect: %d get: %d
+btm_ble_find_irk_index
+btm_ble_add_resolving_list_entry_complete
+btm_ble_remove_resolving_list_entry_complete
+btm_ble_read_resolving_list_entry_complete
+btm_ble_resolving_list_load_dev
+E (%u) %s: %s Resolving list Full 
+E (%u) %s: %s Add resolving list error %d 
+E (%u) %s: %s failed, list full
+E (%u) %s: no pending resolving list operation
+E (%u) %s: %s peer_addr: %02x:%02x:%02x:%02x:%02x:%02x
+E (%u) %s: %s no pending resolving list operation
+E (%u) %s: %s remove resolving list error 0x%x
+W (%u) %s: %s Resolving list full 
+E (%u) %s: a non-connected activity is ongoing, such as advertising and scanning
+E (%u) %s: set local privacy failed
+E (%u) %s: resolving list can not be edited, EnQ now
+W (%u) %s: %s FAILED: Cannot Delete when connection is active
+BTM_SecDeleteDevice
+E (%u) %s: btm_decode_ext_features_page page=%d unknown
+E (%u) %s: BTM_RegisterForVSEvents: too many callbacks registered
+E (%u) %s: Err Starting LE Inquiry.
+W (%u) %s: BTM Warning: Set Event Filter Failed (HCI returned 0x%x)
+E (%u) %s: btm_inq_rmt_name_failed()  remname_active=%d
+W (%u) %s: INQ RES: Extra Response Received...ignoring
+E (%u) %s: BTM_GetSecurityFlags false
+W (%u) %s: %s p_cb_info->p_le_callback == NULL
+W (%u) %s: Security Manager: BTM_SetEncryption not connected
+W (%u) %s: Security Manager: BTM_SetEncryption busy, enqueue request
+W (%u) %s: %s: cannot call btm_ble_set_encryption, p is NULL
+W (%u) %s: BTM_SEC_REG: Out of Service Records (%d)
+BTM_SetEncryption
+btm_io_capabilities_req
+BTM_SecRegister
+btm_sec_dd_create_conn
+E (%u) %s: %s: Unexpected Pairing state received %d
+W (%u) %s: BTM_SecBond -> Already Paired
+W (%u) %s: btm_sec_clr_temp_auth_service() - no dev CB
+E (%u) %s: Security Manager: connect request when device not ready
+E (%u) %s: Security Manager: connect request from non-paired device
+E (%u) %s: Security Manager: reject connect request from bonding device
+W (%u) %s: Security Manager: btm_sec_connect_after_reject_timeout: failed to start connection
+W (%u) %s: Security Manager: btm_sec_connected: incoming connection failed without asking PIN
+W (%u) %s: Security Manager: btm_sec_connected: HCI_Conn_Comp Flags:0x%04x, sm4: 0x%x
+W (%u) %s: Security Manager: btm_sec_connected: Wait for incoming connection
+W (%u) %s: %s Connection already exists
+W (%u) %s: Security Manager: failed allocate LCB [%02x%02x%02x%02x%02x%02x]
+W (%u) %s: Security Manager: failed create  [%02x%02x%02x%02x%02x%02x]
+RFC_MUX
+E (%u) %s: Security Manager: MX service not found PSM:%d Proto:%d SCN:%d
+E (%u) %s: btm_sec_pairing_timeout() BTM_PAIR_STATE_WAIT_DISCONNECT unknown BDA: %08x%04x
+W (%u) %s: btm_sec_rmt_name_request_complete: waiting HCI_Connection_Complete after rejecting connection
+W (%u) %s: btm_sec_rmt_name_request_complete: failed to start connection
+W (%u) %s: btm_sec_rmt_name_request_complete: wrong BDA, retry with pairing BDA
+W (%u) %s: btm_sec_rmt_name_request_complete (none/ce)
+E (%u) %s: btm_simple_pair_complete() with unknown BDA: %08x%04x
+btu_ble_data_length_change_evt
+btu_hcif_send_cmd
+btu_hcif_send_cmd_sync
+btu_hcif_command_status_evt_on_task
+btu_ble_ext_adv_report_evt
+btu_ble_periodic_adv_report_evt
+hci_free_cmd_buf
+E (%u) %s: hci write adv params error 0x%x
+E (%u) %s: hci connection params reply command error 0x%x
+E (%u) %s: hci connection params neg reply command error %x
+E (%u) %s: CC evt: op=0x%x, status=0x%x
+E (%u) %s: CS evt: LE PA CreateSync status=0x%x
+E (%u) %s: CS evt: LE SetPhy status=0x%x
+metadata->opcode == opcode
+/IDF/components/bt/host/bluedroid/stack/btu/btu_hcif.c
+buf->layer_specific == HCI_CMD_BUF_TYPE_METADATA
+/IDF/components/bt/host/bluedroid/stack/include/stack/hcimsgs.h
+W (%u) %s: hcif conn complete: hdl 0x%x, st 0x%x
+W (%u) %s: hcif disc complete: hdl 0x%x, rsn 0x%x
+E (%u) %s: Ctlr H/w error event - code:0x%x
+W (%u) %s: hcif mode change: hdl 0x%x, mode %d, intv %d, status 0x%x
+W (%u) %s: hcif ssr evt: st 0x%x, hdl 0x%x, tx_lat %d rx_lat %d
+W (%u) %s: hcif link supv_to changed: hdl 0x%x, supv_to %d
+E (%u) %s: Unexpected HCI BLE event = 0x%02x
+W (%u) %s: %s, request not supported
+E (%u) %s: %s, Invalid number reports is 0
+E (%u) %s: %s, Invalid params, the adv len is too short.
+E (%u) %s: %s, Invalid ev_len = %d is less than adv len = %d
+E (%u) %s: %s p_buf is NULL
+p_buf->layer_specific == HCI_CMD_BUF_TYPE_METADATA
+vsc_callback == NULL
+E (%u) %s: %s sync_info error
+E (%u) %s: %s Unable to allocate resources for bt_workqueue
+BTU_TASK
+BTU_StartUp
+btu_general_alarm_process
+btu_general_alarm_cb
+btu_start_timer
+btu_stop_timer
+btu_free_timer
+btu_l2cap_alarm_process
+btu_free_quick_timer
+btu_oneshot_alarm_cb
+btu_start_timer_oneshot
+btu_stop_timer_oneshot
+data != NULL
+p_tle != NULL
+/IDF/components/bt/host/bluedroid/stack/btu/btu_task.c
+btu_gen
+E (%u) %s: %s Unable to create alarm
+btu_oneshot
+W (%u) %s: %s Unable to find expected alarm in hashmap
+E (%u) %s: Cannot cancel current op is not get dev name
+E (%u) %s: Cannot cancel where No connection id
+BT_GAP
+E (%u) %s: gap_ble_accept_cl_operation max connection reached
+E (%u) %s: GATTC_ConfigureMTU GATT_BUSY conn_id = %d
+E (%u) %s: GATTC_Discover Illegal param: disc_type %d conn_id = %d
+E (%u) %s: GATTC_Discover GATT_BUSY conn_id = %d
+E (%u) %s: GATTC_ExecuteWrite Illegal param: conn_id %d
+E (%u) %s: Unable to allocate client CB for conn_id %d 
+E (%u) %s: GATT_Read Illegal param: conn_id %d, type 0%d,
+E (%u) %s: GATTC_Read GATT_BUSY conn_id = %d
+E (%u) %s: GATTC_SendHandleValueConfirm - Unknown conn_id: %u
+E (%u) %s: GATT_Write Illegal param: conn_id %d, type 0%d,
+E (%u) %s: GATTC_Write GATT_BUSY conn_id = %d
+BT_GATT
+E (%u) %s: Inavlid gatt_if=%d
+E (%u) %s: GATTS_ReserveHandles: no handles, s_hdl: %u  needed: %u
+E (%u) %s: GATTS_ReserveHandles: no free handle blocks
+E (%u) %s: gatt_add_pending_new_srv_start: no free blocks
+E (%u) %s: GATTS_ReserveHandles: service DB initialization failed
+E (%u) %s: Application not foud
+E (%u) %s: No Service found
+E (%u) %s: Service not created
+E (%u) %s: GATTS_HandleValueIndication Unknown  conn_id: %u 
+E (%u) %s: connection not established
+E (%u) %s: GATTS_HandleValueNotification Unknown  conn_id: %u 
+E (%u) %s: GATTS_SendRsp Unknown  conn_id: %u
+E (%u) %s: GATTS_SendRsp conn_id: %u  waiting for op_code = %02x
+E (%u) %s: Application not found 
+E (%u) %s: no service found
+E (%u) %s: Duplicate Service start - Service already started
+E (%u) %s: GATTS_StartService: no free server registration block
+E (%u) %s: GATTS_StopService service_handle: %u is not in use
+E (%u) %s: GATT_CancelConnect - gatt_if =%d is not registered
+E (%u) %s: GATT_CancelConnect - no app found
+E (%u) %s: GATT_CancelConnect -no app associated with the bg device for unconditional removal
+E (%u) %s: GATT_Connect - gatt_if =%d is not registered
+E (%u) %s: Unsupported transport for background connection
+E (%u) %s: GATT_Deregister with invalid gatt_if: %u
+E (%u) %s: GATT_Listen - gatt_if =%d is not registered
+E (%u) %s: application already registered.
+E (%u) %s: %s can't send service change indication manually, please configure the option through menuconfig
+GATT_SendServiceChangeIndication
+gatt_verify_signature
+E (%u) %s: Unknown operation encryption completed
+E (%u) %s: enc callback for unknown bd_addr
+E (%u) %s: gatt_security_check_start BTM_SetEncryption failed btm_status=%d
+E (%u) %s: %s: Data length %u less than expected %u
+E (%u) %s: Signature Verification Failed, data ignored
+gatt_process_find_type_value_rsp
+gatt_process_read_info_rsp
+gatt_process_read_by_type_rsp
+E (%u) %s: Unknown read type: %d
+E (%u) %s: Unknown write type: %d
+E (%u) %s: gatt_cl_send_next_cmd_inq: L2CAP sent error
+W (%u) %s: ATT - Ignore wrong response. Receives (%02x)                                 Request(%02x) Ignored
+E (%u) %s: invalid response/indicate pkt size: %d, PDU size: %d
+E (%u) %s: Unknown opcode = %d
+I (%u) %s: Discovery completed
+E (%u) %s: Incorrect discovery opcode %04x
+I (%u) %s: %s handle %x, end handle %x
+E (%u) %s: invalid MTU response PDU received, discard.
+E (%u) %s: illegal notification PDU length, discard
+E (%u) %s: value length larger than GATT_MAX_ATTR_LEN, discard
+E (%u) %s: gatt_process_notification rcv Ind. but ind_count=%d (will reset ind_count)
+E (%u) %s: no remain data for multi notification
+E (%u) %s: illegal prepare write response length, discard
+E (%u) %s: Illegal ReadByType/ReadByGroupType Response length, discard
+E (%u) %s: gatt_process_read_by_type_rsp: Discard response op_code=%d vale_len=%d > (MTU-2=%d or msg_len-1=%d)
+I (%u) %s: %s op %x, handle %x
+E (%u) %s: discover all service response parsing failure
+I (%u) %s: DISC ALL SVC end handle %x, uuid %s
+I (%u) %s: DISC INC SVC start handle %x, end handle %x, uuid %s
+E (%u) %s: gatt_process_read_by_type_rsp INCL_SRVC failed with invalid data value_len=%d
+E (%u) %s: invalid Info Response PDU received, discard.
+I (%u) %s: %s handle %x, uuid %s
+E (%u) %s: attr offset = %d p_attr_buf = %p 
+I (%u) %s: DISC INC SRVC start handle %x, end handle %x, uuid %s
+gatts_add_included_service
+gatts_add_characteristic
+gatts_add_char_descr
+gatts_set_attribute_value
+gatts_write_attr_value_by_handle
+gatts_send_app_read_request
+gatts_add_char_desc_value_check
+E (%u) %s: illegal UUID
+E (%u) %s: allocate_attr_in_db failed, no resources
+E (%u) %s: allocate_svc_db_buf failed, no resources
+E (%u) %s: copy_extra_byte_in_db failed, no resources
+E (%u) %s: Error in %s, line=%d, control->auto_rsp should be set to GATT_RSP_BY_APP or GATT_RSP_BY_STACK here
+E (%u) %s: Error in %s, line=%d, for stack respond attribute, attr_val should not be NULL here
+E (%u) %s: Error in %s, line=%d,attribute actual length should not be larger than max length
+W (%u) %s: Warning in %s, line=%d, insufficient resource to allocate for descriptor value
+W (%u) %s: Warning in %s, line=%d, insufficient resource to allocate for attribute value
+E (%u) %s: Error in %s, Line=%d, attribute actual length (%d) should not larger than max size (%d)
+E (%u) %s: gatts_add_included_service Illegal Params.
+E (%u) %s: %s error, The include service should be added before adding the characteristics
+E (%u) %s: GATT_READ_NOT_PERMIT
+E (%u) %s: GATT_INSUF_AUTHENTICATION
+E (%u) %s: GATT_INSUF_AUTHENTICATION: MITM Required
+E (%u) %s: GATT_INSUF_ENCRYPTION
+E (%u) %s: GATT_INSUF_KEY_SIZE
+E (%u) %s: GATT_INSUF_AUTHORIZATION
+E (%u) %s: GATT_NOT_LONG
+W (%u) %s: format mismatch
+E (%u) %s: gatts_get_attribute_value Fail:p_db is NULL.
+E (%u) %s: gatts_get_attribute_value Fail:p_db->p_attr_list is NULL.
+E (%u) %s: gatts_get_attribute_value Fail:length is NULL.
+E (%u) %s: gatts_get_attribute_value Fail:value is NULL.
+E (%u) %s: service DB empty
+E (%u) %s: gatts_init_service_db failed, no resources
+E (%u) %s: Failed to find i_rcb,Error in %s, line=%d, 
+E (%u) %s: Error in %s, line=%d, value should not be NULL here
+E (%u) %s: Error in %s, line=%d, attribute value should not be NULL here
+E (%u) %s: gatts_set_attribute_value failed:Invalid value length
+E (%u) %s: gatts_write_attr_perm_check - Error!! sign cmd write sent on a encypted link,handle:0x%04x
+E (%u) %s: gatts_write_attr_perm_check - GATT_WRITE_NOT_PERMIT,handle:0x%04x
+E (%u) %s: gatts_write_attr_perm_check - GATT_INSUF_AUTHENTICATION,handle:0x%04x
+E (%u) %s: gatts_write_attr_perm_check - GATT_INSUF_AUTHENTICATION: MITM required,handle:0x%04x
+E (%u) %s: gatts_write_attr_perm_check - GATT_INSUF_ENCRYPTION,handle:0x%04x
+E (%u) %s: gatts_write_attr_perm_check - GATT_INSUF_KEY_SIZE,handle:0x%04x
+E (%u) %s: gatts_write_attr_perm_check - GATT_INSUF_AUTHORIZATION,handle:0x%04x
+E (%u) %s: gatts_write_attr_perm_check - GATT_REQ_NOT_SUPPORTED,handle:0x%04x
+E (%u) %s: gatts_write_attr_perm_check - GATT_INVALID_ATTR_LEN,handle:0x%04x
+p_value
+attr_val.attr_val
+E (%u) %s: Error in %s, line=%d, %s should not be NULL here
+W (%u) %s: gatt_connect wrong state %d
+E (%u) %s: gatt_connect failed
+E (%u) %s: Max TCB for gatt_if [%d] reached.
+E (%u) %s: ATT - Rcvd L2CAP data, unknown cmd: 0x%x
+E (%u) %s: ATT - Rcvd L2CAP data, unknown req: 0x%x
+E (%u) %s: invalid data length, ignore
+E (%u) %s: Unable to add a service change client
+E (%u) %s: CCB max out, no rsources
+W (%u) %s: ATT - Ignored L2CAP data while in state: %d
+E (%u) %s: Unable to find conn_id for  %02x%02x%02x%02x%02x%02x 
+E (%u) %s: gatt_update_app_hold_link_status p_tcb=NULL
+gatt_dequeue_sr_cmd
+process_read_multi_var_rsp
+gatt_process_exec_write_req
+gatts_process_write_req
+gatt_attr_process_prepare_write
+E (%u) %s: %s: Prepare write request was invalid - missing offset, sending error response
+E (%u) %s: Error in %s, attribute of handle 0x%x not allocate value buffer
+E (%u) %s: Error in %s, Line %d: GATT BUSY
+E (%u) %s: Error in %s, line=%d, fail to send prepare_write_rsp, status=0x%x
+E (%u) %s: Error in %s, line=%d, queue_data should not be NULL here, fail to send prepare_write_rsp
+E (%u) %s: %s free msg %p
+E (%u) %s: Error in %s, line=%d, prepare write total number (%d)                         should not smaller than prepare queue number (%d)
+E (%u) %s: read permission denied : 0x%02x
+E (%u) %s: max attribute handle reached in ReadMultiple Request.
+E (%u) %s: server receive invalid PDU size:%d pdu size:%d
+E (%u) %s: format mismatch
+E (%u) %s: invalid MTU request PDU received.
+E (%u) %s: process_read_multi_rsp - nothing found!!
+E (%u) %s: %s - nothing found!!
+E (%u) %s: Exception!!! already has respond message
+E (%u) %s: Illegal PDU length, discard request
+E (%u) %s: gatts_process_primary_service_req failed. no resources.
+E (%u) %s: gatts_process_find_info failed. no resources.
+E (%u) %s: unexpected handle value confirmation
+E (%u) %s: Error in %s, line=%d, max pending command, send error
+<Unknown Attribute
+================= GATTS DATABASE DUMP START =================
+uuid %s
+handle %d
+end_handle %d
+uuid %s
+def_handle %d
+val_handle %d
+perm 0x%04x, prop 0x%02x
+================= GATTS DATABASE DUMP END =================
+characteristic extended properties
+characteristic user description
+client characteristic configuration
+server characteristic configuration
+characteristic presentation format
+characteristic aggregate format
+primary service
+secondary service
+included service
+characteristic
+E (%u) %s: device already in iniator white list
+E (%u) %s: device already in adv white list
+E (%u) %s: no device record available
+E (%u) %s: GATT_CancelConnect - link connected Too late to cancel
+0x%04x
+0x%08x
+0x%02x%02x%02x%02x%02x%02x%02x%02x
+%02x%02x%02x%02x%02x%02x%02x%02x
+W (%u) %s: gatt_end_operation not sent out op=%d p_disc_cmpl_cb:%p p_cmpl_cb:%p
+W (%u) %s: gatt_if out of range [ = %d]
+W (%u) %s: gatt_if found but not in use.
+W (%u) %s: gatt_ind_ack_timeout send ack now
+E (%u) %s: DO NOT ALLOW 32 BITS UUID IN ATT PDU
+W (%u) %s: gatt_parse_uuid_from_cmd invalid uuid size
+W (%u) %s: gatt_rsp_timeout clcb is already deleted
+W (%u) %s: gatt_rsp_timeout retry discovery primary service
+E (%u) %s: gatt_rsp_timeout command queue out of sync, disconnect
+W (%u) %s: gatt_rsp_timeout disconnecting...
+E (%u) %s: Active Service Found 
+E (%u) %s: p_reg not found discard request
+W (%u) %s: Call back not found for application conn_id=%d
+E (%u) %s: gatt_update_auto_connect_dev - gatt_if %d is not registered
+btsnd_hcic_ble_update_adv_report_flow_control
+W (%u) %s: Data length exceeds 31 bytes, only the first 31 bytes are used.
+metadata->command_free_cb != NULL
+/IDF/components/bt/host/bluedroid/stack/hcic/hciblecmds.c
+W (%u) %s: hci cmd send: disconnect: hdl 0x%x, rsn:0x%x
+W (%u) %s: hci cmd send: unsniff: hdl 0x%x
+W (%u) %s: hci cmd send: sniff: hdl 0x%x, intv(%d %d)
+E (%u) %s: %s() Invalid CID: 0x%04x
+W (%u) %s: %s(0x%04x) - BTU not ready
+W (%u) %s: %s(0x%04x) - LCB but no CCB
+W (%u) %s: %s(0x%04x) - no LCB
+W (%u) %s: %s(0x%04x) - no CCB
+W (%u) %s: %s() - create_conn failed
+W (%u) %s: L2CA_GetPeerFeatures() No BDA: %08x%04x
+E (%u) %s: L2CA_RegisterFixedChannel()  Invalid CID: 0x%04x
+E (%u) %s: L2CA_RemoveFixedChnl()  Invalid CID: 0x%04x
+E (%u) %s: L2CA_SendFixedChnlData()  Invalid CID: 0x%04x
+W (%u) %s: L2CA_SendFixedChnlData(0x%04x) - BTU not ready
+W (%u) %s: L2CA_SendFixedChnlData(0x%04x) - no LCB
+W (%u) %s: L2CA_SendFixedChnlData() - peer does not support fixed chnl: 0x%04x
+W (%u) %s: L2CA_SendFixedChnlData() - no CCB for chnl: 0x%4x
+W (%u) %s: L2CA_SetFixedChannelTout()  CID: 0x%04x  BDA: %08x%04x not connected
+BT_L2CAP
+W (%u) %s: L2CAP - no CCB for L2CA_SetIdleTimeout, CID: %d
+L2CA_ConnectFixedChnl
+l2ble_update_att_acl_pkt_num
+E (%u) %s: %s buff_semaphore not init
+E (%u) %s: %s not found p_tcb
+E (%u) %s: %s not found p_lcb
+E (%u) %s: %s not found p_ccb
+E (%u) %s: %s not found queue
+E (%u) %s: %s NO MEMORY
+@W (%u) %s: L2CA_CancelBleConnectReq - no connection pending
+W (%u) %s: L2CA_CancelBleConnectReq - different  BDA Connecting: %08x%04x  Cancel: %08x%04x
+W (%u) %s: L2CA_UpdateBleConnParams - unknown BD_ADDR %08x%04x
+W (%u) %s: L2CA_UpdateBleConnParams - BD_ADDR %08x%04x not LE
+W (%u) %s: %s connection parameter already set
+E (%u) %s: There are two connection parameter requests that are being updated, please try later 
+l2cble_get_conn_param_format_err_from_contoller
+L2CA_UpdateBleConnParams
+l2cble_start_conn_update
+E (%u) %s: l2cble_advertiser_conn_comp - failed to allocate LCB
+W (%u) %s: L2CAP - LE - cannot start new connection at conn st: %d
+W (%u) %s: LE link doesn't exist
+E (%u) %s: %s: Invalid handle: %d
+W (%u) %s: unknown device, can not initate connection
+E (%u) %s: initate direct connection fail, topology limitation
+E (%u) %s: initate direct connection fail, no resources
+W (%u) %s: No extend connection parameters set, use default parameters
+E (%u) %s: initate Aux connection failed, no resources
+W (%u) %s: le con upd: inv hdl=%d
+W (%u) %s: le con upd: err_stat=0x%x
+W (%u) %s: No link to update connection parameter
+W (%u) %s: L2CAP - LE - format error, pkt_len: %d  cmd_len: %d  code: %d
+E (%u) %s: slave connection parameters update failed, the parameters are out of range
+W (%u) %s: L2CAP - LE - unknown cmd code: %d
+E (%u) %s: l2cble_scanner_conn_comp - failed to allocate LCB
+W (%u) %s: l2cble_scanner_conn_comp - LCB but no CCB
+E (%u) %s: L2CAP got BLE scanner conn_comp in bad state: %d
+E (%u) %s: upd_ll_conn_params: HANDLE=%d min_conn_int=%d max_conn_int=%d slave_latency=%d supervision_tout=%d
+W (%u) %s: %s, the last connection update command still pending.
+E (%u) %s: l2cab is_cong_cback_context
+W (%u) %s: L2CAP got conn_comp for unknown BD_ADDR
+E (%u) %s: L2CAP got conn_comp in bad state: %d  status: 0x%d
+E (%u) %s: L2CAP failed to allocate LCB
+E (%u) %s: L2CAP got conn_req while connected (state:%d). Reject it
+W (%u) %s: L2CAP - rcvd segment complete, unknown handle: %d
+W (%u) %s: L2CAP - ping timeout
+l2c_init
+E (%u) %s: %s unable to allocate memory for L2CAP channel control block
+E (%u) %s: %s unable to allocate memory for L2CAP Link control block
+E (%u) %s: %s unable to allocate memory for link layer control block
+W (%u) %s: L2CAP HOLD CONTINUE
+W (%u) %s: L2CAP HOLD TIMEOUT
+W (%u) %s: L2CAP - holding ACL for unknown handle:%d ls:%d  cid:%d opcode:%d cur count:%d
+E (%u) %s: L2CAP - rcvd ACL for unknown handle:%d ls:%d cid:%d opcode:%d cur count:%d
+W (%u) %s: L2CAP - expected pkt start or complete, got: %d
+W (%u) %s: L2CAP - unknown CID: 0x%04x
+W (%u) %s: L2CAP - got incorrect hci header
+W (%u) %s: L2CAP - bad length in pkt. Exp: %d  Act: %d
+l2cu_allocate_ccb
+tmp_cid != MAX_L2CAP_CHANNELS + L2CAP_BASE_APPL_CID
+/IDF/components/bt/host/bluedroid/stack/l2cap/l2c_utils.c
+E (%u) %s: Error in allocating L2CAP Link Control Block
+E (%u) %s: L2CAP - no buffer for l2cu_create_conn
+E (%u) %s: l2cu_dequeue_ccb  CID: 0x%04x ERROR in_use: %u  p_lcb: %p  p_q: %p  p_q->p_first_ccb: %p
+E (%u) %s: l2cu_enqueue_ccb  CID: 0x%04x ERROR in_use: %u  p_lcb: %p
+E (%u) %s: l2cu_get_buffer_to_send: No data to be sent
+W (%u) %s: l2cu_reject_ble_connection - no buffer
+W (%u) %s: l2cu_send_peer_ble_credit_based_conn_res - no buffer
+W (%u) %s: l2cu_send_peer_ble_credit_based_disconn_req - no buffer
+W (%u) %s: l2cu_send_peer_ble_par_req - no buffer
+W (%u) %s: l2cu_send_peer_ble_par_rsp - no buffer
+W (%u) %s: L2CAP - no buffer cmd_rej
+W (%u) %s: lcb already released
+W (%u) %s: L2CAP - no buffer for disc_rsp
+W (%u) %s: L2CAP - no buffer for echo_req
+W (%u) %s: L2CAP - no buffer for info_req
+W (%u) %s: L2CAP - no LCB for L2CA_SetAclPriority
+smp_derive_link_key_from_long_term_key
+lmp_version_below
+smp_proc_pair_cmd
+smp_process_pairing_public_key
+E (%u) %s: Association Model = SMP_MODEL_OOB
+E (%u) %s: Association Model = SMP_MODEL_OUT_OF_RANGE (failed)
+E (%u) %s: Association Model = %d (SOMETHING IS WRONG WITH THE CODE)
+BW (%u) %s: dhkey checks do no match
+E (%u) %s: %s pairing failed - slave requires secure connection only mode
+E (%u) %s: %s pairing failed - slave requires auth is 0x%x but peer auth is 0x%x local auth is 0x%x
+E (%u) %s: Master requires secure connection only mode                 but it can't be provided -> Master fails pairing
+E (%u) %s: %s pairing failed - master requires auth is 0x%x but peer auth is 0x%x local auth is 0x%x
+E (%u) %s: Slave requires secure connection only mode                               but it can't be provided -> Slave fails pairing
+E (%u) %s: pairing failed - slave requires auth is 0x%x but peer auth is 0x%x local auth is 0x%x
+E (%u) %s: Association Model = %d is not used in LE SC
+E (%u) %s: %s, Peer and own device cannot have same public key.
+E (%u) %s: %s, Invalid Public key.
+local OOB randomizer
+peer OOB randomizer
+BT_SMP
+W (%u) %s: Non bonding: No keys will be exchanged
+W (%u) %s: %s cannot retrieve LMP version...
+W (%u) %s: %s() - Wrong State: %d
+E (%u) %s: %s() - Wrong BD Addr
+E (%u) %s: %s() - no dev CB
+W (%u) %s: %s() - Numeric Comparison fails
+W (%u) %s: %s creation of local OOB data set starts only in IDLE state
+E (%u) %s: %s: L2C connect fixed channel failed.
+W (%u) %s: SMP_PasskeyReply() - Wrong State: %d
+E (%u) %s: SMP_PasskeyReply() - Wrong BD Addr
+E (%u) %s: SMP_PasskeyReply() - no dev CB
+W (%u) %s: SMP_PasskeyReply() - Wrong key len: %d or passkey entry fail
+W (%u) %s: SMP_Register: duplicate registration, overwrite it
+E (%u) %s: %s received no data
+E (%u) %s: %s data missing
+SMP_Pair
+SMP_ConfirmReply
+SMP_SecureConnectionOobDataReply
+SMP_CreateLocalSecureConnectionsOobData
+SMP_SecureConnectionOobDataReply
+E (%u) %s: No resources
+lsmp_calculate_g2
+smp_calculate_f5
+smp_calculate_f5_mackey_or_long_term_key
+smp_calculate_f5_key
+smp_calculate_f6
+smp_calculate_h6
+smp_rand_back
+smp_encrypt_data
+smp_generate_stk
+smp_generate_ltk_cont
+smp_calculate_legacy_short_term_key
+smp_calculate_link_key_from_long_term_key
+E (%u) %s: smp_generate_csrk failed
+E (%u) %s: smp_calculate_comfirm_cont failed
+E (%u) %s: %s failed to calc T
+E (%u) %s: %s failed to calc MacKey
+E (%u) %s: %s failed to calc LTK
+E (%u) %s: Value for numeric comparison = %d
+W (%u) %s: Don't have peer public address to associate with LK
+E (%u) %s: %s failed to find Security Record
+E (%u) %s: %s failed to derive intermediate_link_key
+E (%u) %s: %s failed to update link_key. Sec Mode = %d, sm4 = 0x%02x
+W (%u) %s: local commitment calc on master is not expected                                     for Just Works/Numeric Comparison models
+W (%u) %s: local commitment calc is expected for OOB model BEFORE pairing
+W (%u) %s: peer commitment calc on slave is not expected                 for Just Works/Numeric Comparison models
+E (%u) %s: smp_generate_csrk failed
+E (%u) %s: %s failed unable to allocate buffer
+E (%u) %s: can not generate confirm for unknown device
+E (%u) %s: can not generate confirm p2 for unknown device
+W (%u) %s: FOR LE SC LTK IS USED INSTEAD OF STK
+E (%u) %s: smp_generate_y failed
+E (%u) %s: %s key generation failed: (%d)
+eltbsmp_tx_complete_callback
+W (%u) %s: Ignore received command with RESERVED code 0x%02x
+E (%u) %s: Unexpected %s: num_pkt = %d
+smp_calculate_f5_mackey_and_long_term_key
+calculated peer commitment
+received peer commitment
+W (%u) %s: Commitment check fails
+E (%u) %s: can not collect peer le addr information for unknown device
+W (%u) %s: Somehow received command with the RESERVED code 0x%02x
+W (%u) %s: Rcvd from the peer cmd 0x%02x with invalid length            0x%02x (per spec the length is 0x%02x).
+W (%u) %s: Rcvd from the peer cmd 0x%02x with Pairing Keypress             Notification value (0x%02x) out of range).
+W (%u) %s: Rcvd from the peer cmd 0x%02x with IO Capabilty             value (0x%02x) out of range).
+W (%u) %s: Rcvd from the peer cmd 0x%02x with OOB data flag value             (0x%02x) out of range).
+W (%u) %s: Rcvd from the peer cmd 0x%02x with Bonding_Flags value (0x%02x)                           out of range).
+W (%u) %s: Rcvd from the peer cmd 0x%02x with Maximum Encryption             Key value (0x%02x) less than minimum required key size).
+W (%u) %s: Rcvd from the peer cmd 0x%02x with Maximum Encryption             Key value (0x%02x) greater than supported by stack).
+E (%u) %s: SMP   failed to pass msg:0x%0x to L2CAP
+btc_transfer_context
+BTC_TASK
+W (%u) %s: %s Invalid parameters
+W (%u) %s: %s No memory
+btc_blufi_recv_handler
+btc_blufi_send_encap
+btc_blufi_wifi_conn_report
+btc_blufi_send_wifi_list
+btc_blufi_send_custom_data
+btc_blufi_cb_deep_copy
+btc_blufi_cb_handler
+btc_blufi_call_handler
+BT_BLUFI
+E (%u) %s: BLUFI already initialized
+E (%u) %s: BLUFI already de-initialized
+E (%u) %s: %s len error %d %d
+E (%u) %s: %s value or value len error
+E (%u) %s: %s mem malloc error
+E (%u) %s: %s UNKNOWN %d
+E (%u) %s: %s seq %d is not expect %d
+E (%u) %s: %s decrypt error %d
+E (%u) %s: %s checksum error %04x, pkt %04x
+E (%u) %s: %s msg error, blufi_env.aggr_buf is not freed
+E (%u) %s: %s no mem, len %d
+E (%u) %s: %s payload is longer than packet length, len %d 
+E (%u) %s: %s buffer is NULL
+E (%u) %s: blufi connection has been disconnected 
+E (%u) %s: %s encrypt error %d
+E (%u) %s: malloc error
+E (%u) %s: %s len error
+btc_blufi_protocol_handler
+E (%u) %s: %s Unkown Ctrl pkt %02x
+osi_alarm_create_mux
+osi_alarm_delete_mux
+osi_alarm_init
+osi_alarm_deinit
+alarm_cb_handler
+osi_alarm_new
+alarm_free
+osi_alarm_free
+alarm_set
+osi_alarm_cancel
+osi_alarm_get_remaining_ms
+osi_alarm_is_active
+W (%u) %s: %s, invalid state %d
+E (%u) %s: %s failed to delete timer, err 0x%x
+alarm_mutex != NULL
+/IDF/components/bt/common/osi/alarm.c
+BT_OSI
+E (%u) %s: %s, invalid state %d
+E (%u) %s: %s null
+E (%u) %s: %s failed to start timer, err 0x%x
+alarm != NULL
+E (%u) %s: %s failed to create timer, err 0x%x
+E (%u) %s: %s alarm_cbs exhausted
+config_new_empty
+config_new
+config_has_section
+config_has_key
+config_get_int
+config_get_string
+config_set_int
+config_remove_section
+config_update_newest_section
+config_remove_key
+config_section_begin
+config_section_end
+config_section_next
+config_section_name
+get_config_size_from_flash
+config_save
+config_parse
+/IDF/components/bt/common/osi/config.c
+filename != NULL
+E (%u) %s: %s: NVS not initialized. Call nvs_flash_init before initializing bluetooth.
+E (%u) %s: %s unable to open NVS namespace '%s'
+fp != 0
+E (%u) %s: %s, malloc error
+bt_cfg_key
+E (%u) %s: %s, error %d
+Global
+W (%u) %s: %s exceed max line length on line %d.
+W (%u) %s: %s unterminated section name on line %d.
+E (%u) %s: %s returned with err code: %d
+E (%u) %s: %s unable to allocate memory for config_t.
+E (%u) %s: %s unable to allocate list for sections.
+*filename != '\0'
+E (%u) %s: snprintf error w_cnt %d.
+E (%u) %s: %s, memcpy size (w_cnt + w_cnt_total = %d) is larger than buffer size (config_size = %d).
+%s = %s
+E (%u) %s: %s, memcpy size (w_cnt + w_cnt_total = %d) is larger than buffer size.(config_size = %d)
+count <= 0xFF
+E (%u) %s: %s, err_code: 0x%x
+node != NULL
+fixed_queue_enqueue
+fixed_queue_dequeue
+fixed_queue_try_remove_from_queue
+fixed_queue_get_list
+fixed_queue_register_dequeue
+fixed_queue_unregister_dequeue
+fixed_queue_process
+queue != NULL
+/IDF/components/bt/common/osi/fixed_queue.c
+ready_cb != NULL
+removed
+fixed_pkt_queue_enqueue
+fixed_pkt_queue_dequeue
+fixed_pkt_queue_register_dequeue
+fixed_pkt_queue_unregister_dequeue
+fixed_pkt_queue_process
+/IDF/components/bt/common/osi/fixed_pkt_queue.c
+ret == true
+future_new
+future_ready
+future_await
+E (%u) %s: %s unable to allocate memory for the semaphore.
+E (%u) %s: %s unable to allocate memory for return value.
+future != NULL
+/IDF/components/bt/common/osi/future.c
+future->ready_can_be_called
+hash_map_new_internal
+hash_map_has_key
+hash_map_set
+hash_map_erase
+hash_map_get
+hash_map_clear
+hash_map_foreach
+bucket_free_
+/IDF/components/bt/common/osi/hash_map.c
+callback != NULL
+hash_map != NULL
+hash_fn != NULL
+num_bucket > 0
+rc == true
+list_insert_after
+list_prepend
+list_append
+list_is_empty
+list_contains
+list_get_node
+list_length
+list_front
+list_back
+list_insert_after
+list_prepend
+list_append
+list_remove
+list_delete
+list_clear
+list_foreach
+list_begin
+list_end
+list_next
+list_node
+list_free_node
+list_delete_node
+!list_is_empty(list)
+prev_node != NULL
+E (%u) %s: %s osi_calloc failed.
+list != NULL
+/IDF/components/bt/common/osi/list.c
+osi_thead_work_queue_get
+osi_thead_work_queue_put
+osi_thread_post
+osi_thread_post_event
+func != NULL
+event != NULL && event->thread != NULL
+event->queue_idx >= 0 && event->queue_idx < event->thread->work_queue_num
+wq != NULL
+/IDF/components/bt/common/osi/thread.c
+wq->queue != 0
+E (%u) %s: %s malloc failed
+BTA_DmBleGapReadPHY
+BTA_DmBleGapSetPreferedDefaultPHY
+BTA_DmBleGapSetPreferedPHY
+BTA_DmBleGapExtAdvSetRandaddr
+BTA_DmBleGapExtAdvSetParams
+BTA_DmBleGapConfigExtAdvDataRaw
+BTA_DmBleGapExtAdvEnable
+BTA_DmBleGapExtAdvSetRemove
+BTA_DmBleGapExtAdvSetClear
+BTA_DmBleGapPeriodicAdvSetParams
+BTA_DmBleGapPeriodicAdvCfgDataRaw
+BTA_DmBleGapPeriodicAdvEnable
+BTA_DmBleGapPeriodicAdvCreateSync
+BTA_DmBleGapPeriodicAdvSyncCancel
+BTA_DmBleGapPeriodicAdvSyncTerm
+BTA_DmBleGapPeriodicAdvAddDevToList
+BTA_DmBleGapPeriodicAdvRemoveDevFromList
+BTA_DmBleGapPeriodicAdvClearDev
+BTA_DmBleGapSetExtScanParams
+BTA_DmBleGapExtScan
+BTA_DmBleGapPreferExtConnectParamsSet
+Bbta_dm_co_ble_set_io_cap
+bta_dm_co_ble_set_max_key_size
+bta_dm_co_ble_set_min_key_size
+E (%u) %s: %s error:Invalid io cap value.
+E (%u) %s: %s error:Invalid key size value, key_size =%d
+<E (%u) %s: %s: deregistration failed, handle is 0
+E (%u) %s: %s client_if: %d not registered bd_addr:%02x:%02x:%02x:%02x:%02x:%02x
+E (%u) %s: %s registration not found bd_addr:%02x:%02x:%02x:%02x:%02x:%02x
+W (%u) %s: GATTC Module not enabled/already disabled
+E (%u) %s: deregistration failed, handle is 0
+E (%u) %s: Max Notification Reached, registration failed,see CONFIG_BT_GATTC_NOTIF_REG_MAX in menuconfig
+E (%u) %s: Client_if: %d Not Registered
+BTA_GATTC_DeregisterForNotifications
+Bbta_gattc_insert_sec_service_to_cache
+bta_gattc_add_srvc_to_cache
+bta_gattc_add_char_to_cache
+bta_gattc_add_attr_to_cache
+E (%u) %s: %s: Illegal action to add descriptor before adding a characteristic!
+E (%u) %s: Illegal action to add char/descr/incl srvc for non-existing service!
+W (%u) %s: %s(), no resource.
+E (%u) %s: service not added, no resources or wrong state, see CONFIG_BT_GATTC_MAX_CACHE_CHAR
+E (%u) %s: invalid included service handle: [0x%04x ~ 0x%04x]
+E (%u) %s: No service available, unexpected char discovery result
+E (%u) %s: char not added, no resources, see CONFIG_BT_GATTC_MAX_CACHE_CHAR
+E (%u) %s: unknown connection ID
+E (%u) %s: %s services/p_new_srvc is NULL
+bta_to_btif_uuid
+bta_gattc_enqueue
+bta_gattc_mark_bg_conn
+E (%u) %s: bta_gattc_clcb_dealloc p_clcb=NULL
+E (%u) %s: can not clear indication/notif registration for unknown app
+E (%u) %s: %s(), the gattc command queue is full.
+E (%u) %s: %s(), line = %d, alloc fail, no memery.
+W (%u) %s: %s unable to find the bg connection mask for: %s
+E (%u) %s: no available space to mark the bg connection status
+E (%u) %s: Allocate fail for %s
+W (%u) %s: GATTS Module not enabled/already disabled
+BTA_GATTS_AddCharDescriptor
+BE (%u) %s: service not created
+bta_alarm_cb
+bta_sys_start_timer
+bta_sys_timer_is_active
+bta_sys_stop_timer
+bta_sys_free_timer
+/IDF/components/bt/host/bluedroid/bta/sys/bta_sys_main.c
+BW (%u) %s: bta_sys_disable: unkown module
+W (%u) %s: BTA got unregistered event id %d
+<bta_sys
+E (%u) %s: %s unable to create alarm.
+btc_dm_link_up_evt
+btc_dm_auth_cmpl_evt
+btc_in_execute_service_request
+btc_dm_sec_arg_deep_copy
+btc_dm_auth_cmpl_evt
+btc_dm_sec_cb_handler
+dst_dm_sec
+/IDF/components/bt/host/bluedroid/btc/core/btc_dm.c
+src_dm_sec->ble_key.p_key_value
+dst_dm_sec->ble_key.p_key_value
+E (%u) %s: %s malloc fail
+ESP32
+ret == BT_STATUS_SUCCESS && "storing link key failed"
+W (%u) %s: %s() - Pairing timeout; retrying () ...
+E (%u) %s:  %s() Authentication fail reason %d
+E (%u) %s:  %s() BTA_DmRemoveDevice error
+E (%u) %s:  %s() btc_storage_remove_bonded_device error
+E (%u) %s: %s btc_inter_profile_call failed
+E (%u) %s: %s: Unknown service being enabled
+W (%u) %s: exceeded the maximum nubmer of bonded devices, delete the first device info : %02x:%02x:%02x:%02x:%02x:%02x
+LinkKeyType
+PinLength
+SCSupport
+DevClass
+E (%u) %s: bounded device:%s, LinkKeyType or PinLength is invalid
+W (%u) %s: exceeded the maximum number of bonded devices, delete the exceed device info : %02x:%02x:%02x:%02x:%02x:%02x
+btc_gatt_com_call_handler
+interop_match
+/IDF/components/bt/host/bluedroid/device/interop.c
+hci_hal_env_init
+transmit_data
+host_recv_adv_packet
+hci_adv_credits_consumed
+hci_adv_credits_prep_to_release
+hci_adv_credits_release
+hci_adv_credits_release_rollback
+hci_adv_credits_try_release
+hci_hal_h4_hdl_rx_packet
+hci_hal_h4_hdl_rx_adv_rpt
+host_recv_pkt_cb
+upper_callbacks != NULL
+/IDF/components/bt/host/bluedroid/hci/hci_hal_h4.c
+task_thread != NULL
+hci_hal_env.adv_fc_cmd_buf != NULL
+adv_fc_mon
+hci_hal_env.adv_flow_monitor != NULL
+hci_hal_env.rx_q != NULL
+hci_hal_env.adv_rpt_q != NULL
+hci_hal_env.adv_credits >= num
+hci_hal_env.adv_credits <= BLE_ADV_REPORT_FLOW_CONTROL_NUM
+hci_hal_env.adv_credits >=0
+hci_hal_env.adv_credits_to_release <= BLE_ADV_REPORT_FLOW_CONTROL_NUM
+credits_released == 0
+E (%u) %s: Workround stream corrupted during LE SCAN: pkt_len=%d ble_event_len=%d
+E (%u) %s: %s Unknown HCI message type. Dropping this byte 0x%x, min %x, max %x
+E (%u) %s: Wrong packet length type=%d pkt_len=%d hdr_len=%d
+E (%u) %s: Wrong packet length type=%d hdr_len=%d pd_len=%d pkt_len=%d
+host_recv_adv_packet(stream) == true
+packet
+E (%u) %s: %s couldn't aquire memory for inbound data buffer.
+Blength > 0
+E (%u) %s: %s invalid data type: %d
+BE (%u) %s: %s failed due to no memory
+BTE_InitStack
+E (%u) %s: BD Address not found!
+W (%u) %s: condition type [%d] not supported currently.
+btm_ble_scan_pf_cmpl_cback
+E (%u) %s: unable to perform action:%d for generic adv filter type
+E (%u) %s: Error: Can not clear filter, No PF filter has been configured!
+E (%u) %s: unknown PF filter condition type %d
+E (%u) %s: no matching filter counter found
+E (%u) %s: %s cannot interpret APCF callback status = %d, length = %d
+E (%u) %s: btm_ble_scan_pf_cmpl_cback:3-Incorrect opcode :%d, %d, %d, %d, %d, %d
+E (%u) %s: btm_ble_scan_pf_cmpl_cback:4-Incorrect opcode: %d, %d, %d, %d, %d
+E (%u) %s: btm_ble_scan_pf_cmpl_cback: unknown operation: %d
+E (%u) %s: Broadcaster Address Filter Update failed
+E (%u) %s: Local Name PF filter update failed
+E (%u) %s: manufacturer data PF filter update failed
+E (%u) %s: Illegal param for add/delete UUID filter
+E (%u) %s: Update Address filter into controller failed.
+E (%u) %s: illegal UUID length: %d
+E (%u) %s: UUID filter udpating failed
+E (%u) %s: Illegal enable scan params
+E (%u) %s: Illegal read scan params: %d, %d, %d
+E (%u) %s: Controller does not support batch scan
+E (%u) %s: Illegal set storage config params
+E (%u) %s: Controller does not support scan storage
+E (%u) %s: btm_ble_batchscan_deq_rep_data: rep_format:%d not found
+E (%u) %s: wrong length for btm_ble_batch_scan_vsc_cmpl_cback
+E (%u) %s: Got unexpected VSC cmpl, expected: %d got: %d
+E (%u) %s: SCAN_ENB_DISAB_CUST_FEATURE - Invalid state after enb
+E (%u) %s: BTM_BLE_BATCH_SCAN_SET_PARAMS - Invalid state after disabled
+E (%u) %s: btm_ble_enable_disable_batchscan %d
+E (%u) %s: btm_ble_read_batchscan_reports %d
+E (%u) %s: btm_ble_set_batchscan_param %d
+E (%u) %s: btm_ble_set_storage_config %d
+attp_build_sr_msg
+E (%u) %s: Invalid parameters in %s, op_code=0x%x, the p_msg should not be NULL.
+E (%u) %s: invalid payload_size %d
+W (%u) %s: attribute value too long, to be truncated to %d
+E (%u) %s: Peer device not connected
+gatt_disc_cmpl_cback
+gatt_cl_start_config_ccc
+E (%u) %s: %s() - ccc service error
+E (%u) %s: %s() - ccc char error
+E (%u) %s: %s() - ccc char descriptor error
+E (%u) %s: %s() - write ccc error
+E (%u) %s: %s() - Register for service changed indication failure
+J\8Ws
+:c|w{
+esp_blufi_send_encap
+E (%u) %s: blufi service added error.
+E (%u) %s: BLUFI profile register failed
+E (%u) %s: BLUFI profile unregister failed
+E (%u) %s: Blufi prep no mem
+E (%u) %s: write data error , error code 0x%x
+W (%u) %s: %s ble connection is broken
+W (%u) %s: %s wait to send blufi custom data
+bt_mesh_config_server_cb_evt_to_btc
+btc_ble_mesh_config_server_cb_handler
+BLE_MESH
+E (%u) %s: %s, Invalid parameter
+E (%u) %s: Unknown Config server event type %d
+E (%u) %s: %s, Unknown act %d
+btc_ble_mesh_generic_server_copy_req_data
+btc_ble_mesh_generic_server_free_req_data
+bt_mesh_generic_server_cb_evt_to_btc
+btc_ble_mesh_generic_server_cb_handler
+E (%u) %s: Unknown Generic Server event type %d
+E (%u) %s: %s, Out of memory, act %d
+btc_ble_mesh_health_server_copy_req_data
+btc_ble_mesh_health_server_free_req_data
+btc_ble_mesh_health_server_call_handler
+btc_ble_mesh_health_server_cb_handler
+btc_ble_mesh_lighting_server_copy_req_data
+btc_ble_mesh_lighting_server_free_req_data
+bt_mesh_lighting_server_cb_evt_to_btc
+btc_ble_mesh_lighting_server_cb_handler
+E (%u) %s: Unknown Lighting server event type %d
+btc_ble_mesh_prov_arg_deep_free
+btc_ble_mesh_model_arg_deep_free
+btc_ble_mesh_model_copy_req_data
+btc_ble_mesh_model_free_req_data
+btc_ble_mesh_model_op_set
+btc_ble_mesh_prov_call_handler
+btc_ble_mesh_prov_cb_handler
+btc_ble_mesh_model_call_handler
+btc_ble_mesh_model_cb_handler
+E (%u) %s: Failed to set client role
+E (%u) %s: %s, Out of memory
+E (%u) %s: btc_transfer_context failed
+E (%u) %s: Time Setup Server shall not support publication
+W (%u) %s: %s, Unknown act %d
+btc_ble_mesh_sensor_server_copy_req_data
+btc_ble_mesh_sensor_server_free_req_data
+bt_mesh_sensor_server_cb_evt_to_btc
+btc_ble_mesh_sensor_server_cb_handler
+E (%u) %s: Unknown Sensor server event type %d
+bt_mesh_time_scene_server_cb_evt_to_btc
+btc_ble_mesh_time_scene_server_cb_handler
+E (%u) %s: Unknown Time Scene server event type %d
+Bbt_mesh_alloc_buf
+bt_mesh_get_device_role
+bt_mesh_rand
+bt_mesh_mutex_create
+E (%u) %s: Create, invalid mutex
+mutex->mutex
+/IDF/components/bt/esp_ble_mesh/mesh_common/mesh_mutex.c
+E (%u) %s: Free, invalid mutex
+E (%u) %s: Lock, invalid mutex
+E (%u) %s: Unlock, invalid mutex
+bt_mesh_timer_init
+k_delayed_work_init
+k_delayed_work_submit
+k_delayed_work_submit_periodic
+k_delayed_work_cancel
+k_delayed_work_free
+k_delayed_work_remaining_get
+bm_alarm_hash_map
+/IDF/components/bt/esp_ble_mesh/mesh_common/mesh_timer.c
+W (%u) %s: Cancel, alarm not found
+W (%u) %s: Free, alarm not found
+bt_mesh
+E (%u) %s: Alarm not created
+E (%u) %s: Alarm not set
+E (%u) %s: Init, alarm not found
+W (%u) %s: Get time, alarm not found
+W (%u) %s: Submit, alarm not found
+E (%u) %s: Invalid device composition
+E (%u) %s: Model has no publication support
+W (%u) %s: Unassigned publish address
+E (%u) %s: Invalid AppKeyIndex 0x%03x
+E (%u) %s: Failed to get model role
+E (%u) %s: Invalid NetKeyIndex 0x%04x
+E (%u) %s: Invalid model deinit user data
+E (%u) %s: Model deinit failed (err %d)
+E (%u) %s: Invalid model init user data
+E (%u) %s: Model init failed (err %d)
+E (%u) %s: AppKey 0x%03x not exists
+E (%u) %s: Failed to retransmit (err %d)
+E (%u) %s: Update failed, skipping publish (err %d)
+W (%u) %s: Publication sending took longer than the period
+E (%u) %s: Publishing failed (err %d)
+dev_comp_data_get
+E (%u) %s: Appkey(0x%02x) not bound to this model.
+E (%u) %s: Unable to send Config AppKey List
+E (%u) %s: Unable to send Config AppKey Status
+W (%u) %s: Invalid Config Beacon value 0x%02x
+E (%u) %s: Unable to send Config Beacon Status
+W (%u) %s: No matching Label UUID for 0x%04x
+E (%u) %s: Configuration Server only allowed in primary element
+E (%u) %s: No Configuration Server context provided
+E (%u) %s: Invalid values in configuration
+W (%u) %s: Prohibited Default TTL value 0x%02x
+E (%u) %s: Unable to send Config Default TTL Status
+W (%u) %s: Composition page %u not available
+E (%u) %s: Too large device composition
+E (%u) %s: Unable to get composition page 0
+E (%u) %s: Unable to send Config Composition Data Status
+W (%u) %s: Invalid Friend value 0x%02x
+W (%u) %s: No Configuration Server context available
+W (%u) %s: Invalid GATT Proxy value 0x%02x
+E (%u) %s: Unable to send Config Heartbeat Publication Status
+E (%u) %s: No matching subnet for idx 0x%04x
+E (%u) %s: Unable to send Config Heartbeat Subscription Status
+W (%u) %s: Prohibited source address
+W (%u) %s: Prohibited destination address
+W (%u) %s: Prohibited subscription period 0x%02x
+W (%u) %s: Prohibited transition %u -> %u
+W (%u) %s: Invalid LPNAddress; ignoring msg
+E (%u) %s: Unable to send Config LPN PollTimeout Status
+E (%u) %s: Client tried to bind AppKey to Configuration Model
+E (%u) %s: Unable to send Config Model App Bind Status
+E (%u) %s: Unable to send Config Model Application List
+E (%u) %s: Unable to send Config Model App Unbind Status
+E (%u) %s: Invalid TTL value 0x%02x
+E (%u) %s: Prohibited element address 0x%04x
+E (%u) %s: Unable to send Config Model Subscription List
+E (%u) %s: Unable to send Config Vendor Model Subscription List
+E (%u) %s: Label UUID not found
+E (%u) %s: Unable to send Config NetKey List
+E (%u) %s: Unable to send Config Network Transmit Status
+W (%u) %s: Invalid NetKeyIndex 0x%04x
+W (%u) %s: Invalid Node ID value 0x%02x
+E (%u) %s: Unable to send Config Node Identity Status
+E (%u) %s: Unable to send Config Node Reset Status
+W (%u) %s: Invalid Relay value 0x%02x
+E (%u) %s: Unable to send Config Relay Status
+E (%u) %s: Unable to send Config Friend Status
+E (%u) %s: Unable to send Config GATT Proxy Status
+E (%u) %s: Unable to send Config Key Refresh Phase Status
+E (%u) %s: Unable to send Config Model Publication Status
+E (%u) %s: Unable to send Config Model Subscription Status
+E (%u) %s: Unable to send Config NetKey Status
+Bid128
+health_send_fault_status
+W (%u) %s: No Health Server context provided
+E (%u) %s: Health Server not exists
+E (%u) %s: Unknown Company ID 0x%04x
+E (%u) %s: Unknown Test ID 0x%02x
+W (%u) %s: Prohibited period value %u
+E (%u) %s: Invalid health publication context
+E (%u) %s: Too small health publication msg size %d
+E (%u) %s: Failed to send Health Fault Status response
+E (%u) %s: No Health Server context provided
+E (%u) %s: No Health Test ID provided
+E (%u) %s: Health Server has no publication support
+E (%u) %s: Unable to send Health Attention Status
+E (%u) %s: Unable to send Health Period Status
+BE (%u) %s: Subscribe, model not found, cid 0x%04x, mod_id 0x%04x
+E (%u) %s: Subscribe, not a group address 0x%04x
+E (%u) %s: Subscribe, model sub is full!
+E (%u) %s: Unsubscribe, model not found, cid 0x%04x, mod_id 0x%04x
+E (%u) %s: Unsubscribe, not a group address 0x%04x
+W (%u) %s: Group address 0x%04x not exists
+E (%u) %s: Invalid unicast address 0x%04x
+E (%u) %s: No element found, addr 0x%04x
+bt_mesh_init
+bt_mesh_deinit
+W (%u) %s: %s, Not provisioned
+W (%u) %s: %s, Already
+E (%u) %s: Invalid bearers 0x%02x
+E (%u) %s: %s, Mismatch role %u
+W (%u) %s: Authentication Value %s != %s
+E (%u) %s: Insufficient MIC space for CTL PDU
+E (%u) %s: Insufficient MIC space for PDU
+W (%u) %s: IV Index mismatch: 0x%08x != 0x%08x
+E (%u) %s: IV Index out of sync: 0x%08x != 0x%08x
+W (%u) %s: Performing IV Index Recovery
+W (%u) %s: Ignoring new index in normal mode
+W (%u) %s: IV Update before minimum duration
+W (%u) %s: IV Update deferred because of pending transfer
+E (%u) %s: Unable to generate NID, EncKey & PrivacyKey
+E (%u) %s: Unable to generate Net ID
+E (%u) %s: Unable to generate beacon key
+E (%u) %s: De-obfuscate failed (err %d)
+E (%u) %s: Decrypt failed (err %d)
+E (%u) %s: Encrypt failed (err %d)
+E (%u) %s: Obfuscate failed (err %d)
+E (%u) %s: stopping scan failed (err %d)
+E (%u) %s: starting scan failed (err %d)
+seg_tx_done
+E (%u) %s: No multi-segment message contexts available
+E (%u) %s: Out of segment buffers
+E (%u) %s: Sending segment failed (err %d)
+E (%u) %s: Out of transport buffers
+W (%u) %s: Incomplete timer expired
+W (%u) %s: Ran out of retransmit attempts
+E (%u) %s: Sending segment failed
+Bbt_mesh_client_send_msg
+E (%u) %s: Invalid client user data
+E (%u) %s: Invalid client list item
+E (%u) %s: Invalid vendor client model
+E (%u) %s: No vendor client context provided
+E (%u) %s: Invalid DST 0x%04x
+E (%u) %s: Failed to send client message 0x%08x
+E (%u) %s: Invalid timeout handler
+E (%u) %s: Busy sending message to DST 0x%04x
+E (%u) %s: Not found the status opcode in op_pair list
+E (%u) %s: Failed to create a timer
+E (%u) %s: Invalid client internal data
+E (%u) %s: Invalid client model
+E (%u) %s: Invalid client role 0x%02x
+send_gen_onpowerup_status
+gen_onpowerup_get
+gen_onpowerup_publish
+gen_onpowerup_set
+send_gen_power_level_status
+gen_power_level_get
+gen_power_level_publish
+gen_power_level_set
+gen_power_default_set
+gen_power_range_set
+gen_battery_get
+send_gen_location_status
+gen_location_get
+gen_location_set
+send_gen_user_prop_status
+gen_user_prop_get
+gen_user_prop_set
+send_gen_admin_prop_status
+gen_admin_prop_get
+gen_admin_prop_set
+send_gen_manu_prop_status
+gen_manu_prop_get
+gen_manu_prop_set
+gen_client_prop_get
+send_gen_onoff_status
+gen_onoff_get
+gen_onoff_publish
+gen_onoff_set
+send_gen_level_status
+gen_level_get
+gen_level_publish
+gen_level_set
+gen_delta_set
+gen_move_set
+send_gen_def_trans_time_status
+gen_def_trans_time_get
+gen_def_trans_time_set
+W (%u) %s: Unknown Generic Admin Property Get opcode 0x%04x
+E (%u) %s: Invalid Admin Access 0x%02x
+E (%u) %s: Generic Admin Property Server has no publication support
+E (%u) %s: Generic Battery Server has no publication support
+W (%u) %s: Too large generic client properties status
+E (%u) %s: Generic Client Property Server has no publication support
+E (%u) %s: %s, Invalid model user data
+W (%u) %s: Invalid Transaction Number of Steps 0x3f
+E (%u) %s: Generic Default Trans Time Server has no publication support
+E (%u) %s: Generic Level Server has no publication support
+W (%u) %s: Unknown Generic Location Get opcode 0x%04x
+W (%u) %s: Unknown Generic Location Set opcode 0x%04x
+W (%u) %s: Generic Location Setup Server not present
+E (%u) %s: Generic Location Server has no publication support
+W (%u) %s: Unknown Generic Manu Property Get opcode 0x%04x
+E (%u) %s: Invalid Manu Access 0x%02x
+E (%u) %s: Generic Manufacturer Property Server has no publication support
+E (%u) %s: Invalid OnOff value 0x%02x
+E (%u) %s: Generic OnOff Server has no publication support
+E (%u) %s: Invalid Generic Power OnOff Server state
+E (%u) %s: Invalid Generic Power OnOff Setup Server state
+W (%u) %s: Invalid OnPowerUp value 0x%02x
+W (%u) %s: Unknown Generic Power Get opcode 0x%04x
+E (%u) %s: Invalid Generic Power Level Server state
+E (%u) %s: Invalid Generic Power Level Setup Server state
+E (%u) %s: Invalid Generic Power Level Server 0x%04x
+E (%u) %s: Generic Power Level Server has no publication support
+W (%u) %s: Generic Power Level Setup Server not present
+E (%u) %s: Generic Power OnOff Server has no publication support
+W (%u) %s: Generic Power OnOff Setup Server not present
+E (%u) %s: Range min 0x%04x is greater than range max 0x%04x
+W (%u) %s: Unknown Generic User Property Get opcode 0x%04x
+E (%u) %s: Invalid User Property 0x%04x length, expect %d, actual %d
+E (%u) %s: Generic User Property Server has no publication support
+E (%u) %s: Invalid Generic Server user data, model id 0x%04x
+E (%u) %s: Invalid Generic Power Level State
+W (%u) %s: Unknown Generic Server, model id 0x%04x
+E (%u) %s: Invalid Generic OnPowerUp State
+E (%u) %s: Invalid Generic Location State
+E (%u) %s: Invalid Generic User Property State
+E (%u) %s: Invalid Generic Admin Property State
+E (%u) %s: Invalid Generic Manufacturer Property State
+E (%u) %s: Invalid Generic Client Property State
+E (%u) %s: Invalid Admin Property ID 0x%04x
+W (%u) %s: Admin property 0x%04x not exists
+W (%u) %s: Unknown Generic Location status opcode 0x%04x
+E (%u) %s: Invalid Manu Property ID 0x%04x
+W (%u) %s: Manu property 0x%04x not exists
+E (%u) %s: %s, Send failed, err %d
+E (%u) %s: Invalid Generic Power OnOff Server 0x%04x
+W (%u) %s: Unknown Generic Power status opcode 0x%04x
+E (%u) %s: Invalid User Property ID 0x%04x
+W (%u) %s: User property 0x%04x not exists
+Bsend_light_lightness_status
+light_lightness_get
+light_lightness_publish
+light_lightness_set
+light_lightness_linear_set
+light_lightness_default_set
+light_lightness_range_set
+send_light_ctl_status
+light_ctl_get
+light_ctl_publish
+light_ctl_set
+light_ctl_default_set
+light_ctl_temp_range_set
+light_ctl_temp_set
+send_light_hsl_status
+light_hsl_get
+light_hsl_publish
+light_hsl_set
+light_hsl_default_set
+light_hsl_range_set
+light_hsl_hue_set
+light_hsl_sat_set
+send_light_xyl_status
+light_xyl_get
+light_xyl_publish
+light_xyl_set
+light_xyl_default_set
+light_xyl_range_set
+send_light_lc_status
+light_lc_get
+light_lc_publish
+light_lc_mode_set
+light_lc_om_set
+light_lc_light_onoff_set
+light_lc_sensor_status
+send_light_lc_prop_status
+light_lc_prop_get
+light_lc_prop_set
+E (%u) %s: Invalid temperature 0x%04x
+E (%u) %s: Invalid Light CTL Server state
+E (%u) %s: Invalid Light CTL Temperature Server state
+E (%u) %s: Invalid Light CTL Server model 0x%04x
+W (%u) %s: Unknown Light CTL Get opcode 0x%04x
+E (%u) %s: Invalid Light CTL Setup Server state
+E (%u) %s: Light CTL Server has no publication support
+W (%u) %s: Light CTL Setup Server not present
+W (%u) %s: Light CTL Server requires two elements
+E (%u) %s: Invalid parameter, range min 0x%04x, range max 0x%04x
+E (%u) %s: Light CTL Temperature Server has no publication support
+E (%u) %s: Invalid Light HSL Server state
+E (%u) %s: Invalid Light HSL Hue Server state
+E (%u) %s: Invalid Light HSL Saturation Server state
+E (%u) %s: Invalid Light HSL Server model 0x%04x
+W (%u) %s: Unknown Light HSL Get opcode 0x%04x
+E (%u) %s: Light HSL Hue Server has no publication support
+E (%u) %s: Invalid Light HSL Setup Server state
+E (%u) %s: Invalid parameter, hue min 0x%04x, hue max 0x%04x
+E (%u) %s: Invalid parameter, saturation min 0x%04x, saturation max 0x%04x
+E (%u) %s: Light HSL Saturation Server has no publication support
+E (%u) %s: Light HSL Server has no publication support
+W (%u) %s: Light HSL Setup Server not present
+W (%u) %s: Light HSL Server requires three elements
+W (%u) %s: Unknown Light LC Get opcode 0x%04x
+E (%u) %s: Invalid LC Mode 0x%02x
+E (%u) %s: Invalid LC Occupancy Mode 0x%02x
+E (%u) %s: Invalid Light LC Property ID 0x%04x
+E (%u) %s: Invalid Light LC Property 0x%04x length, expect %d, actual %d
+W (%u) %s: Invalid Motion Sensed Property length %d
+E (%u) %s: Light LC Setup Server has no publication support
+W (%u) %s: Light LC Setup Server not present
+E (%u) %s: Light LC Server has no publication support
+W (%u) %s: Unknown Light Lightness Get opcode 0x%04x
+E (%u) %s: Invalid Light Lightness Server state
+E (%u) %s: Invalid Light Lightness Setup Server state
+E (%u) %s: Invalid Light Lightness Server model 0x%04x
+E (%u) %s: Light Lightness Server has no publication support
+W (%u) %s: Light Lightness Setup Server not present
+E (%u) %s: Invalid Lighting Server user data, model id 0x%04x
+E (%u) %s: Invalid Light Lightness State
+E (%u) %s: Invalid Light CTL State
+E (%u) %s: Invalid Light HSL State
+E (%u) %s: Invalid Light xyL State
+E (%u) %s: Invalid Light LC State
+W (%u) %s: Unknown Light Server, model id 0x%04x
+W (%u) %s: Unknown Light xyL Get opcode 0x%04x
+E (%u) %s: Invalid Light xyL Server state
+E (%u) %s: Invalid Light xyL Setup Server state
+E (%u) %s: Invalid Light xyL Server model 0x%04x
+E (%u) %s: Invalid parameter, x min 0x%04x, x max 0x%04x
+E (%u) %s: Invalid parameter, y min 0x%04x, y max 0x%04x
+E (%u) %s: Light xyL Server has no publication support
+W (%u) %s: Light xyL Setup Server not present
+W (%u) %s: Unknown Light CTL status opcode 0x%04x
+W (%u) %s: Unknown Light HSL status opcode 0x%04x
+E (%u) %s: Failed to get Light LC Property value
+W (%u) %s: Unknown Light LC status opcode 0x%04x
+W (%u) %s: Unknown Light Lightness status opcode 0x%04x
+W (%u) %s: Unknown Light xyL status opcode 0x%04x
+Bsend_sensor_descriptor_status
+send_sensor_data_status
+send_sensor_cadence_status
+send_sensor_settings_status
+send_sensor_setting_status
+send_sensor_column_status
+send_sensor_series_status
+sensor_get
+sensor_cadence_set
+update_sensor_periodic_pub
+sensor_setting_set
+E (%u) %s: Invalid Sensor Property ID 0x%04x
+E (%u) %s: Same Sensor Property ID 0x%04x exists
+E (%u) %s: Invalid Sensor Setting state
+E (%u) %s: Same Sensor Setting Property ID 0x%04x exists
+E (%u) %s: Invalid Sensor Cadence state
+E (%u) %s: Invalid Sensor Data state
+W (%u) %s: Sensor Property ID 0x%04x not exists
+W (%u) %s: Sensor Setting not found, 0x%04x, 0x%04x
+E (%u) %s: Prohibited Sensor Property ID 0x0000
+E (%u) %s: Prohibited Fast Cadence Period Divisor 0x%02x
+E (%u) %s: Invalid Sensor Cadence Set length %d, trigger type %d
+E (%u) %s: Invalid Status Min Interval %d
+E (%u) %s: Different length of Fast Cadence Low & High, length %d
+W (%u) %s: Sensor Server model not exists in the element
+E (%u) %s: Invalid Sensor Server model 0x%04x
+E (%u) %s: Sensor Property ID 0x%04x not exists
+W (%u) %s: Sensor Cadence state not exists
+E (%u) %s: Invalid Sensor Server state
+W (%u) %s: Too large sensor descriptor status
+W (%u) %s: Too large sensor status
+E (%u) %s: Invalid Sensor Setup Server state
+W (%u) %s: Too large sensor settings status
+W (%u) %s: Unknown Sensor Get opcode 0x%04x
+E (%u) %s: Invalid Sensor Server user, model id 0x%04x
+E (%u) %s: Invalid Sensor Server user data, model id 0x%04x
+E (%u) %s: Invalid Sensor state, model id 0x%04x
+W (%u) %s: Unknown Sensor Server, model id 0x%04x
+E (%u) %s: Prohibited Sensor Setting Property ID 0x0000
+E (%u) %s: Sensor Setup Server has no publication support
+E (%u) %s: Sensor Server has no publication support
+W (%u) %s: Sensor Setup Server not present
+Bbt_mesh_get_light_lc_trans_time
+bt_mesh_server_get_optional
+bt_mesh_server_alloc_ctx
+bt_mesh_server_free_ctx
+bt_mesh_server_get_pub_msg
+E (%u) %s: Invalid a Light LC Server 0x%04x
+E (%u) %s: Invalid Light LC Server user data
+/IDF/components/bt/esp_ble_mesh/mesh_models/server/server_common.c
+work->_reserved
+E (%u) %s: Invalid optional message length %d
+E (%u) %s: Failed to get Light LC transition time
+E (%u) %s: Invalid Transaction Number of Steps 0x3f
+E (%u) %s: Too small publication msg size %d, model id 0x%04x
+bt_mesh_update_binding_state
+E (%u) %s: Invalid Generic OnOff Server, model id 0x%04x
+E (%u) %s: Invalid Generic Level Server, model id 0x%04x
+E (%u) %s: Invalid Generic Power OnOff Server, model id 0x%04x
+E (%u) %s: Invalid Generic Power Level Server, model id 0x%04x
+E (%u) %s: Invalid Light Lightness Server, model id 0x%04x
+E (%u) %s: Invalid Light CTL Server, model id 0x%04x
+E (%u) %s: Invalid Light CTL Temperature Server, model id 0x%04x
+E (%u) %s: Invalid Light HSL Server, model id 0x%04x
+E (%u) %s: Invalid Light HSL Hue Server, model id 0x%04x
+E (%u) %s: Invalid Light HSL Saturation Server, model id 0x%04x
+E (%u) %s: Invalid Light xyL Server, model id 0x%04x
+E (%u) %s: Invalid Light LC Server, model id 0x%04x
+E (%u) %s: Invalid Light LC Server state
+W (%u) %s: Unknown binding state type 0x%02x
+generic_onoff_work_handler
+generic_level_work_handler
+generic_power_level_work_handler
+light_lightness_actual_work_handler
+light_lightness_linear_work_handler
+light_ctl_work_handler
+light_ctl_temp_work_handler
+light_hsl_work_handler
+light_hsl_hue_work_handler
+light_hsl_sat_work_handler
+light_xyl_work_handler
+light_lc_work_handler
+scene_recall_work_handler
+Bsend_time_status
+time_get
+time_set
+send_scene_status
+send_scene_register_status
+scene_get
+scene_publish
+scene_recall
+scene_action
+send_scheduler_act_status
+scheduler_get
+scheduler_act_set
+E (%u) %s: Invalid Scene state
+E (%u) %s: Invalid Scene value, index %d
+E (%u) %s: Invalid Scene number 0x0000
+W (%u) %s: Scene Register is full!
+W (%u) %s: Scene Number 0x%04x not exists
+E (%u) %s: Scene Server not present in the element
+E (%u) %s: Invalid Scene Server user data
+W (%u) %s: Different Scene state in Scene Server & Scene Setup Server
+E (%u) %s: Unknown Scene setup action opcode 0x%04x
+W (%u) %s: Unknown Scene Get opcode 0x%04x
+E (%u) %s: Invalid Scene Number 0x0000
+W (%u) %s: Scene Setup Server not on the Primary element
+E (%u) %s: Scene Server has no publication support
+W (%u) %s: Scene Server not on the Primary element
+W (%u) %s: Scene Setup Server not present
+E (%u) %s: Invalid Scheduler Register year 0x%02x
+E (%u) %s: Invalid Scheduler Register hour 0x%02x
+E (%u) %s: Invalid Scheduler Register action 0x%02x
+E (%u) %s: Invalid Scheduler Register Entry index 0x%02x
+W (%u) %s: Unknown Scheduler Get opcode 0x%04x
+W (%u) %s: Scheduler Setup Server not on the Primary element
+E (%u) %s: Scheduler Server has no publication support
+W (%u) %s: Scheduler Server not on the Primary element
+W (%u) %s: Scheduler Setup Server not present
+W (%u) %s: Time Server not present
+W (%u) %s: Too large scene register status
+E (%u) %s: Invalid Scheduler Server, model id 0x%04x
+W (%u) %s: Unknown Time status opcode 0x%04x
+E (%u) %s: Invalid Time Server state
+E (%u) %s: Invalid Time Setup Server state
+E (%u) %s: Invalid Time Server, model id 0x%04x
+E (%u) %s: Invalid Time Status length %d
+W (%u) %s: Unknown Time Get opcode 0x%04x
+E (%u) %s: Invalid Time Scene Server user data, model id 0x%04x
+E (%u) %s: Invalid Scene State
+W (%u) %s: Unknown Time Scene Server, model id 0x%04x
+E (%u) %s: Invalid Time State
+E (%u) %s: Invalid Scheduler State
+E (%u) %s: Invalid Register Schedule
+E (%u) %s: Invalid Padding value 1
+E (%u) %s: Invalid Time Role 0x%02x
+E (%u) %s: Unknown Time Set opcode 0x%04x
+E (%u) %s: Time Server has no publication support
+W (%u) %s: Time Setup Server not present
+Bbta_dm_disable
+bta_dm_remove_sec_dev_entry
+bta_dm_ble_observe
+bta_dm_ble_scan
+bta_dm_ble_set_data_length
+bta_dm_ble_broadcast
+bta_dm_enable
+bta_dm_ble_read_adv_tx_power
+bta_dm_read_rssi
+bta_dm_new_link_key_cback
+bta_dm_acl_change
+bta_dm_set_encryption
+bta_dm_ble_set_scan_fil_params
+bta_dm_ble_set_adv_params_all
+bta_dm_ble_set_data_length
+E (%u) %s: %s max active connection reached, no resources
+W (%u) %s: bta_dm_acl_link_stat: invalid event %d
+E (%u) %s: BTA_DM: Error adding BLE Device for device %08x%04x
+E (%u) %s: BTA_DM: Error adding BLE Key for device %08x%04x
+E (%u) %s: BTA_DM: Error adding device %08x%04x
+W (%u) %s:  %s start observe failed. status=0x%x
+W (%u) %s:  %s stop observe failed, status=0x%x
+E (%u) %s: %s(), the callback function can't be NULL.
+W (%u) %s:  %s start scan failed. status=0x%x
+W (%u) %s:  %s stop scan failed, status=0x%x
+E (%u) %s: %s(), fail to set ble adv params.
+E (%u) %s: %s error: Invalid connection remote_bda.
+E (%u) %s: Invalid random adress type = %d
+E (%u) %s: %s(), fail to set scan params.
+E (%u) %s: Invalid BTA event,can't stop the BLE adverting
+E (%u) %s: Update connection parameters failed!
+W (%u) %s: [%d]: state:%d, info:x%x, avoid_rs %d
+E (%u) %s: unknown device, remove ACL failed
+E (%u) %s: delete device from security database failed.
+W (%u) %s: %s BTA_DISABLE_DELAY set to %d ms
+W (%u) %s: %s Device already started by another application
+W (%u) %s: %s() Received AMP Key
+E (%u) %s:  %s Device does not exist in DB
+W (%u) %s: bta_dm_rs_cback:%d
+E (%u) %s: bta_dm_set_encryption callback is not provided
+E (%u) %s: earlier enc was not done for same device
+E (%u) %s: %s, not find peer_bdaddr or peer_bdaddr connection state error
+<bta_gattc_init_bk_conn
+bta_gattc_free_command_data
+bta_gattc_process_srvc_chg_ind
+bta_gattc_process_indicate
+E (%u) %s: bta_gattc_cancel_bk_conn failed
+BE (%u) %s: bta_gattc_cmpl_cback unknown conn_id =  %d, ignore data
+E (%u) %s: bta_gattc_confirm to handle [0x%04x] failed
+W (%u) %s: gattc_conn_cb: if=%d st=%d id=%d rsn=0x%x
+W (%u) %s: gattc_conn_cb: conn params not found
+E (%u) %s: Deregister Failed unknown client cif
+E (%u) %s: not enabled or disable in pogress
+E (%u) %s: operation not supported at current state [%d]
+p_clcb->p_cmd_list
+/IDF/components/bt/host/bluedroid/bta/gatt/bta_gattc_act.c
+E (%u) %s: %s unable to connect to remote bd_addr:%02x:%02x:%02x:%02x:%02x:%02x
+E (%u) %s: bta_gattc_init_clcb_conn ERROR: not a connected device
+E (%u) %s: bta_gattc_listen failed, unknown client_if: %d
+E (%u) %s: Listen failure
+E (%u) %s: unexpected operation, ignored
+E (%u) %s: No pending command
+E (%u) %s: expect op:(%u :0x%04x), receive unexpected operation (%u).
+E (%u) %s: Connection open failure
+E (%u) %s: Connection already opened. wrong state
+E (%u) %s: No resources to open a new connection.
+E (%u) %s: bta_gattc_process_api_open Failed, unknown client_if: %d
+E (%u) %s: No such connection need to be cancelled
+E (%u) %s: %s indication/notif for unknown app
+E (%u) %s: %s indication/notif for unregistered app
+E (%u) %s: %s indication/notif for unknown device, ignore
+E (%u) %s: %s: received malformed service changed indication, skipping
+E (%u) %s: Register with GATT stack failed.
+E (%u) %s: discovery on server failed
+E (%u) %s: unknown device, can not start discovery
+E (%u) %s: Unable to start app.: Unknown interface =%d
+E (%u) %s: service change write ccc failed
+bta_gatts_indicate_handle
+bta_gatts_show_local_database
+bta_gatts_conn_cback
+E (%u) %s: GATTS not enabled
+E (%u) %s: bta_gatts_cancel_open failed for open request
+BE (%u) %s: bta_gatts_close fail conn_id=%d
+E (%u) %s: Unknown connection ID: %d
+W (%u) %s: %s not found connection parameters of the device 
+E (%u) %s: bta_gatts_conn_cback server_if=%d not found
+E (%u) %s: service creation failed.
+E (%u) %s: Application not registered
+E (%u) %s: application not registered.
+E (%u) %s: BTA GATTS NV register failed.
+E (%u) %s: Unknown connection ID: %d fail sending notification
+E (%u) %s: %s, malloc failed
+E (%u) %s: %s, incorrect length
+E (%u) %s: Not an registered servce attribute ID: 0x%04x
+E (%u) %s: Unknown GATTS application
+E (%u) %s: bta_gatts_listen Listen failed
+E (%u) %s: Inavlide server_if=%d
+E (%u) %s: application already registered.
+E (%u) %s: connection request on gatt_if[%d] is not interested
+E (%u) %s: request received on unknown connection ID: %d
+E (%u) %s: Sending response failed
+BE (%u) %s: Controller does not support get energy info
+E (%u) %s: BTM_BleGetEnergyInfo status: %d
+E (%u) %s: wrong length for btm_ble_cont_energy_cmpl_cback
+set_adv_data
+bt_le_adv_start
+bt_le_adv_stop
+bt_le_scan_stop
+E (%u) %s: Invalid adv parameters
+E (%u) %s: Failed to set adv data
+E (%u) %s: Failed to set scan rsp data
+E (%u) %s: %s, Invalid status %d
+adv_send
+adv_thread
+bt_mesh_unref_buf_from_pool
+bt_mesh_adv_buf_ref_debug
+bt_mesh_adv_send
+bt_mesh_adv_init
+E (%u) %s: Start advertising failed: err %d
+W (%u) %s: Failed to send adv packet
+E (%u) %s: Stop advertising failed: err %d
+E (%u) %s: Unexpected ref %d in %s, expect to equal to %d
+E (%u) %s: Unexpected ref %d in %s, expect to smaller than %d
+W (%u) %s: Refusing to allocate buffer while suspended
+adv_queue.handle
+/IDF/components/bt/esp_ble_mesh/mesh_core/adv.c
+mesh_adv_task
+ret == ( ( BaseType_t ) 1 )
+E (%u) %s: Invalid adv queue
+E (%u) %s: Failed to send item to adv queue back
+adv_buf_pool
+<E (%u) %s: Out of beacon buffer
+BE (%u) %s: Unknown Device Property ID 0x%04x
+6c|w{
+Funcs table create fails
+Config struct mismatch: magic=%08x, ver=%08x
+Hardware Target Code Invalid: 0x%x
+Invalid scan backoff upperlimitmax: 0x%x
+Default Tx Power Invalid: 0x%x
+RWIP Heap alloc: ENV [%p %d], MSG [%p %d], NORET [%p %d], DB [%p %d]
+Uart ENV [%p], VHCI ENV [%p]
+btController
+BD_ADDR: %02X:%02X:%02X:%02X:%02X:%02X
+EM_ET_OFFSET: 0x%08x, EM_ET_END: 0x%08x
+EM_FT_OFFSET: 0x%08x, EM_FT_END: 0x%08x
+EM_RF_SW_SPI_OFFSET: 0x%08x, EM_RF_SW_SPI_END: 0x%08x
+EM_RF_HW_SPI_OFFSET: 0x%08x, EM_RF_HW_SPI_END: 0x%08x
+EM_ENC_OFFSET: 0x%08x, EM_ENC_END: 0x%08x
+EM_BLE_OFFSET: 0x%08x, EM_BLE_END: 0x%08x
+EM_BLE_CS_OFFSET: 0x%08x, EM_BLE_CS_END: 0x%08x
+EM_BLE_WL_OFFSET: 0x%08x, EM_BLE_WL_END: 0x%08x
+EM_BLE_RAL_OFFSET: 0x%08x, EM_BLE_RAL_END: 0x%08x
+EM_BLE_RX_DESC_OFFSET: 0x%08x, EM_BLE_RX_DESC_END: 0x%08x
+EM_BLE_TX_DESC_OFFSET: 0x%08x, EM_BLE_TX_DESC_END: 0x%08x
+EM_BLE_LLCPTXBUF_OFFSET: 0x%08x, EM_BLE_LLCPTXBUF_END: 0x%08x
+EM_BLE_ADVEXTHDRTXBUF_OFFSET: 0x%08x, EM_BLE_ADVEXTHDRTXBUF_END: 0x%08x
+EM_BLE_ADVDATATXBUF_OFFSET: 0x%08x, EM_BLE_ADVDATATXBUF_END: 0x%08x
+EM_BLE_AUXCONNECTREQTXBUF_OFFSET: 0x%08x, EM_BLE_AUXCONNECTREQTXBUF_END: 0x%08x
+EM_BLE_DATARXBUF_OFFSET: 0x%08x, EM_BLE_DATARXBUF_END: 0x%08x
+EM_BLE_ACLTXBUF_OFFSET: 0x%08x, EM_BLE_ACLTXBUF_END: 0x%08x
+H4TL EIF not registered
+arch_main.c
+set <reg_force_usecswinsz> for phasematchp reg
+clear <reg_force_usecswinsz> for phasematchp reg
+set rfrxtmda2 %d, set rfrxtmda3 %d
+MAGIC %08x VERSION %08x
+HLI Magic mismatch: %08x, %08x
+HLI Version mismatch: %08x, %08x
+intc.c
+@NS8@
+@&R8@8
+@jS8@
+@&J8@
+@DY8@H
+@\d8@
+@X98@H
+@T?8@T
+B8@LC8@z
+BvO8@BH8@zH8@`
+BX98@
+B&J8@
+]8@~\
+88@0g8@
+f8@|e8@^_8@D98@N98@T_8@
+X8@`T8@r
+Q8@&R8@
+Bllc_con_upd.c
+llc_llcp.c
+Bllc_phy_upd.c
+lld_adv.c
+lld_con.c
+lld.c
+RX MAX LENGTH %d
+lld_per_adv.c
+lld_scan.c
+lld_test.c
+llm_adv.c
+llm_hci.c
+Bllm_init.c
+llm_scan.c
+^8@l^8@
+BNVDSNVDS MAGIC FAILED
+nvds.c
+OSI Magic mismatch: %08x
+OSI Version mismatch: %08x
+B4j8@ti8@p
+@`i8@Vi8@ji8@
+68@Lx
+i8@Vj8@rj8@
+j8@r_rw_rf_init
+%s initialise RF LC Todd
+rf_txpwr.c
+?rwble.c
+rwip_driver.c
+sch_plan.c
+h8@sch_prog.c
+Send Queue Failed
+VHCI: Packet length not supported
+VHCI: Controller is not run
+vhci.c
+%s %d
+emi.c
+EM ET %04x, %p, len %d
+EM CS %04x, %p, len %d
+EM WL/RAL %04x, %p, len %d
+EM RXDESC %04x, %p, len %d
+EM TXDESC %04x, %p, len %d
+EM LLCP TX BUFFER %04x, %p, len %d
+EM ADV EXT HDR TX BUFFER %04x, %p, len %d
+EM ADV DATA TX BUFFER[%d] %04x, NULL, len %d
+EM AUX CONNECT REQ TX BUFFER %04x, %p, len %d
+EM DATA RX BUFFER[%d] %04x, %p, len %d
+EM ACL TX STATIC BUFFER[%d] %04x, %p, len %d
+EM ACL TX DYNAMIC BUFFER[%d] %04x, NULL, len %d
+FINAL EM IDX %d,
+BBL6B
+ke_task.c
+CHK: ACT %d, CONN mst %d, intv %d, ce %d, latency %d
+CHK: st %d sleep %d
+UNSLP2
+esp_efuse_rtc_calib_get_init_code
+version == 1
+/IDF/components/efuse/esp32c3/esp_efuse_rtc_calib.c
+atten < 4
+init_code_size == 10
+esp_efuse_read_field_blob(init_code_efuse, &init_code, init_code_size)
+IDF/components/efuse/esp32c3/esp_efuse_rtc_calib.c
+esp_efuse_utility_process
+esp_efuse_utility_read_reg
+efuse
+E (%u) %s: Range of data does not match the coding scheme
+bits_counter <= req_size
+blk >= 0 && blk < EFUSE_BLK_MAX
+/IDF/components/efuse/src/esp_efuse_utility.c
+num_reg <= (range_read_addr_blocks[blk].end - range_read_addr_blocks[blk].start) / sizeof(uint32_t)
+E (%u) %s: Error in EFUSE_RD_REPEAT_DATA%d_REG of BLOCK0 (error_reg=0x%08x, data_reg=0x%08x). Need to reboot
+gdma_new_channel
+gdma_del_channel
+gdma_get_channel_id
+gdma_connect
+gdma_disconnect
+gdma_set_transfer_ability
+gdma_start
+gdma_new_channel
+gdma_release_group_handle
+gdma_release_pair_handle
+E (%u) %s: %s(%d): channel is using by peripheral: %d
+E (%u) %s: %s(%d): peripheral %d is already used by another channel
+E (%u) %s: %s(%d): no peripheral is connected to the channel
+E (%u) %s: %s(%d): invalid argument
+E (%u) %s: %s(%d): no mem for gdma tx channel
+E (%u) %s: %s(%d): no mem for gdma rx channel
+E (%u) %s: %s(%d): invalid sibling channel
+E (%u) %s: %s(%d): sibling channel should have a different direction
+E (%u) %s: %s(%d): no mem for group(%d)
+E (%u) %s: %s(%d): no mem for pair(%d,%d)
+E (%u) %s: %s(%d): no free gdma channel, search code=%d
+pair && group
+s_platform.groups[group_id]
+/IDF/components/driver/gdma.c
+group->pairs[pair_id]
+E (%u) %s: %s(%d): invalid sram alignment: %zu
+esp_core_dump_get_user_ram_info
+start != ((void *)0)
+/IDF/components/espcoredump/src/core_dump_common.c
+esp_core_dump_image_check
+checksum_size <= 32
+/IDF/components/espcoredump/src/core_dump_flash.c
+Calculated checksum
+Image checksum
+elf_write_file_header
+elf_write_segment_header
+elf_add_segment
+elf_write_note
+elf_add_note
+elf_process_note_segment
+elf_process_tasks_regs
+elf_save_task
+elf_write_tasks_data
+elf_write_core_dump_user_data
+elf_write_core_dump_info
+esp_core_dump_do_write_elf_pass
+esp_core_dump_write_elf
+ESP_CORE_DUMP_INFO
+EXTRA_INFO
+esp_core_dump_get_stack
+stk_paddr != ((void *)0) && stk_vaddr != ((void *)0)
+/IDF/components/espcoredump/src/port/riscv/core_dump_port.c
+esp_core_dump_checksum_update
+esp_core_dump_checksum_finish
+esp_core_dump_print_checksum
+cks_ctx != ((void *)0) || chs_ptr == ((void *)0)
+cks_ctx
+/IDF/components/espcoredump/src/core_dump_checksum.c
+checksum != ((void *)0)
+esp_phy_load_cal_data_from_nvs
+load_cal_data_from_nvs_handle
+store_cal_data_to_nvs_handle
+esp_phy_load_cal_and_init
+E (%u) %s: failed to allocate memory for RF calibration data
+phy_init
+E (%u) %s: %s: NVS has not been initialized. Call nvs_flash_init before starting WiFi/BT.
+cal_version
+cal_mac
+esp_efuse_mac_get_default(sta_mac)
+IDF/components/esp_phy/src/phy_init.c
+E (%u) %s: %s: calibration data MAC check failed: expected %02x:%02x:%02x:%02x:%02x:%02x, found %02x:%02x:%02x:%02x:%02x:%02x
+cal_data
+E (%u) %s: %s: failed to get cal_data(0x%x)
+E (%u) %s: %s: store calibration data failed(0x%x)
+E (%u) %s: %s: store calibration mac failed(0x%x)
+E (%u) %s: %s: store calibration version failed(0x%x)
+E (%u) %s: %s: store calibration nvs commit failed(0x%x)
+PPPLLHLHHDJFFB
+esp_crosscore_int_init
+esp_crosscore_int_send
+IDF/components/esp_system/crosscore_int.c
+core_id<portNUM_PROCESSORS
+/IDF/components/esp_system/crosscore_int.c
+smartconfig
+ESPNOW
+%02x 
+W (%u) %s: %s
+D (%u) %s: %s
+V (%u) %s: %s
+I (%u) %s: %s
+esp_aes_intr_alloc
+esp_aes_process_dma
+E (%u) %s: Failed to allocate AES interrupt %d
+op_complete_sem != NULL
+len > 0
+/IDF/components/mbedtls/port/aes/dma/esp_aes.c
+stream_bytes == 0 || stream_out != NULL
+esp-aes
+E (%u) %s: Failed to allocate memory
+E (%u) %s: esp_aes_dma_start failed, no DMA channel available
+E (%u) %s: Timed out waiting for completion of AES Interrupt
+E (%u) %s: No AES context supplied
+E (%u) %s: No input supplied
+E (%u) %s: No output supplied
+esp-sha
+E (%u) %s: SHA DMA buf_len cannot exceed max size for a single block
+E (%u) %s: Failed to allocate buf memory
+E (%u) %s: esp_sha_dma_start failed, no DMA channel available
+crypto_shared_gdma
+E (%u) %s: Failed to acquire DMA channel, Err=%d
+coexist adapter function is NULL
+coexist adapter function version error! Version %x is expected, but it is %x
+coexist adapter function magic error! Magic %x is expected, but it is %x
+coexist rom version %s
+17:32:36
+Jan 24 2024
+5cf6ebc
+libbtbb version: %s, %s, %s
+St9exception
+<St9bad_alloc
+<N9__gnu_cxx24__concurrence_lock_errorE
+<N9__gnu_cxx26__concurrence_unlock_errorE
+B__gnu_cxx::__concurrence_lock_error
+__gnu_cxx::__concurrence_unlock_error
+++CCUNG
+Bstd::bad_alloc
+basic_string::substr
+%s: __pos (which is %zu) > this->size() (which is %zu)
+basic_string::_M_replace
+basic_string::append
+basic_string::replace
+basic_string::_M_create
+basic_string::basic_string
+St17bad_function_call
+Bbad_function_call
+St11logic_error
+<St12length_error
+<St12out_of_range
+Bbasic_string::_S_construct null not valid
+basic_string::_S_create
+0123456789
+not enough space for format expansion (Please submit full bug report at https://gcc.gnu.org/bugs/):
+         (((((                  
+AAAAAA
+BBBBBB
+inity
+B                0000000000000000INF
+0123456789ABCDEF
+B                0000000000000000Infinity
+REENT malloc succeeded
+/builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/dtoa.c
+Balloc succeeded
+?aCoc
+@/builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/gdtoa-gethex.c
+ASCII
+ASCII
+POSIX
+u/builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/mprec.c
+                0000000000000000
+B                0000000000000000
+8@x,8@
+18@n6
+08@208@d08@
+<<<<P
+8@Stack smashing protect failure!
+CPU 0
+CPU 1
+CPU 0/1
+Tasks currently running:
+llcp prog: %u %u %u %u %u
+llcp check: %u %u %u %u %u
+IRQ FIFO OVERFLOW
+IRQ FIFO ALMOST FULL,cnt:%u,rem:%u
+DIAG0~1:%08x,%08x
+BB DIAG0~5:%08x,%08x,%08x,%08x,%08x,%08x
+EM BASE ERR:%02x
+FSMERR:%08x
+nb_prog:%x
+et:%d,st:%x
+esp_core_dump_common
+E (%u) %s: Core dump write binary failed with error=%d
+esp_core_dump_flash
+E (%u) %s: No core dump partition found!
+E (%u) %s: Failed to write cached data to flash (%d)!
+E (%u) %s: Failed to write data to flash (%d)!
+E (%u) %s: Not enough space to save core dump!
+E (%u) %s: Failed to erase flash (%d)!
+E (%u) %s: Failed to flush cached data to flash (%d)!
+E (%u) %s: Failed to flush cached data to flash (%d)!
+E (%u) %s: Core dump flash config is corrupted! CRC=0x%x instead of 0x%x
+E (%u) %s: Invalid flash partition config!
+E (%u) %s: Failed to read data from core dump (%d)!
+E (%u) %s: Failed to read checksum from core dump (%d)!
+E (%u) %s: Core dump data check failed:
+E (%u) %s: No core dump partition found!
+E (%u) %s: Too small core dump partition!
+E (%u) %s: Failed to read core dump data size (%d)!
+E (%u) %s: Incorrect size of core dump image: %d
+esp_core_dump_elf
+E (%u) %s: %s(%u): Write ELF header failure (%d)
+E (%u) %s: %s(%u): Write ELF segment header failure (%d)
+E (%u) %s: %s(%u): Invalid data for segment.
+E (%u) %s: %s(%u): Write ELF segment data failure (%d)
+E (%u) %s: %s(%u): Write ELF segment data failure (%d)
+E (%u) %s: %s(%u): Segment note name is too long %d.
+E (%u) %s: %s(%u): Write ELF note header failure (%d)
+E (%u) %s: %s(%u): Write ELF note name failure (%d)
+E (%u) %s: %s(%u): Write ELF note data failure (%d)
+E (%u) %s: %s(%u): Invalid data pointer for segment
+E (%u) %s: %s(%u): Write ELF note data failure, returned (%d)
+E (%u) %s: Zero size register dump for task 0x%x!
+E (%u) %s: Task (TCB:%x) processing failure = %d
+E (%u) %s: Task (TCB:%x), (Stack:%x), stack processing failure = %d.
+E (%u) %s: %s(%u): NOTE segment header write failure, returned (%d).
+E (%u) %s: %s(%u): Task %x, PR_STATUS write failed, return (%d).
+E (%u) %s: %s(%u): Task %x, PR_STATUS write failed, return (%d).
+E (%u) %s: %s(%u): Task %x, PR_STATUS write failed, return (%d).
+E (%u) %s: %s(%u): Task %x, PR_STATUS write failed, return (%d).
+E (%u) %s: %s(%u): PR_STATUS note segment processing failure, returned(%d).
+E (%u) %s: %s(%u): Task %x, TCB write failed, return (%d).
+E (%u) %s: %s(%u): Task %x, stack write failed, return (%d).
+E (%u) %s: %s(%u): Tasks regs addition failed, return (%d).
+E (%u) %s: %s(%u): Task %x, TCB write failed, return (%d).
+E (%u) %s: %s(%u): Interrupted task stack write failed, return (%d).
+E (%u) %s: %s(%u): invalid memory region
+E (%u) %s: %s(%u): memory region write failed. Returned (%d).
+E (%u) %s: %s(%u): Version info note write failed. Returned (%d).
+E (%u) %s: Zero size extra info!
+E (%u) %s: %s(%u): Extra info note write failed. Returned (%d).
+E (%u) %s: %s(%u): EXTRA_INFO note segment processing failure, returned(%d).
+E (%u) %s: %s(%u): ELF header writing error, returned (%d).
+E (%u) %s: %s(%u): ELF header writing error, returned (%d).
+E (%u) %s: %s(%u): ELF Size writing error, returned (%d).
+E (%u) %s: %s(%u): memory regions writing error, returned (%d).
+E (%u) %s: %s(%u): Version info writing failed. Returned (%d).
+E (%u) %s: %s(%u): Invalid input data.
+E (%u) %s: Failed to prepare core dump storage (%d)!
+E (%u) %s: Failed to start core dump (%d)!
+E (%u) %s: Failed to write core dump header (%d)!
+E (%u) %s: Failed to end core dump (%d)!
+esp_core_dump_port
+E (%u) %s: Too small stack to keep frame: %d bytes!
+esp_core_dump_checksum
+E (%u) %s: Empty data to add to checksum calculation!
+[%u] CO: init coex schm error!
+[%u] Error! Should enable WiFi modem sleep when both WiFi and Bluetooth are enabled!!!!!!
+[%u] CO: create semaphore error!
+[%u] No memory to allocate coexist osi funcs
+[%u] CO: create schm semaphore error!
+E (%u) %s: unsupported frequency configuration
+rtc_clk
+E (%u) %s: invalid frequency
+ESP_ERROR_CHECK
+%s failed: esp_err_t 0x%x
+ (%s)
+ at 0x%08x
+file: "%s" line %d
+func: %s
+expression: %s
+systimer_ll_set_alarm_period
+period < (1 << 26)
+IDF/components/hal/esp32c3/include/hal/systimer_ll.h
+abort() was called at PC 0x
+ on core 
+<cached disabled>
+assert failed: 
+17:32:21
+Jan 24 2024
+7c3c08f
+%d,%s,%s,%s
+%d,%d,%d
+error: pll_cal exceeds 2ms!!!
+index: %d value: 0x%x 0x%x 0x%x %d %d %d %d
+max_gain: %d
+temp=%d,%d,delta=%d
+correct_power=%d,temp=%d %d
+ulp:set=%d,init=%d
+%d, atten=%d, pwr=%d, %d, %d
+i=%02d  acc=%03d  tgt=%03d  err=%03d  ser=%03d att=%03d %d
+%d, %d; 
+reg_i=%d, indata=%d
+o_O?/
+o{kwgGc'EB#
+o_O?/
+%d,0x%x,%d, %d, power=%d, %d
+%d,0x%x,0x%x,%d, %d, power=%d, %d
+c@PG?82,
+%d_%d_%d
+ (%d,%d) 
+%d,%d 
+stage %d: CGAIN=%d FGAIN=%d, (%d,%d) %d; 
+%d, %d-%d, 
+total_pwr=%ld, min=%ld, max=%ld, rftx=0x%x, bb=0x%x, att=%d, dc_i=%d, dc_q=%d
+rxiq: rftx=0x%x, rfrx=x%x, att=%d, bb=0x%x, %d, %d
+memspi_host_erase_sector
+memspi_host_erase_block
+memspi_host_program_page
+start_address < 0x1000000
+/IDF/components/spi_flash/memspi_host_driver.c
+address + length <= 0x1000000
+E (%u) %s: no response
+memspi
+8@boya
+chip_generic
+spi_flash_chip_generic_get_write_protect
+8@out_write_protect!=NULL
+/IDF/components/spi_flash/spi_flash_chip_generic.c
+E (%u) %s: configure host io mode failed - unsupported
+E (%u) %s: No response from device when trying to retrieve Unique ID
+E (%u) %s: The flash you use doesn't support auto suspend, only 'XMC' is supported
+generic
+8@issi
+8@mxic
+8@chip_wb
+winbond
+$ 4s)
+GU!F3
+P2EEa
+IbJEa
+IbJEa
+XIcm'
+2E\Ac
+[&\Ia
+Gcyq"
+IbJEa
+Gcyq"
+TGXC#,
+@bD#"
+PbEEa
+A]GcV
+Aop Q
+K"LEa
+'lL#$
+IbJEa
+`lU0YtY8]|]
+VU77""#
+uu"35
+@"D#$
+ au7u
+PbT!a
+ !n75
+`zf2W
+PbT!a
+o`*v)Fo 
+`zc2G
+#$;O>
+I&J%a
+Y"Z!a
+P"TEa
+TBY!a
+J8H|Dc
+<<HxD
+fxL<Pc
+<xL<P
+KbL!a
+p@BMF
+JBKEa
+JBKEa
+p~MF,
+ `0rW
+Y"Z!a
+Y"Z!a
+*#,A)#(a)#.
+*# !+#.1)#&q)
+``1MF
+PbTbE
+PbTbE
+JFKea
+TBY!a
+DFI%a
+P"T"E
+PbTbE
+Y"Z!a
+Y"Z!a
+P@hrW
+PbTbE
+TBY!a
+IbJEa
+P"TbE
+P"TbE
+Y"Z!a
+Y"Z!a
+JFKea
+o0p~1qV
+["\aa
+0@,76
+DFI%a
+ p_76
+YbZaa
+ 0kLP
+IbJEa
+pii2E
+P"T"E
+#,A/7
+0# !1#.1/#*Q/
+pyxYq
+K&Lea
+P"TEa
+P"TEa
+Y"Z!a
+TEao`Y;
+`YorG
+DFI%a
+DFI%a
+PbTbE
+PbTbE
+PY=\H
+Py!2G
+@"D35
+PICrG
+Y"Z!a
+)q#$A
+K2E}VL
+@@HIo
+@FHIo
+`mHIA
+B}XaG
+@bD2E
+ yLD"D
+K"LEa
+P"TrEEa
+BGTHcPW
+BGLHc_W
+Pgw}U
+PGr}U
+P'b}U
+PGN}U
+LBM!a
+@ww}U
+f\GPF
+@GV}U
+@'@}U
+@g#}U
+Y"Z!a
+ppVcs
+0g$}U
+JBKEa
+P"TEa
+ 7KbE
+ w.7V
+TBY!a
+PbT2E
+P"T2EEa
+P2EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P2EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+P"T"EEa
+@bD2E
+P"T2EEa
+dA}Gcy
+\B]%a
+ZB[aa
+YbZaa
+Y]qtQ
+[b\%a
+JBKEa
+HDbD"G
+IbJEa
+YTE9q"
+JBKEa
+\EaWc
+IbJEa
+[b\%a
+pgX@c
+PbT!a
+\DyWc
+XY\DqWc
+[b\%a
+\B]%a
+o@p~oP 
+`@s% ~
+PbT!a
+0PbeF
+JBKEa
+TBY!a
+%8@7%8@
+[*\ia
+K"LEa
+PH# u
+IbJEa
+@bD# 
+DBI}U
+@bD# 
+DBI}U
+@bD# 
+DBI}U
+I}UEa
+I}UEa
+\AH@&
+"T"HbG
+K"LEa
+P2EEa
+G}Ucj
+Z2GcBw
+%8@#*
+DBI2J
+\D#"4
+@bD2ERI
+?768@
+0'|bD
+P\LLPc
+o GI-Gc
+@si35
+`&w}U
+`Fl}UE
+@3<35
+@S=35
+@fD%a
+@3635
+@fD%a
+@fD%a
+@C}35
+@cu35
+@#m35
+@Ce35
+@CO35
+0`3e%
+TEao@
+ao@P=
+0p3dD
+[b\%a
+0Su35
+[b\%a
+0Sm35
+ZB[aa
+0S-35
+03&35
+TBY!a
+`"2EIF,
+TBY!a
+P@QqF
+Pd2EIF,
+P"TEa
+0N2EIF,
+TBY!a
+F2EIF,
+TBY!a
+P=2EIF,
+TBY!a
+62EIF,
+TBY!a
+p/2EIF,
+TBY!a
+)2EIF,
+TBY!a
+!2EIF,
+oPC/7E
+G2W# 
+YMq#"
+ao &OQGc
+2FLPbD
+Y"Z!a
+2FL@u
+DbD2F
+2FL@=
+.#(!/#&1/#$A/#"Q/# a/#.q-#,
+PbT!a
+JBKEa
+JBKEa
+YbZaa
+RihD"D
+EoPR{
+aoPRz
+I.J-a
+JJKMa
+p{2F)
+K&Lea
+Gd9#.
+GD7#$
+-q#(!
+ #*$!-
+KbL!a
+ #*$!
+p%?bE
+J#.$G
+YbZaa
+Eaao`
+"\bZaao
+KbL!a
+IbJEa
+f#,$/#
+T##,4/
+Y"Z!a
+KbL!a
+t##"T#
+JBKEa
+TBY!a
+IfJea
+@%`35 
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+TBY!a
+ao0%d
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+D\Ac`
+ u[rG
+KXKAF
+o UJ}V
+%MEao
+P"TEa
+'D>#,
+0A0rG
+P"TEa
+K"LEa
+o0"YA
+@q935
+WdGqw
+t#,DK#.4K#
+IbJBK
+IbJEa
+iq# !
+GwK#&
+JBKEa
+@BI"J
+IbJBK
+TEao ?
+DBI"JN
+PbT!a
+G){%E
+IbJEa
+Y"Z!a
+'Dzcp
+o p+&
+JBKEa
+DBI"J
+K"LEao
+K"LEa
+K"LEao
+EEao 
+IIEEa
+@bD#.
+(#(!)#&1)*
+YbZaa
+TBY!a
+K"LEa
+ao@ !
+JBKEa
+#$A)7
+Y#(!)*
+#&1)#"Q)# a)#.
+#$A)7
+Y#(!)*
+#&1)#"Q)# a)#.
+ao00p
+aop`J
+IbJEa
+Y"Z!a
+IbJEa
+Y# !)#,A'
+(#.1'#*Q'#&
+(# !)#.1'*
+LDaF(
+LDaF(
+ao`p,
+p@."H
+ao`@y!G
+(#(!).
+#&1)6
+#$A)7
+#"Q)#(
+(#(!)#&1)# a)#.q'#*
+IbJEaoP
+IbJEao
+IbJEao
+IbJEa
+"F2Gc
+"F2G#
+#(!)7
+?#$A)>
+(#&1)#"Q)#.q'#&
+(# a)#,
+IbJEa
+Eop0^#
+ pV2G%
+DBI"J
+Y"Z!a
+  /zW
+%M>&Vc
+Y#(!)#$A)#"Q)*
+(#&1)#&
+(# a)#*
+?#(a+>
+,#,A+#$
+# !-#*Q+#"
+,#.1+#&q+# 
+#$A)7
+?#(!)
+#"Q)#.
+(#&1)# a)#.q'
+ !"|H
+ QXci
+YbZaa
+?#.1'
+(# !)
+(#(!)#&
+&\A#"Q)# a)#.
+(#$A)#.q'#,
+c>yq&
+P"TEa
+Y"Z!a
+P"TEa
+P"TEa
+FqEBG
+Eaao@
+EEao@
+IbJEa
+E"F)G#
+P"TEa
+P"TEa
+KbL!ao
+`{\@bT
+KbL!a
+[&\Ia
+JBKEa
+BY!ao 05
+E!ao 
+ P;"F
+BY!ao
+K"LEa
+K"LEa
+K"LEa
+YbZB[
+EEaop
+opcY#
+GT%}w
+IjJMa
+$9Eo@
+Eo0pn
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+ao00Q
+IbJEa
+iq# !
+0ck7D
+JFKea
+P"TEa
+TBY!a
+I&J%a
+DBI"J
+PLyq"
+@BI"J
+@.# 5
+TJY)a
+LIMcO
+#*%E}
+-G-Ec
+IbJEa
+cnyT}
+#g}T-
+o pD7
+@bD#"
+F2G#&%
+@bD35
+bD# 5
+LBM!a
+Ppo1E
+LEaoPP]
+aoPpH
+G"HBG#
+EaoPP!
+P"TEa
+K"LEaoPp
+K"LEa
+aoP`p
+aoP e
+IbJEaoP`
+IbJEa
+IbJEao@0|
+IbJEa
+ao@0d
+IbJEao@pX
+IbJEa
+ao@PG
+ao@p/
+Eo@ [7
+EIFcC
+@P#.$
+TEao@@.
+ao@@(
+ao0Px
+ao0po
+JBKEao0
+JBKEa
+JEao0
+JBKEao0PM
+JBKEa
+JEao0
+ao0P9
+IbJEa
+# !)7
+G#.1'#,A'#*Q'
+(# !)#,A'#&
+(#.1'.
+a2W"X
+TBY!a
+(#(!)#$A)#"Q)# a)
+#(!)2
+?#&1)
+*# !+#.1)>
+?#(!)2
+(#&1)6
+opR[!E
+TBY!a
+DBI"J
+$#(!%#$A%#"Q%# a%#.
+@AQF=
+`>qFLD
+YbZaa
+TBY!a
+Y"Z!a
+TBY!a
+Y"Z!a
+P"TEa
+# !)7
+(#.1'#,A'
+IfJea
+K2LEa
+Y"Z!a
+)q#$A
+:A#"T
+j@#$T
+(#(!)#$A)
+P"TEa
+G0XEc
+P"TEa
+TBY!a
+P"TEa
+TBY!a
+aFLD]
+ZB[aa
+EPEHA
+DFI%a
+DFI%a
+\@"DA
+K"LEa
+Y"Z!a
+YbZaa
+ZB[aa
+TBY!a
+TBY!a
+@<2FbD
+ZB[aa
+IbJEa
+KbL!ao
+LBM!a
+Y"Z!a
+!tawJ
+I&J%a
+I&J%a
+TBY!a
+IbJEa
+TBY!a
+TBY!a
+aopqh
+pQR5W
+pQIQW
+pQ?)Um
+p1<=Ua
+pq()U
+K"LEa
+\AyqJ
+bJEao
+DBI"J
+PbT!a
+`aN)U
+`A,QYe
+1K3Ue
+EEao`
+IbJEaop_
+`"T2H
+EEaoP
+IbJEa
+EEaoP
+IEaop_
+G"T2H
+EEaoP
+EEaoPqV
+IbJEaop
+2"T2H
+EEaoPqG
+IbJEa
+EEaoP
+JEaop
+EEaoP
+EEaoP
+JEaop
+EEaoP
+EEaoPa
+IbJEao`?
+]"T2H
+EEao@
+IbJEa
+@Q=)U
+@1/)T"
+EEao@
+JEaoP_
+x"T2H
+EEao@a
+EEao01Z
+TEaoP
+`,"T2H
+EEao01A
+Y"Z!a
+EEao0q
+TEaoP
+EEao0!p
+Y"Z!a
+ZB[aa
+ZB[aa
+}!g#(4
+ZB[aa
+ZB[aa
+EEao Ak
+IbJEao@O
+EEao aI
+IbJEa
+EEao !C
+IbJEao@
+EEao a
+IbJEa
+EEao 
+JEao0
+`U"T2H
+JEao0
+*"T2H
+JEao0
+JBKEa
+JBKEa
+JEao 
+Y"Z!a
+ZB[aa
+ZB[aa
+["\aa
+["\aa
+ZB[aa
+ZB[aa
+["\aa
+ZB[aa
+!bT2H
+ZB[aa
+JBKEao
+JBKEa
+@"D)UA
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+IbJEao
+IbJEa
+@))T"
+ZB[aa
+Yiq#$
+Yiq#$
+JBKEa
+Yiq#$
+Yiq#$
+Yiq#"
+)q#&1
+I'# a
+)q#&1
+` "D#
+G'c\Y
+P"TEa
+DBI"J
+DBI"J
+G'8W*
+@&Daa
+(# !)#.1'
+Y# !+#,A)#(a)*
+*#.1)#&q)#$
+#(!'#.
+YbZaa
+I&J%a
+&#(!'#.
+&#(!'.
+&XE#*
+&#(!'#&
+&\E#.
+Y# !)
+(#.1'>
+#$A)7
+YDE#,
+(#(!)#&1)#.
+(# !)#&
+(#.1'*
+(# !)*
+# !)7
+(#.1'*
+#,A'7
+(# !)#.1'
+&#(!'H
+Y# !+#.1)#,A).
+*#*Q)#(a)
+#(!'7
+&#(!'
+`%yq"
+P"TEa
+[b\%a
+ZB[aa
+@t)T"
+@bD"E
+OEao ^
+P"TEa
+ZB[aa
+ZJ[ia
+Sq]q&
+D5f7E
+XFPB*
+<758@
+[b\%a
+KbL!a
+IbJEa
+!jAG#
+KbL!a
+KbL!a
+P"T2E
+IbJEa
+JBKEa
+IbJEa
+JBKEa
+JBKEa
+ZB[aa
+P"T# 
+)q#(!
+IbJEa
+["\aa
+I!KcM
+ )rEc
+IbJEa
+IbJEa
+IbJEa
+["\aa
+7u8@A
+@"D35
+s&&:7
+s&&:7
+;s&':7
+s&&:7
+;s'7:s
+<ThTV
+IbJEa
+P&Tea
+$7w8@
+"7w8@
+&7w8@
+$7w8@
+@"D77
+@4\T7
+K"LEa
+E%O3U
+# !!#*Q
+`!fTW
+FG EG
+IbJEa
+"NcW>
+DBI"J
+WU3w'
+rORN#
+I&J%a
+IbJRK
+IbJ7%
+EsEao
+EBGRU
+ERGbU
+!G#.1
+3YYAB
+EbUuI
+ErW6M
+rY3YYA=
+D}Z5I<
+|\A"F
+o 0vo Pvo 
+@\A#"
+@T@cw
+JBKEa
+K"LEa
+F"F2G
+GbGrF
+FRGbH
+@"D#$
+K"LEa
+IbJEa
+LBM!a
+@.#,=!
+LBM!a
+"I2"G
+)q#&1
+&# !'
+&#.1%*
+&# !'#,A%#*Q%#(a%#&
+&#.1%*
+#.q%#,
+&#(!'#&1'#$A'#"Q'# a'#*
+V#(!W#&1W#$AW#"QW# aW#.qU#,
+?2G#&
+2#(!3
+2#&13#$A3#"Q3# a3#.q1#,
+=52G#&
+4#(!3#&13#$A3#"Q3# a3#.q1#,
+2#(!3#&13#$A3#"Q3# a3#.q1#,
+92G#&
+#(!?#&1?*
+>#$A?#"Q?# a?#.q=#,
+JBKEa
+IbJEa
+LBM!a
+KbL!a
+KbL!a
+QTDXHc
+m.|P#
+m&2El
+@uGci
+E=2El
+`U2El
+hHD@\X
+HLX#"
+P"Taa
+H\PTH
+@*DMa
+YGcCG
+WVGcH
+BeO3s
+GXG# 
+B# !C#.1A#,AA2
+B#*QA#(aA#&qA#$
+G"G# #
+\AcSP
+G*Y"G3
+.G# ]
+GrGAH
+#(!9#$A9#"Q9#.
+8#&19# a9#.q7#,
+P0)#(
+GXG# 
+B# !C#.1A#,AA
+B#*QA#(aA#&qA#$
+0p>\A>
+G"G# #
+.G# ]
+GrGAH
+mq# !
+rX"W7
+<rX"W
+89GcG
+1?!Fc
+EAMGcG
+IbJEa
+IbJEa
+NeN}_
+E%CeH
+GXG# 
+# !;#,A9#(a9#&
+:#.19#*Q9#&q9#$
+;Ac^p
+~"^rG
+@V<@#*
+K"LEa
+# !%#.1##*Q##&
+$#,A##(a##&q##$
+W,@cag
+ 1# D
+GXG# 
+#(!;#&1;#"Q;#.
+:#$A;# a;#.q9#,
+KAc^p
+mq# !
+rG!e}
+Y"Z!a
+@1Gcq
+\D1Gc~
+\X# $
+\X# 4
+Y"Z!a
+P`U\Yc
+P O\Uc
+2F\D"
+768@7
+`w\@8@
+u<@XD
+\\\"Fcn
+\\\cd
+@ E<A*
+Y"Z!a
+@@"<A*
+CXGXGXC
+00slI
+PbTbE
+PbT2E
+@TWeG
+@bD2E
+@bD2E
+ Py<H
+ 0o|Dc
+@bD2E
+JBKEa
+ A3u%
+P"TEa
+TBY!a
+JBKEa
+P"TEa
+TBY!a
+IbJEa
+\A9qN
+Y"Z!a
+\Ayq"
+\Ayq"
+\MAw}
+TrG#$
+PbT#$
+Y"Z!a
+LBM!a
+IbJEa
+IbJEa
+IbJEa
+LBM!a
+LBM!a
+!Gcug
+!K!Go
+ v\@aGX
+Y"Z!a
+Y"Z!a
+K"LEa
+[b\%a
+IbJEa
+JBKEa
+cdE37
+GbG2FrC*
+LPPXT\8H#
+Eo00D
+Dc~$O
+KbL!a
+mq# !
+ZB[aa
+KbL!a
+IbJEao
+IbJEa
+IbJEa
+EEaop
+K"LEa
+I&J%a
+I&J%a
+PbT!a
+PbT!a
+PbT!a
+IbJEa
+IbJEa
+IbJEa
+\UXAA
+I"J!E
+K*LMa
+@}Uaa
+K"LEaop
+EEao0
+K"LEa
+EEao`P0
+K"LEao
+lo0`joP@
+o` top
+ro`0_o`
+op0c77
+Lop0fop
+o@`SoPp\o@
+oP`oA
+XAXCc
+I\T"D
+JBKEa
+E%Eo0 }
+E!Eo0
+Eo0 |
+Eo0 {
+Eo0 z
+Eo0 yA
+DBI"J
+.DT"I
+IbJEa
+|\8\c
+|X0Xc
+|\8\c
+|X0Xc
+|\8\c
+'A37'
+JBKEa
+EEao0
+JBKEa
+TBY"Z
+K"LEa
+EaE#.
+@L\@7
+@LC7'
+K"LEa
+@bD#"9
+KTA#"
+IbJBK
+@"D#*
+IbJEa
+!rNbC
+D%F3W
+K"LEa
+LBM!a
+c# !!#,A
+`!fTW
+IbJEa
+@7G8@
+ 7G8@
+ 7G8@
+ 7G8@
+LBM!a
+3Z:AB
+IbJ7E
+WU3w'
+[b\%a
+LBM!a
+TBY!a
+IbJEa
+``rAF
+Y"Z!a
+YbZaa
+Y"Z!a
+YbZaa
+p@]#"
+IjJMa
+JBKEa
+G=Gcb
+@fD%a
+I&J%a
+IbJEa
+P"TEa
+PbT!a
+0`HYH<
+I&J%a
+I)Gcm
+\B]%a
+D# !E#.1C#,AC#*QC#(aC*
+@#"aC#(QA$
+B(D|A#*
+@#&1C#,!A
+B# !C#.1A#,AA#*QA*
+JFKea
+IfJea
+0K}Ty
+"# !##.1!*
+JFKea
+ #(!!#&1!#$A!
+(# !)*
+`5<D&
+IfJea
+IbJEa
+P"TEa
+@fD%a
+IbJEa
+.# !/#.1-#,A-
+YbZaa
+JBKEa
+K"LEa
+0c\\#&
+PTlL(L
+PHC8P
+0@v# 
+DBI!a
+K"LEa
+LBM!a
+Gr#(!
+B# !C#.1A#,AA
+B#*QA#(aA#&qA#$
+'o @}
+@A6#*
+wA#$q
+\AcPP
+:#(!9#$A9#"Q9#.
+8#&19# a9#.q7#,
+#(!;#&1;#"Q;#.
+:#$A;# a;#.q9#,
+KAc^p
+B# !C#.1A#,AA
+B#*QA#(aA#&qA#$
+Pe#"]
+wA#"q
+W'@#(
+Gr#"Q
+U%@# 
+TZ@#(a
+T$@# 
+# !;#,A9#(a9#&
+:#.19#*Q9#&q9#$
+;Ac^p
+%# !%#.1##*Q##&
+$#,A##(a##&q##$
+W,@cdg
+5#,=!
+&# !'
+&#.1%
+&# !'#,A%#*Q%#(a%#&
+&#.1%
+#.q%#,
+&#(!'#&1'#$A'#"Q'# a'#*
+'A9#$
+V#(!W#&1W#$AW#"QW# aW#.qU#,
+$A)#&
+2#(!3
+2#&13#$A3#"Q3# a3#.q1#,
+4#(!3#&13#$A3#"Q3# a3#.q1#,
+2#(!3#&13#$A3#"Q3# a3#.q1#,
+#(!?#&1?
+>#$A?#"Q?# a?#.q=#,
+K"LEa
+["\aa
+K"LEa
+JBKEa
+IbJEa
+IbJEa
+P"TEa
+XIcbG
+2G\Kc
+pPs\@
+ppi\@
+VU77""#
+`|L}w
+<Lqw}
+<Lyw}
+|Luw}
+LBM!a
+H-C9H
+YbZaa
+D!E# 
+pPNTU
+pp-cd
+DFI%a
+TBY!a
+\\\cu
+@T\8@3
+\\\cd
+P@%\D
+G=Gco
+7A#,4
+W\Tct
+KbL!a
+G\@cf
+XBLG!
+XCXGc
+TTxDc
+P"TEa
+ 0$9q
+JBKEa
+XAtGB
+@n}I3
+K"LEa
+P"TEa
+P"TEa
+P"TEa
+P"TEa
+RiR1;
+K"LEa
+P"TEa
+IbJEa
+E=Gc{
+JBKEa
+IbJEa
+PbT!a
+P"TEa
+IfJea
+Y"Z!a
+`=# D
+ 4# 4
+@&Daa
+Y"Z!a
+@&Daa
+@&Daa
+@&Daa
+JBKEa
+\E1Gcj
+ # !!*
+|U!Gc}
+PbT!a
+P"TEa
+IbJEa
+$?)Gcp
+AFyq"
+E1"}T"
+LBM!a
+Y"Zaa
+@TCXW
+I&J%a
+[!aoP
+IbJEa
+!>3EE
+a=3EE
+IbJEa
+\U9qN
+!aoPa^
+@!$bD
+QA"Fc
+Ud@# 
+K"LEa
+IbJEa
+H!Fc{
+\D!w}
+@}X@\C
+\AX@2F
+>\LAw}
+@"D35
+JBKEa
+LBM!a
+0@%G#
+MGcU'
+P"T35
+E46QE
+IbJEa
+``g2G
+ao 0r
+0hX35
+@(XlXc
+'?<\cY
+\B]%a
+P@Qc|
+E$?qE
+UD?uE
+JBKEa
+#"4'#
+IbJEa
+IbJEa
+\A# %
+@"D\K
+Y"Z!a
+Y"Z!a
+LBM!a
+`rX@\C
+G)Dcd
+IbJEa
+IbJEa
+N=Ocg
+Y"Z!a
+K&Lea
+["\aa
+K"LEa
+JBKEa
+JBKEa
+G2GBFbN*
+Eo000
+LBM!a
+!F9E#
+P0W|X
+P0S|X
+LBM!a
+Y"Z!a
+Y"Z!ao
+IbJEa
+PbT!a
+IbJEa
+IbJEa
+I"J!E
+o`` )N3
+o0`Eo0 Co@
+o0`>oP
+EoPpI
+oPPtoP0q
+o 0Vo 
+Xo PY
+o@P5A
+X@\TDC
+0 e\T
+<\T"D
+KbL!a
+PpDAE
+E%Eo 
+E!Eo 
+|X0Xc
+|X0Xc
+IbJEa
+AbG35
+Eaaop
+ 0B2G
+JBKEa
+JBKEa
+@bD#"9
+KTA#"
+K"LEa
+\Ayq&
+IbJEa
+IbJEa
+o0@0\K
+FI%ao
+J&J%ao
+[b\%a
+aq#*Q
+`QIbW%H
+JBKEa
+KbL!a
+K"LEa
+TrNbC
+D%F3W
+  ^bG
+# !!#*Q
+`!fTW
+n8@7n8@7c8@
+h8@7h8@
+e8@7v8@
+f8@7g8@
+@"D7w8@
+@7u8@
+(7u8@
+$7e8@
+"7u8@
+(7u8@
+FG EG
+3Z:AB
+IbJ7U
+WU3w'
+PTlL(L
+PHC8P
+@%}UI
+P!"DY
+DBI!a
+K"LEa
+JBKEa
+i!}U5
+LPHH@
+ZB[aa
+Eo pu6
+o p<c
+YAo pj
+o `?\H7
+o  -3
+Do  '
+Do  $
+Do  #\H7
+0|\H7
+o @U\H7
+pP\H7
+@l\H7
+ e\H7
+``\H7
+ ]\H7
+ I\H7
+PF\H7
+`b\H7
+@V\H7
+pv\H7
+DPD}U
+ h\H7
+ d\H7
+ `\H7
+ \\H7
+ X\H7
+`8}UI
+u!!G4
+YbZaa
+JBKEa
+IbJEa
+PpNcF
+JBKEa
+IbJEa
+@T@cw
+}.\A"F
+F"F2G
+GbGrF
+FRGbH
+M.U&7
+@\A#"
+@*DMa
+ l].2El
+@uGci
+ Y2El
+972El
+e52El
+hHD@\X
+HLX#"
+D]GcQ
+4A# $
+F%F)E
+G%F)E
+'A# +
+JBKEa
+gAc[P
+aoP ,A
+oP )9q&
+H\PTH
+w<@#*
+`?cfe
+@*DMa
+YGcCG
+ 0|VC
+WVGcH
+G]3t4
+G]3t4
+BeO3s
+@BrL#
+F"F<G
+%D)c\
+rX"W7
+<rX"W
+89GcG
+&I^"U
+1?!Fc
+EAMGcG
+IbJEa
+IbJEa
+B#(!+#&1+#$A+
+*#"Q+# a+#.
+*#.q)#,
+JBKEa
+rG!e}
+AiGcl
+K"LEa
+["\aa
+K"LEa
+JBKEa
+qDqEU
+DFI%a
+ E}Y9
+ =}Yy
+P0wc}
+IbJEa
+K"LEa
+A]GcV
+K"LEa
+uu"35
+VU77""#
+|Lqw}
+<Lyw}
+|Luw}
+LBM!a
+rORN#
+I&J%a
+JBKEa
+D!E# 
+|_qw}
+p@`cd
+JBKEa
+@ L\D
+TBY!a
+s8@\@
+IbJEa
+@T\8@3
+P ;9q
+Y"Z!a
+\\\cl
+@0s<D
+@Pi<A
+Y"Z!a
+G=Gco
+7A#,4
+W\Tct
+KbL!a
+G\@cf
+0 fcd
+0 WXT
+TTxDc
+P"TEa
+F7&8@
+XAtG6
+XC}U3
+K"LEa
+rmaker_creds
+\vclient_key
+;W(M-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEA5SXDUg9KQZqdOiYKlVTgD/tEilYanstm/jb4IeyPDcvVHTB1
+gM73v39awsFs6bhvgtVRojUofPMW5/aMVrFQZ5AqBILDzwgQj/8ISLGAFzIZb1/V
+3bXcu7S2Kl27vEtNb56A1EOhob93CwvSSdRL2YlVP4YMSLAD6MD0eg/MtU/EBtCw
+LjkRpnUKsyXLYXQHmKLDsIbSxTIsgIuMR7j28cmAHF26AJ1QFnhFjWThbiWRA6cm
+as0KN/3wPfgzdRL0lr4ApuQujz3BE+6qx8wRjyl6tSzhWE844foBkwgJfl9+zMQD
+Vc0wmrCQddUjSH/ocDy96uJ12br1Mkn9zVDMRwIDAQABAoIBAAkm6HWrEaqsG7J6
+WXrcYHSS8wpZZQfJlOv7Uw67zXzeEr1vNYo2+fMmiX/0zL5K9P0zOubxG5Rd+yC5
+mqJNw6nXOq5icKKgrlSp+XE50aVbhWOK3tZTkKTYk1v+0WQ0V7vpBzkzGE4HASCq
+ULRNK9hc4VA/sNboXMebiUgkwGbPXOpefTsfVs90SNE7U+aVJkvC27l6sW2u0S/S
+jz5mZ03BRpgR01k2WJwbTx1tJNIIuBK4q1D1OvrqUehf/H3SFEmHsGQEnACTEl1a
+AItz7/EEWIUgO3iy6vvNuayadUKIQLAj12YH1PMilUQ4jADSqLoepmKDdOgyBoN+
+2VjOrSECgYEA9IP8H6xifvUbK+P/StXZ1VP0b8YNSmfscHHV410SlFkTWQgV3t+o
+R3uarv7oosvhbniTn+6yo3U46hYY5rZzKNPFa2ZikJ6+RDdPfrDcPi4gSR145u2t
+qakcKzAAOnuFhixX0C6pHA+byyoUstwPU217255LrbZ+h3auVN3OgCECgYEA7+j+
+wb19xjTWl4JPz6DFlX+Xo4ssbICnNVHgWC8ZCh40h3q8yarKs8Pm6Bn58lR1tfBH
+aAGyo2Jz9mPvDyXANQk+tzfmTayEe03wmoOMkNQSxlqmLawSgR3mvV2v8h+auEhZ
+E1SYz3LSnc11AsyD/bsTYW1q4Ds0VuTL8PPPX2cCgYBVWHg5KfdbLvxj7nneShR1
+hI9OMEfVT77UZLduW78vboP1UIApwdE/2iHcsPbMU/OElquYaD2MFk9eTYY1iTta
+5cgDu8HtjqsErnWd1+eYAIueWZ4opI84J+HAJUn/H7w0X+fqr06xj7UmTbLZ1zu2
+OAHCX1c08/zoFYG195GrYQKBgQCTpIQDnyYkMKhPnXaYhIyUMG2VzDSOoa5Fdhnm
+qzVxsJ0LM1GzmlQcxVb5R+M2axv11+VZ8JGLUy+iVmXsoILlIMdj4hbtfloZuCF2
+Nbbv+lODlo3mVZsdstUpfNqm2yRQfNW0u78/C57qVmLIUix4ngSTVM8NJ+JSB4Qq
+ySC5yQKBgEL/vSaVHrQfqsKpJos4L/C/gvL+ZjWJpFlFI5VDFuvQZjhlSTXMcvzt
+s7JZjsxmyfcGgtPzvjDr1FZa3MJhFo6exXRkfCoO70kbtpAFh3KnskkOhq/sEF1L
+3V/tm6a84D/3MjWgAxEN+PTawVYZl0BvyacYIGDEiBIeinr4rvFX
+-----END RSA PRIVATE KEY-----
+client_key
+random
+_random
