@@ -1,0 +1,19 @@
+{
+  "Login": {
+    "user": "randy",
+    "CommonTransferUsers": ""
+  },
+  "Costos": {
+    "costo1": "10",
+    "costo2": "20",
+    "costo3": "50",
+    "costo4": "100"
+  },
+  "LocationActual": "Argentina",
+  "LocationRegister": "Argentina",
+  "AdmitedDevices": "",
+  "DispositivosBloqueados": "",
+  "Terminos": "Acepto los terminos y condiciones.",
+  "ShowTerms": "false",
+  "Mensaje": "OK"
+}
