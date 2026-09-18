@@ -1,0 +1,14 @@
+{
+  "HYTTAYTY": {
+    "estado": "disponible",
+    "email": null
+  },
+  "OTROCODIGO": {
+    "estado": "disponible",
+    "email": null
+  },
+  "CODIGOUSADO": {
+    "estado": "usado",
+    "email": "usuario@ejemplo.com"
+  }
+}
